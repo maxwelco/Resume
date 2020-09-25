@@ -1,0 +1,462 @@
+---
+output: 
+  pdf_document: 
+    latex_engine: pdflatex
+    template: ~/Dropbox/CV/CV_TEST.tex
+geometry: margin=1in 
+
+title: "Curriculum Vitae"
+author: "Maxwel Coura Oliveira, PhD" 
+
+jobtitle: "Postdoctoral Research Associate, University of Wisconsin-Madison"
+address: "1575 Linden Drive · Department of Agronomy · Madison, Wisconsin, USA 53706"
+fontawesome: yes
+email: max.oliveira@wisc.edu
+github: maxwelco
+twitter: maxwelco
+phone: "+1 402 580 6652"
+web: maxweeds.rbind.io
+#updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+# EDUCATION
+
+• *University of Nebraska-Lincoln*, Ph.D. Agronomy (Weed Science) \hfill December 2017
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, MSc. Weed Science \hfill July 2013
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, BSc. Agronomy \hfill July 2011                
+
+
+
+# PROFESSIONAL EXPERIENCE
+
+• *Professor*, [University of Western Sao Paulo](http://www.unoeste.br/) · Presidente Prudente · SP · Brazil February 2020       
+*Goal*: conduct innovative and collaborative research and teaching on biology, ecology and management of troublesome weeds in Western Sao Paulo. 
+
+• *Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · University of Wisconsin-Madison · Madison · WI · USA January 2018       
+*Goal*: conduct innovative and collaborative research and extension programming on biology, ecology and management of troublesome weeds in corn, soybeans and industrial hemp under Dr. Rodrigo Werle’s supervision
+
+
+• *Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) University of Nebraska-Lincoln, Lincoln · NE · USA  \hfil January, 2014 to December 2017            
+*Goal*: Doctoral research in Weed Biology and Ecology, Integrated Weed Management, Herbicide Resistance Evolution and Management, and Herbicide efficacy trials under Dr. Stevan Knezevic’s supervision
+
+• *Sales Management Trainee*, [TIMAC Agro](http://www.timacagro.com.br/) · Paragominas · PA · Brazil \hfill January to June 2013  
+*Goal*: Trained to be a supervisor of fertilizers sales team, talent acquisition, and marketing
+
+• *Graduate Research Assistant*, [Federal University of Jequitinhonha and Mucuri Valleys](http://www.ufvjm.edu.br/) · Diamantina · MG · Brazil \hfill July 2011 to December 2012  
+*Goal*: Masters research in weed Biology, competition, and integrated weed management under Dr. José Barbosa dos Santos’ supervision
+
+• *Undergraduate Senior Trainee*, [The Ohio Program](https://top.osu.edu/) · OH · USA 
+\hfill April 2010 to March 2011  
+*Goal*: farm hand in a vegetable farm in Michigan (USA) and greenhouse assistant in a hydroponic tomato greenhouse in New York, USA.
+
+• *Undergraduate Junior Trainee*, Pulveriza Fertilizers · Matipó · MG · Brazil \hfill July 2009  
+*Goal*: work in a industry of foliar fertilizers for corn, vegetables and coffee trees
+
+• *Coordinator*, [CREA Jr](https://junior.creadf.org.br/) · Diamantina · MG · Brazil \hfill January to December 2009  
+*Goal*: leading the club for mentoring students, connecting students to professional engineers, organizing seminars, prospective of new members 
+
+• *Undergraduate Intern*, [EMATER MG](http://www.emater.mg.gov.br/) · Santana do Paraíso · MG · Brazil \hfill July 2008 
+*Goal*: extension work with small vegetables growers
+
+\newpage
+
+# TEACHING EXPERIENCE
+
+• *University of Wisconsin-Madison*, Weeds Contest Prep Course \hfill Spring 2018
+
+
+• *University of Nebraska-Lincoln*, Invasive Plants Lab \hfill Spring 2016/2017 
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, Weed Manag Lab \hfill Spring 2011
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, Crop Improv Lab \hfill Spring/Fall 2009
+
+
+# VISITOR SCHOLAR 
+
+• *University of Illinois Urbana-Champaign* · IL · USA \hfill September 2017  
+Laboratory research on PPO resistance mechanism in *Amaranthus palmeri* from Nebraska under Dr. Pat Tranel’s supervision
+
+
+• *Colorado State University–Fort Collins* · CO · USA \hfill May 2017  
+Laboratory research on HPPD resistance mechanism in *Amaranthus tuberculatus* from Nebraska under Dr. Todd Gaines’ supervision
+
+
+• *Colorado State University–Fort Collins* · CO · USA \hfill September 2016  
+Laboratory research on herbicide physiology in *Amaranthus tuberculatus* from Nebraska under Dr. Franck Dayan’s supervision
+
+
+• *Federal University of Viçosa-Viçosa* · MG · Brazil \hfill August 2012 to December 2012   
+Field, laboratory, and greenhouse research with fate of herbicide in the soil, and integrated weed management under Dr. Antonio Alberto Silva’s supervision
+
+
+# ACADEMIC HONORS AND AWARDS
+
+• *North Central Weed Science Society Meeting*, Saint louis · MO · USA \hfill December 2017  
+1^st^ Place Outstanding Poster Presentation (Herbicide Resistance section)
+
+
+• *North Central Weed Science Society Weed Contest*, Ames · IA  · USA \hfill July 2017  
+1^st^ Place Graduate Team and 1^st^ Place Overall Individual Herbicide ID
+
+
+• *University of Nebraska-Lincoln*, Lincoln · NE · USA \hfill March 2017  
+Travel Grant ($400) to attend the 2017 Global Herbicide Resistant Conference
+
+
+• *North Central Weed Science Society Weed Contest*, West Laffayete · USA \hfill July 2016  
+3^rd^ Place Graduate Team
+
+
+• *Weed Science Society of America Meeting*, San Juan · PR \hfill February 2015  
+1^st^ Place Outstanding Poster Presentation (Weed Biology section)
+
+
+• *Western Weed Science Society Weed Contest*, Columbus · OH · USA \hfill July 2015  
+3^rd^ Place Graduate Team and 3^rd^ Place Overall Individual Graduate
+
+
+• *Mayrink Vieira High School Science Fair*, Ipatinga · MG · BRA \hfill September 2002  
+Outstanding team project “Batteries and electrolysis”
+
+
+• *Mayrink Vieira High School Science Fair*, Ipatinga · MG · BRA \hfill September 2001  
+Outstanding team project “Cell organelles”
+
+\newpage
+
+# PROFESSIONAL SOCIETY MEMBERSHIPS
+
+• Weed Science Society of America
+
+• North Central Weed Science Society
+
+# MANUSCRIPTS IN PREPARATION 
+
+• **Oliveira MC**, Butts T, Conley S, and Werle R. Tolerance of US Midwest Soybean Cultivars to Preemergent Applications of Metribuzin and Sulfentrazone. Target Journal: *Weed Technology*
+
+• **Oliveira MC**, Giacomini D, Tranel P, and Werle R. Molecular and greenhouse validation of field evolved resistance to glyphosate and PPO-inhibitors in Nebraska. Target Journal: *Pest Management Science*
+
+• Werle R, **Oliveira MC**, and Butts L (2019) Combining herbicide programs and cereal rye cover crop for integrated weed management in soybeans. Target Journal: *Agriculture*, invited submission for special issue entitled: “Cover Crops”
+
+
+• Smith D, **Oliveira MC**, Davis V, and Werle R. (2019) Herbicide carryover evaluation following commonly applied silage corn and soybean herbicides. Target Journal: *Agronomy*
+
+
+• Soltani N, **Oliveira MC**, Alves G, Werle R, Kruger G, Norsworthy J, Sprague C, Young B, Reynolds D, and Sikkema P (2019) Large-Scale Off-Target Movement Assessment of Dicamba in North America. Target Journal: *Weed Technology*
+
+• Oliveira MC, Ospitan OA, Begcy K, Werle R (2019) Preventing weed establishment while promoting increased sustainability of agricultural systems: win-win! Target Journal: *Plant Science* (Invited)
+
+# SUBMITTED MANUSCRIPT
+
+• **Oliveira MC**, da Silva AL, Ulguim AR, Werle R. Assessment of Weed Management Strategies and Challenges in Brazilian Cropping Systems. Submitted to *Weed Technology*
+
+# PUBLICATIONS
+
+• Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2019) Off-Target Movement Assessment of Dicamba in North America. in press *Weed Technology*. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+
+• **Oliveira MC**, Butts L, and Werle R (2019) Survey of cover crop management in Nebraska. 9:1-14 *Agriculture*, invited submission for special issue entitled: “Cover Crops”. doi: [10.3390/agriculture9060124](https://doi.org/10.3390/agriculture9060124)
+
+• Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical Time for Weed Removal in Glyphosate-Resistant Soybean as Influenced by Preemergence Herbicides. 33-393:399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
+
+• Ferreira EA, Paiva MCG, Pereira GAM, **Oliveira MC**, Silva, EB (2019) Fitossociologia de plantas daninhas na cultura do milho submetida à aplicação de doses de nitrogênio, *Journal of Neotropical Agriculture*, 6:100-107 (in Portuguese with English abstract). doi: [10.32404/rean.v6i2.2710](https://doi.org/10.32404/rean.v6i2.2710)
+
+• Werle R, **Oliveira MC**, Jhala AJ, Klein R, Proctor CA, and Rees J (2018) Survey of Nebraska farmers’
+adoption of dicamba-tolerant soybean technology and off-target movement. *Weed
+Technology*, 32:754--761. doi: [10.1017/wet.2018.62](https://doi.org/10.1017/wet.2018.62)
+
+• **Oliveira MC**, Gaines TA, Patterson EP, Jhala AJ, Irmak S, Amundsen K, and Knezevic SZ (2018)
+Interspecific and intraspecific transfer of metabolism based mesotrione resistance transfer
+in dioecious weedy *Amaranthus*. *Plant Journal*. 96:1051--1063. doi: [10.1111/tpj.14089](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14089)
+
+
+• Knezevic SZ, Ospitan AO, **Oliveira MC**, and Scott JE (2018) *Lythrum salicaria* (purple loosestrife) control with herbicides: multiyear applications. *Invasive Plant Science and Management*. 11:143--154. doi: [10.1017/inp.2018.17](https://doi.org/10.1017/inp.2018.17)
+
+• **Oliveira MC**, Pereira GAM, Ferreira EA, Barbosa JB, Knezevic SZ, and Werle R (2018) Additive
+design: the concept and data analysis. *Weed Research*, 58:338--347. doi: [10.1111/wre.12317](https://onlinelibrary.wiley.com/doi/full/10.1111/wre.12317)
+
+
+• **Oliveira MC**, Gaines TA, Jhala AJ, and Knezevic SZ (2018) Inheritance of mesotrione
+resistance in an (*Amaranthus tuberculatus*) (var. *rudis*) population from Nebraska, USA.
+*Frontiers in Plant Science*, 9:60. doi: [10.3389/fpls.2018.00060](https://www.frontiersin.org/articles/10.3389/fpls.2018.00060/full)
+
+
+• Miller JJ, Schepers JS, Shapiro CA, Arnenson NJ, Eskridge KM, **Oliveira MC**, and Giesler LJ
+(2018) Characterizing soybean vigor and productivity using multiple crop canopy sensor
+readings. *Field Crops Research*, 216:22--31. doi: [10.1016/j.fcr.2017.11.006](https://www.sciencedirect.com/science/article/pii/S0378429017310341)
+
+
+• **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018)
+Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*)
+population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management
+Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
+
+
+• **Oliveira MC**, Feist D, Eskelsen S, Scott JE, and Knezevic SZ (2017) Weed control in soybean with
+preemergence and postemergence-applied herbicides. *Crop, Forage, and Turfgrass
+Management*, 3:1--7
+
+
+• **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017)
+Confirmation and Control of HPPD-inhibiting Herbicide-Resistant Waterhemp
+(*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: 
+[10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
+
+
+•  Butts TR, Miller JJ, Pruitt JD, Vieira BC, **Oliveira MC**, Ramirez II S, and Lindquist JL (2017)
+Light quality effect on corn growth as influenced by weed species and nitrogen
+rate. *Journal of Agricultural Science*, 9:15--27. doi: [10.5539/jas.v9n1p15](http://www.ccsenet.org/journal/index.php/jas/article/view/63437)
+
+
+• Braga RR, Santos JB, Zanuncio JC, Bibiano CS, Ferreira EA, **Oliveira MC**, Silva DV, and Serrāo JE
+(2016) Effect of growing *Brachiaria brizantha* on phytoremediation of picloram under
+different pH environments. *Ecological Engineering*, 94:102--106. doi: [10.1016/j.ecoleng.2016.05.050](https://www.sciencedirect.com/science/article/pii/S0925857416302853)
+
+
+• Magalhães JES, Ferreira EA, **Oliveira MC**, Pereira GAM, Silva DV, and Santos JB (2016) Effect of
+plant-biostimulant on cassava initial growth. *Ceres*, 63:208--213 doi: [10.1590/0034-737X201663020012](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-737X2016000200208)
+
+
+• Silva DV, Ferreira, **Oliveira MC**, Pereira GAM, Braga RR, Santos JB, Aspiazú I, and Souza MF
+(2016) Productivity of cassava and other crops in an intercropping system. *Ciencia e
+Investigación Agraria*, 43:159--166. doi: [10.4067/S0718-16202016000100015](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-16202016000100015)
+
+
+• Pereira GAM, **Oliveira MC**, Braga RR, Silva DV, Oliveira AJM, Fernandes JSC, and Andrade
+Junior VC (2015) Growth of carrot cultivars in different environments. *Comunicata
+Scientiae*, 6:317--325. (in Portuguese with English abstract)
+
+
+• Santos RC, Ferreira EA, Santos JB, **Oliveira MC**, Silva DV, Pereira GAM, Galon L, Aspiazú I, and
+Mattos NP (2015) Phytosociological characterization of weed species as affected by soil
+management. *Australian Journal of Crop Science*, 9:112--119
+
+
+• Pereira GAM, **Oliveira MC**, Oliveira, AJM, Fernandes JSC, Andrade Junior VC, Silva DV, and
+Ferreira EA (2015) Performance of carrot genotypes at two Jequitinhonha Valley sites.
+*Semina: Ciências Agrárias*, 36:4059-4070. doi: [10.5433/1679-0359.2015v36n6Supl2p4059](http://www.uel.br/revistas/uel/index.php/semagrarias/article/view/17819)	
+
+• Ferreira EA, Silva DV, Braga RR, **Oliveira MC**, Pereira GAM, Santos JB, and Sediyama T (2014)
+Initial growth of cassava in intercropping system. *Scientia Agraria Paranaensis*,
+13:219-226
+
+• Franco MHR, Nery MC, França AC, **Oliveira MC**, Franco GCN, and Lemos VT (2013) Production
+and physiological quality of bean seeds after application diquat. *Semina: Ciências
+Agrárias*, 34:1707-1714 (in Portuguese with English abstract). doi: [10.5433/1679-0359.2013v34n4p1707](http://www.uel.br/revistas/uel/index.php/semagrarias/article/view/10234)
+
+
+• Pereira GAM, Lemos VT, Santos JB, Ferreira EA, Silva DV, **Oliveira MC**, and Menezes CWG
+(2012) Growth of cassava and weed in response to phosphate fertilizer. *Ceres*, 59:716-
+722 (in Portuguese with English abstract). doi: [10.1590/S0034-737X2012000500019](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-737X2012000500019)
+
+• Miranda VS, Ribeiro KG, Silva AC, Pereira RC, Pereira OG, Torrado PV, Fernandes JSC, and
+**Oliveira MC** (2012) Rehabilitation with forage grasses of an area degraded by urban
+solid waste deposits. *Brazilian Journal of Animal Science*, 41:18-23. doi: [10.1590/S1516-35982012000100003](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-35982012000100003)
+
+
+# INVITED PRESENTATIONS
+
+• *Valoriza Agronegocios*, Patos de Minas · MG · Brazil \hfill January 2019  
+Lecture: “Treinamento resistência, dicamba, identificação de plantas daninhas e herbicidas” (In Portuguese)
+
+• *II IMAST*, Dracena · SP · Brazil \hfill September 2018  
+Lecture: “Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA” (In Portuguese)
+
+• *JF Crow Institute for the Study of Evolution*, Madison · WI · USA \hfill September 2018  
+Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide resistance in *Amaranthus
+tuberculatus*
+
+
+# EXTENSION PRESENTATIONS
+
+• Waterhemp Resistance Evolution and Status. 
+Waterhemp worshop, Chippewa Falls, Bangor, Janesville, Appleton, WI, USA, March 2019
+
+• Weed control in corn with different PRE-applied herbicides and carrier volumes. Wisconsin
+Cropping Systems Weed Science Field Day, Arlington, WI, USA, July 2018
+
+• Integrated weed management strategies in cassava fields. Field day of cassava: specificities and
+practices, Diamantina, MG, Brazil, October 2011
+
+# EVENTS ORGANIZATIONS
+
+• Wisconsin Weed Science Field Day, Arlington and Lancaster · WI · USA \hfill July 2018
+
+• Flaming Weed Control Workshop, Concord · NE · USA \hfill August 2014/15/16/17
+
+• Field day of cassava: specificities and practices, Diamantina, MG, Brazil \hfill October 2011
+
+• II Seminar of Forage and Rangeland Sciences, Diamantina · MG · Brazil \hfill March 2009
+
+• I Seminar of Engineers, Diamantina · MG · Brazil \hfill September 2009
+
+
+# PROFESSIONAL MEETING PRESENTATION AND ABSTRACTS
+
+• Werle R, DeWerff R, Striegel S, Arsenijevic N, Ribeiro VHV, **Oliveira MC** (2019) Systems Approach to Weed Management in Corn in Wisconsin. Proceeding of the Weed Science Society of America Annual Meetings, New Orleans, LA
+
+• **Oliveira MC**, Jhala A, Proctor C, Mitchell P, Werle R (2019) Survey of 2017 and 2018 dicamba use in Nebraska and Wisconsin soybean production systems. Proceeding of the Weed Science Society of America Annual Meetings, New Orleans, LA
+
+• **Oliveira MC**, Bernards M, Jhala A, Proctor C, Stepanovic S, Werle R (2019) Adaptation of Palmer Amaranth to the Upper Midwest. Proceeding of the Weed Science Society of America Annual Meetings, New Orleans, LA
+
+• **Oliveira MC**, Lencina A, Ulguim A, Werle R (2019) A cropping-system weed science survey of Brazil, a breadbasket country in the tropics. Proceeding of the Weed Science Society of America Annual Meetings, New Orleans, LA
+
+• **Oliveira MC**, Giacomini D, Tranel D, Vieira GS, Arsenijevic N, Werle R (2018) Molecular and greenhouse validation of field-evolved resistance to glyphosate and PPO-inhibitors in Palmer amaranth. Proceeding of the North
+Central Weed Science Society Annual Meetings, Milwaukee, WI
+
+• Butts TR, **Oliveira MC**, Arsenijevic MC, Conley S, Werle R (2018) Tolerance of midwest soybean cultivars to preemergent applications of metribuzin and sulfentrazone (2018). Proceeding of the North
+Central Weed Science Society Annual Meetings, Milwaukee, WI
+
+• Liu L, **Oliveira MC**, Werle R (2018) Wisconsin cropping systems weed science survey - where are we at? Proceeding of the North Central Weed Science Society Annual Meetings, Milwaukee, WI
+
+• Renz R, Striegel S, DeWerff R, Arsenijevic N, Ribeiro VHV, **Oliveira MC**, Luck B, Werle R (2018) Impact of carrier volume rate on PRE-emergence herbicide efficacy in Wisconsin cropping systems. Proceeding of the North
+Central Weed Science Society Annual Meetings, Milwaukee, WI
+
+• Ribeiro VHV, **Oliveira MC**, Smith D, Santos JB, Werle R (2018) Spectrum of Weed Species Controlled by Various PRE- Emergence Soybean Herbicides in Wisconsin. Proceeding of the North
+Central Weed Science Society Annual Meetings, Milwaukee, WI
+
+• Arsenijevic N, Striegel S, Ribeiro VHV, **Oliveira MC**, Werle R (2018) Screening of soybean variety tolerance to PRE-emergence herbicides sulfentrazone (PPO) and metribuzin (PSII). Proceeding of the North
+Central Weed Science Society Annual Meetings, Milwaukee, WI
+
+• **Oliveira MC**, Patterson E, Gaines TA, Knezevic SZ (2017) A qualitative assay for detecting
+Palmer amaranth and its hybrids amongst pigweed species. Proceeding of the North
+Central Weed Science Society Annual Meetings, Saint Louis, MO
+
+• **Oliveira MC**, Gaines TA, Knezevic SZ (2017) Inheritance of mesotrione resistance in a
+waterhemp population from Nebraska. Proceeding of the North Central Weed Science
+Society Annual Meetings, Saint Louis, MO
+
+• Vieira G, Oliveira MC, Giacomini D, Arsenijevic N, Tranel P, Werle R (2017) Molecular
+screening of PPO and glyphosate resistance in Palmer amaranth populations from
+Nebraska. Proceeding of the North Central Weed Science Society Annual Meetings,
+Saint Louis, MO
+
+• Miller JJ, Schepers JS, Giesler LJ, Shapiro CA, Oliveira MC, Arnenson NJ (2016)
+Characterizing soybean vigor and productivity using multiple crop canopy sensor
+readings. Proceeding of the American Society of Agronomy Annual Meetings, Phoenix,
+AZ
+
+• **Oliveira MC**, Dayan FE, Gaines TA, Knezevic SZ (2016) Investigations into target-site and
+nontarget site resistance mechanisms in HPPD resistant waterhemp from Nebraska.
+Proceeding of the North Central Weed Science Society Annual Meetings, Des Moines,
+IA
+
+• **Oliveira MC**, Scott JE, Knezevic SZ (2016) Critical time for weed removal in soybeans is
+influenced by soil applied herbicides. Proceeding of the North Central Weed Science
+Society Annual Meetings, Des Moines, IA
+
+• Knezevic SZ, Oliveira MC, Scott JE (2016) Simulated drift of dicamba on potentially sensitive
+crops. Proceeding of the North Central Weed Science Society Annual Meetings, Des
+Moines, IA
+
+• **Oliveira MC**, cott JE, Jhala AJ, Gaines T, Knezevic SZ (2016) Herbicide Programs to control
+HPPD-resistant Common Waterhemp in Nebraska. Proceeding of the Weed Science
+Society of America Annual Meetings, San Juan, PR
+
+• **Oliveira MC**, Gaines T, Jhala A, Knezevic SZ (2016) Pollen-mediated resistance transfer from
+HPPD-resistance waterhemp to susceptible Palmer amaranth in Nebraska. Proceeding of
+the Weed Science Society of America Annual Meetings, San Juan, PR
+
+• **Oliveira MC**, Oliveira e Freitas IF, Scott JE, Knezevic SZ (2015) Soybean yields and critical
+time for weed removal as influenced by soil applied herbicides. Proceeding of the North
+Central Weed Science Society Annual Meetings, Indianapolis, IN
+
+• **Oliveira MC**, Gaines T, Jhala A, Knezevic SZ (2015) HPPD-resistance in waterhemp from
+Nebraska: Evidence for multiple genes enhancing metabolism. Proceeding of the North
+Central Weed Science Society Annual Meetings, Indianapolis, IN
+
+• **Oliveira MC**, Gaines T, Knezevic SZ (2014) HPPD Resistance in Nebraska’s Waterhemp:
+Enhance Metabolism of Target Site Mutation. Proceeding of the North Central Weed
+Science Society Annual Meetings, Minneapolis, MN
+
+• **Oliveira MC**, Gaines T, Knezevic SZ (2014) Herbicide Options to Control HPPD resistant
+waterhemp in Nebraska. Proceeding of the North Central Weed Science Society Annual
+Meetings, Minneapolis, MN
+
+• **Oliveira MC**, Scott JE, Franssen AS, Shivrain VK, Knezevic SZ (2014) Confirmation of HPPD
+Resistant Common Waterhemp in Nebraska. Proceeding of the North Central Weed
+Science Society Annual Meetings, Minneapolis, MN
+
+• Knezevic SZ, Jhala AJ, Kruger GR, Sandell LD, **Oliveira MC**, Golus JA, Scott J (2014)
+Volunteer Roundup Ready Soybean Control in Roundup Ready Corn. Proceeding of the
+North Central Weed Science Society of America Annual Meetings, Minneapolis, MN
+
+• *30+ abstracts in Brazilian Professional meetings from 2008 to 2013*
+
+
+# GRANTS
+
+
+• [UW-Madison Division of Extension and UW-Madison CALS](https://oeo.cals.wisc.edu) \hfill March 2019   
+Adaptation of Industrial Hemp (*Cannabis sativa*) to Agronomic practices in Wisconsin
+Funded: $35,000
+
+• [Wisconsin Corn Promotion Board](http://wicorn.org) \hfill January 2019  
+Title: Challenging the Weed Management Challenges in Wisconsin Corn Production 
+Funded: $30,000
+
+• [North Central Soybean Research Program](http://www.ncsrp.com/) \hfill August 2018  
+Title: Adaptation and Management of Glyphosate-Resistant Pigweed Species in the Northern Midwest US Soybean Production Systems  
+Submitted but not funded
+
+• [CAPES](http://www.capes.gov.br/) Foundation \hfill September 2013  
+Title: Evolution of HPPD-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska  
+Funded my Ph.D at the University of Nebraska-Lincoln ($130,000)
+
+# EXTENSION MANUALS
+
+• Cover Crops 101 \hfill August 2019   
+[Link](https://learningstore.extension.wisc.edu/collections/farming/products/cover-crops-101)
+
+• Herbicide site of action key for crop injury symptoms \hfill September 2018  
+[English](http://www.wiscweeds.info/img/2018%20Herbicide%20SOA%20injury%20chart/2018_HerbicideInjury_EN.pdf) and [Portuguese](https://maxweeds.rbind.io/files/Herbicide%20chart/2018_HerbicideInjury_BRA.pdf) version.
+
+• UW Waterhemp Challenge: Preliminary Report Comparison of Soil Residual Herbicides \hfill August 2018  
+[Link](http://www.wiscweeds.info/img/2018%20waterhemp%20challenge/Waterhemp%20Management%20PRE%20Comparison_Lancaster%20WI%202018.pdf)
+
+# PROGRAMMING
+
+• [R](https://www.r-project.org) e [Rstudio](https://www.rstudio.com)
+
+• [GitHub](https://github.com)
+
+• [LaTeX](https://latex.org) e [Markdown](https://www.markdownguide.org)
+
+• Agricultural Research Management [(ARM)](https://www.arm.com/products/development-tools)
+
+• Statistical Analysis Software [(SAS)](https://www.sas.com/)
+
+# PERSONAL PROJECTS
+
+• Founder of Open Weed Science Community: https://www.openweedsci.org – A website with tutorial for codes of data analysis and
+data visualization commonly published in manuscripts of weed research and related
+areas
+
+• Blog: https://maxweeds.rbind.io - My blog developed with Hugo, blogdown, Rstudio,
+and GitHub
+
+# LANGUAGUES
+
+• Portuguese (Native speaker proficiency)
+
+• English (Bilingual proficiency)
+
+• Spanish (Intermediate working proficiency) 
+
+
+

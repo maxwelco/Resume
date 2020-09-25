@@ -1,0 +1,19 @@
+---
+title: "Artigos"
+author: "Maxwel Coura Oliveira"
+date: "2/20/2020"
+output: pdf_document
+hyperlink: true
+color: true
+---
+
+# ARTIGO NO PRELO
+
+• Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, e Sikkema PH (2019) Off-Target Movement Assessment of Dicamba in North America. in press *Weed Technology*. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+
+
+# MANUSCRITOS SUBMETIDOS
+
+• **Oliveira MC**, Giacomini D, Tranel P, e Werle R. Molecular and greenhouse validation of field evolved resistance to glyphosate e PPO-inhibitors in Nebraska. Enviado para: *Pest Management Science* (Qualis A1)
+
+• **Oliveira MC**, Osipitan OA, Begcy K, e Werle R. Cover crops, hormones and herbicides: priming an Integrated Weed Management Strategy. Enviado para: *Plant Science* (convidado) (Qualis A1)

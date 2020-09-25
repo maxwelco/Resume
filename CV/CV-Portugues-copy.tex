@@ -1,0 +1,473 @@
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Maxwel Coura Oliveira, PhD - Curriculum Vitae }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Maxwel Coura Oliveira, PhD:  Curriculum Vitae (Curriculum Vitae)},
+            pdfauthor={Maxwel Coura Oliveira, PhD},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Maxwel Coura Oliveira, PhD}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Professor, Universidade do Oeste Paulista e Pesquisador, Universidade de
+Wisconsin-Madison}
+\moveleft.5\hoffset\centerline{Rodovia Raposo Tavares, km 572, · Departamento de Agronomia ·
+Pres.~Prudente · SP, BRA 9067-175}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:max.oliveira@wisc.edu}{\nolinkurl{max.oliveira@wisc.edu}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  +55 (18) 99690-1070  \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/maxwelco}{\tt maxwelco} \hspace{1 mm}   \faTwitter \hspace{1 mm} \href{https:/twitter.com/maxwelco}{\tt maxwelco} \hspace{1 mm}  \faGlobe \hspace{1 mm} \href{http://maxweeds.rbind.io}{\tt maxweeds.rbind.io}   }
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{educauxe7uxe3o}{%
+\section{EDUCAÇÃO}\label{educauxe7uxe3o}}
+
+• \emph{Universidade de Nebraska-Lincoln}, Ph.D.~Agronomia (Planta
+daninha) \hfill Dez 2017
+
+• \emph{Universidade Federal dos Vales do Jequitinhonha e Mucuri}, MSc.
+Produção vegetal (Planta daninha) \hfill Jul 2013
+
+• \emph{Universidade Federal dos Vales do Jequitinhonha e Mucuri}, BSc.
+Agronomia \hfill Jul 2011
+
+\hypertarget{experiuxeancia-profissional-selecionadas}{%
+\section{EXPERIÊNCIA PROFISSIONAL
+SELECIONADAS}\label{experiuxeancia-profissional-selecionadas}}
+
+• \emph{Professor}, Universidade do Oeste Paulista · Presidente Prudente
+· SP · BRA \hfil Fev 2020 · Atual\\
+\emph{Objetivo}: Professor e pesquisador de plantas daninhas. Ministra
+aulas na graduação e pós-graduação.
+
+• \emph{Pesquisador Associado},
+\href{http://www.wiscweeds.info/}{WiscWeeds Lab} · Universidade de
+Wisconsin-Madison · Madison · WI · EUA \hfil Jan 2018 · Atual\\
+\emph{Objetivo}: realizar pesquisa inovadora e colaborativa e de
+extensão em biologia, ecologia e manejo de ervas daninhas problemáticas
+em milho, soja e cânhamo sob a supervisão do Dr.~Rodrigo Werle
+
+• \emph{Doutoramento}, \href{https://agronomy.unl.edu/knezevic}{Knezevic
+Lab} Universidade de Nebraska-Lincoln, Lincoln · NE · EUA \hfil Jan,
+2014 até Dez 2017\\
+\emph{Objetivo}: Pesquisa de doutorado em Sistemas de Produção, Biologia
+e Ecologia de Plantas Daninhas, Manejo Integrado de Plantas Daninhas,
+Evolução da Resistência a Herbicidas e ensaios de eficácia de herbicidas
+sob a supervisão do Dr.~Stevan Knezevic
+
+• \emph{Trainee}, \href{http://www.timacagro.com.br/}{TIMAC Agro} ·
+Paragominas · PA · Brasil \hfill Jan a Jun 2013\\
+\emph{Objetivo}: Treinado para ser um supervisor de equipe de vendas de
+fertilizantes, aquisição de talentos e marketing
+
+• \emph{Mestrado}, \href{http://www.ufvjm.edu.br/}{Universidade Federal
+dos Vales do Jequitinhonha e Mucuri} · Diamantina · MG · Brasil
+\hfill Jul 2011 a Dez 2012\\
+\emph{Objetivo}: Mestrado em biologia, competição e manejo integrado de
+ervas daninhas sob supervisão do Dr.~José Barbosa dos Santos
+
+• \emph{Estágio internacional}, \href{https://top.osu.edu/}{The Ohio
+Program} · OH · EUA \hfill Abr 2010 a Mar 2011\\
+\emph{Objetivo}: Mão de fazenda em uma fazenda de vegetais em Michigan
+(EUA) e assistente em uma estufa de tomate hidropônico em Nova York, EUA
+
+\hypertarget{aulas-ministradas}{%
+\section{AULAS MINISTRADAS}\label{aulas-ministradas}}
+
+• \emph{Universidade do Oeste Paulista}, Manejo de Plantas Daninhas
+\hfill  2020
+
+• \emph{Universidade do Oeste Paulista}, Análise estatística no R
+\hfill 2019/2020
+
+• \emph{Universidade de Wisconsin-Madison}, Peparação para o Camp de
+Herbologia \hfill 2018
+
+• \emph{Universidade de Nebraska-Lincoln}, Lab de Plantas Invasoras
+\hfill 2016/2017
+
+\hypertarget{monitorias}{%
+\section{MONITORIAS}\label{monitorias}}
+
+• \emph{Universidade Federal dos Vales do Jequitinhonha e Mucuri}, Lab
+de Plantas Daninhas \hfill 2011
+
+• \emph{Universidade Federal dos Vales do Jequitinhonha e Mucuri}, Lab
+de Melhoramento Genético \hfill 2009
+
+\hypertarget{pesquisador-visitante}{%
+\section{PESQUISADOR VISITANTE}\label{pesquisador-visitante}}
+
+• \emph{Universidade de Illinois Urbana-Champaign} · IL · EUA
+\hfill Setembro 2017\\
+Pesquisa sobre mecanísmo de resistência de \emph{Amaranthus palmeri}
+para herbicidas inibidores da PPO sob supervisão de Dr.~Pat Tranel
+
+• \emph{Universidade do Estado do Colorado--Fort Collins} · CO · EUA
+\hfill Maio 2017\\
+Pesquisa no lab sobre resistencia de \emph{Amaranthus tuberculatus} aos
+herbicidas inibidores da HPPD sob supervisão de Dr.~Todd Gaines
+
+• \emph{Universidade do Estado do Colorado--Fort Collins} · CO · EUA
+\hfill Setembro 2016\\
+Pesquisa no lab sobre fisiologia dos hebricidas inibidores da HPPD em
+\emph{Amaranthus tuberculatus} sob supervisão de Dr.~Franck Dayan
+
+• \emph{Universidade Federal de Viçosa-Viçosa} · MG · Brasil
+\hfill Agosto 2012 à Dezembro 2012\\
+Pesquisa no campo, lab e estufas com comportamento de herbicidas no solo
+e manejo de plantas daninhas sob supervisão do Dr.~Antonio Alberto Silva
+
+\hypertarget{honras-acaduxeamicas-e-pruxeamios}{%
+\section{HONRAS ACADÊMICAS E
+PRÊMIOS}\label{honras-acaduxeamicas-e-pruxeamios}}
+
+• \emph{Congresso da North Central Weed Science Society}, Saint louis ·
+MO · EUA \hfill Dez 2017\\
+Melhor Apresentação de Poster (Resistência de Plantas Daninhas)
+
+• \emph{Competição da North Central Weed Science Society}, Ames · IA ·
+EUA \hfill Jul 2017\\
+Primeiro Colocado Time e Primeiro Colocado Individual em Identificação
+de Herbicidas
+
+• \emph{Universidade de Nebraska-Lincoln}, Lincoln · NE · EUA \hfill Mar
+2017\\
+Travel Grant (\$400) to attend the 2017 Global Herbicide Resistant
+Conference
+
+• \emph{Campeonato de Herbologia da North Central Weed Science Society},
+West Laffayete · EUA \hfill Jul 2016\\
+Terceiro Colocado Time
+
+• \emph{Congresso da Weed Science Society of America}, San Juan · PR
+\hfill Fev 2015\\
+Primeiro Colocado Poster (Biologia de Plantas Daninhas)
+
+• \emph{Campeonato de Herbologia da Western Weed Science Society},
+Columbus · OH · EUA \hfill Julho 2015\\
+Terceiro Colocado Time e Terceiro Colocado individual
+
+\hypertarget{membro-de-sociedades-profissionais}{%
+\section{MEMBRO DE SOCIEDADES
+PROFISSIONAIS}\label{membro-de-sociedades-profissionais}}
+
+• Weed Science Society of America
+
+• North Central Weed Science Society
+
+\hypertarget{manuscritos-em-preparauxe7uxe3o}{%
+\section{MANUSCRITOS EM
+PREPARAÇÃO}\label{manuscritos-em-preparauxe7uxe3o}}
+
+• \textbf{Oliveira MC}, Butts T, Conley S, e Werle R. Tolerance of US
+Midwest Soybean Cultivars to Preemergent Applications of Metribuzin e
+Sulfentrazone. Enviar para: \emph{Weed Technology}
+
+• Smith D, \textbf{Oliveira MC}, Davis V, e Werle R. (2019) Herbicide
+carryover evaluation following commonly applied silage corn e soybean
+herbicides. Enviar para: \emph{Agronomy}
+
+• \textbf{Oliveira MC}, da Silva AL, Ulguim AR, Werle R. Assessment of
+Weed Management Strategies e Challenges in Brasilian Cropping Systems.
+Enviar para: \emph{Weed Technology}
+
+\hypertarget{manuscritos-submetidos}{%
+\section{MANUSCRITOS SUBMETIDOS}\label{manuscritos-submetidos}}
+
+• \textbf{Oliveira MC}, Giacomini D, Tranel P, e Werle R. Molecular e
+greenhouse validation of field evolved resistance to glyphosate e
+PPO-inhibitors in Nebraska. Submission: \emph{Pest Management Science}
+
+• \textbf{Oliveira MC}, Osipitan OA, Begcy K, e Werle R. Cover crops,
+hormones e herbicides: priming an Integrated Weed Management Strategy.
+Enviado para: \emph{Plant Science} (convidado)
+
+\hypertarget{publicauxe7uxf5es-selecionadas}{%
+\section{PUBLICAÇÕES
+SELECIONADAS}\label{publicauxe7uxf5es-selecionadas}}
+
+• Soltani S, \textbf{Oliveira MC}, Alves GS, Werle R, Norsworthy JK,
+Sprague CL, Young BG, Reynolds DB, Brown A, e Sikkema PH (2019)
+Off-Target Movement Assessment of Dicamba in North America. in press
+\emph{Weed Technology}. doi:
+\href{https://doi.org/10.1017/wet.2020.17}{10.1017/wet.2020.17}
+
+• \textbf{Oliveira MC}, Butts L, e Werle R (2019) Survey of cover crop
+management in Nebraska. 9:1-14 \emph{Agriculture}, convidado: ``Cover
+Crops''. doi:
+\href{https://doi.org/10.3390/agriculture9060124}{10.3390/agriculture9060124}
+
+• Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, \textbf{Oliveira MC},
+Lawrence N, Scott JE, e Jhala AJ (2019) Critical Time for Weed Removal
+in Glyphosate-Resistant Soybean as Influenced by Preemergence
+Herbicides. 33-393:399. \emph{Weed Technology}. doi:
+\href{https://doi.org/10.1017/wet.2019.18}{10.1017/wet.2019.18}
+
+• Ferreira EA, Paiva MCG, Pereira GAM, \textbf{Oliveira MC}, Silva, EB
+(2019) Fitossociologia de plantas daninhas na cultura do milho submetida
+à aplicação de doses de nitrogênio, \emph{Journal of Neotropical
+Agriculture}, 6:100-107 (in Portuguese with English abstract). doi:
+\href{https://doi.org/10.32404/rean.v6i2.2710}{10.32404/rean.v6i2.2710}
+
+• Werle R, \textbf{Oliveira MC}, Jhala AJ, Klein R, Proctor CA, e Rees J
+(2018) Survey of Nebraska farmers' adoption of dicamba-tolerant soybean
+technology e off-target movement. \emph{Weed Technology}, 32:754--761.
+doi: \href{https://doi.org/10.1017/wet.2018.62}{10.1017/wet.2018.62}
+
+• \textbf{Oliveira MC}, Gaines TA, Patterson EP, Jhala AJ, Irmak S,
+Amundsen K, e Knezevic SZ (2018) Interspecific e intraspecific transfer
+of metabolism based mesotrione resistance transfer in dioecious weedy
+\emph{Amaranthus}. \emph{Plant Journal}. 96:1051--1063. doi:
+\href{https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14089}{10.1111/tpj.14089}
+
+• Knezevic SZ, Ospitan AO, \textbf{Oliveira MC}, e Scott JE (2018)
+\emph{Lythrum salicaria} (purple loosestrife) control with herbicides:
+multiyear applications. \emph{Invasive Plant Science e Management}.
+11:143--154. doi:
+\href{https://doi.org/10.1017/inp.2018.17}{10.1017/inp.2018.17}
+
+• \textbf{Oliveira MC}, Pereira GAM, Ferreira EA, Barbosa JB, Knezevic
+SZ, e Werle R (2018) Additive design: the concept e data analysis.
+\emph{Weed Research}, 58:338--347. doi:
+\href{https://onlinelibrary.wiley.com/doi/full/10.1111/wre.12317}{10.1111/wre.12317}
+
+• \textbf{Oliveira MC}, Gaines TA, Jhala AJ, e Knezevic SZ (2018)
+Inheritance of mesotrione resistance in an (\emph{Amaranthus
+tuberculatus}) (var. \emph{rudis}) population from Nebraska, EUA.
+\emph{Frontiers in Plant Science}, 9:60. doi:
+\href{https://www.frontiersin.org/articles/10.3389/fpls.2018.00060/full}{10.3389/fpls.2018.00060}
+
+• Miller JJ, Schepers JS, Shapiro CA, Arnenson NJ, Eskridge KM,
+\textbf{Oliveira MC}, e Giesler LJ (2018) Characterizing soybean vigor e
+productivity using multiple crop canopy sensor readings. \emph{Field
+Crops Research}, 216:22--31. doi:
+\href{https://www.sciencedirect.com/science/article/pii/S0378429017310341}{10.1016/j.fcr.2017.11.006}
+
+• \textbf{Oliveira MC}, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, e
+Knezevic SZ (2018) Reversing resistance to tembotrione in an
+\emph{Amaranthus tuberculatus} (syn. \emph{rudis}) population from
+Nebraska, EUA with cytochrome P450 inhibitors. \emph{Pest Management
+Science}, 74:2296--2305. (Publicação convidado) doi:
+\href{https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697}{10.1002/ps.4697}
+
+• \textbf{Oliveira MC}, Jhala A, Gaines T, Irmak S, Amundsen K, Scott
+JE, e Knezevic SZ (2017) Confirmation e Control of HPPD-inhibiting
+Herbicide-Resistant Waterhemp (\emph{Amaranthus tuberculatus}) in
+Nebraska. \emph{Weed Technology}, 31:67--79. doi:
+\href{https://www.cambridge.org/core/journals/weed-technology/article/confirmation-e-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE}{10.1017/wet.2016.4}
+
+• Braga RR, Santos JB, Zanuncio JC, Bibiano CS, Ferreira EA,
+\textbf{Oliveira MC}, Silva DV, e Serrāo JE (2016) Effect of growing
+\emph{Brachiaria brizantha} on phytoremediation of picloram under
+different pH environments. \emph{Ecological Engineering}, 94:102--106.
+doi:
+\href{https://www.sciencedirect.com/science/article/pii/S0925857416302853}{10.1016/j.ecoleng.2016.05.050}
+
+\hypertarget{palestras-e-treinamentos}{%
+\section{PALESTRAS E TREINAMENTOS}\label{palestras-e-treinamentos}}
+
+• \emph{Valoriza Agronegocios}, Patos de Minas · MG · Brasil \hfill Jan
+2019\\
+Título: ``Treinamento resistência, dicamba, identificação de plantas
+daninhas e herbicidas''
+
+• \emph{II IMAST}, Dracena · SP · Brasil \hfill Setembro 2018\\
+Título: ``Da resistência ao dicamba: o desafio no manejo de plantas
+daninhas nos EUA''
+
+• \emph{JF Crow Institute for the Study of Evolution}, Madison · WI ·
+EUA \hfill Set 2018\\
+Título: Evolução de \emph{Amaranthus tuberculatus} aos herbicidas
+inibidores da 4-hydroxyphepylpiruvate dioxygenase
+
+\hypertarget{palestras-em-eventos-de-extensuxe3o}{%
+\section{PALESTRAS EM EVENTOS DE
+EXTENSÃO}\label{palestras-em-eventos-de-extensuxe3o}}
+
+• Evolução de Resistência em \emph{Amaranthus tuberculatus}.\\
+Waterhemp worshop, Chippewa Falls, Bangor, Janesville, Appleton, WI,
+EUA, Mar 2019
+
+• Dia de Campo Planta Daninhas, Arlington e Lancaster · WI · EUA
+\hfill Jul 2018
+
+• Dia de Campo da Mandioca: Especificidades e Práticas, Diamantina, MG,
+Brasil \hfill Out 2011
+
+\hypertarget{resumos-de-congressos}{%
+\section{RESUMOS DE CONGRESSOS}\label{resumos-de-congressos}}
+
+• \emph{70+ resumos em congressos no Brasil e EUA entre 2008 e 2020}
+
+\hypertarget{projetos-aprovados}{%
+\section{PROJETOS APROVADOS}\label{projetos-aprovados}}
+
+• \href{https://oeo.cals.wisc.edu}{UW-Madison Division of Extension e
+UW-Madison CALS} \hfill Mar 2019 Título: Adaptation of Industrial Hemp
+(\emph{Cannabis sativa}) to Agronomic practices in Wisconsin Pago:
+US\$35,000
+
+• \href{http://wicorn.org}{Wisconsin Corn Promotion Board} \hfill Jan
+2019\\
+Título: Challenging the Weed Management Challenges in Wisconsin Corn
+Production Pago: US\$30,000
+
+• \href{http://www.capes.gov.br/}{CAPES} Foundation \hfill September
+2013\\
+Título: Evolution of HPPD-resistant waterhemp (\emph{Amaranthus
+tuberculatus}) in Nebraska\\
+Pago: US\$130,000 - Doutorado na Universidade de Nebraska-Lincoln
+
+\hypertarget{manuais}{%
+\section{MANUAIS}\label{manuais}}
+
+• Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean
+\hfill Fev 2020
+\href{http://www.wiscweeds.info/img/2018\%202019\%20waterhemp\%20challenge/PreEmergence_waterhempFINAL.pdf}{Link}
+
+• Cover Crops 101 \hfill Ago 2019\\
+\href{https://learningstore.extension.wisc.edu/collections/farming/products/cover-crops-101}{Link}
+
+• Chave para Identificação de Injúrias Causadas por Herbicidas
+\hfill Set 2018\\
+\href{http://www.wiscweeds.info/img/2018\%20Herbicide\%20SOA\%20injury\%20chart/2018_HerbicideInjury_EN.pdf}{Inglês}
+e
+\href{https://maxweeds.rbind.io/files/Herbicide\%20chart/2018_HerbicideInjury_BRA.pdf}{Português}.
+
+• UW Waterhemp Challenge: Preliminary Report Comparison of Soil Residual
+Herbicides \hfill Ago 2018\\
+\href{http://www.wiscweeds.info/img/2018\%20waterhemp\%20challenge/Waterhemp\%20Management\%20PRE\%20Comparison_Lancaster\%20WI\%202018.pdf}{Link}
+
+\hypertarget{programauxe7uxe3o}{%
+\section{PROGRAMAÇÃO}\label{programauxe7uxe3o}}
+
+• Terminal
+
+• R
+
+• C++
+
+• GitHub
+
+• Agricultural Research Management (ARM)
+
+• SAS
+
+\hypertarget{projetos-pessoais}{%
+\section{PROJETOS PESSOAIS}\label{projetos-pessoais}}
+
+• Open Source Weed Science -- Um repositório com tutoriais de análise e
+visualização de dados publicados em artigos de planta daninha e áreas
+relacionadas: \url{https://openweedsci.org}
+
+• Meu blog pessoal - Blog: \url{https://maxweeds.rbind.io}
+
+\hypertarget{linguas}{%
+\section{LINGUAS}\label{linguas}}
+
+• Português (Nativo)
+
+• Inglês (Fluente)
+
+• Espanhol (Intermediário)
+
+\end{document}

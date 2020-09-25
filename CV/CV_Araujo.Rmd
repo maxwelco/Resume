@@ -1,0 +1,226 @@
+---
+output: 
+  pdf_document: 
+    latex_engine: pdflatex
+    template: ~/Dropbox/CV/CV_TEST.tex
+geometry: margin=1in 
+
+title: "Curriculum Vitae"
+author: "Thiago Quintão Araújo, PhD" 
+
+jobtitle: "Postdoctoral Research Associate, State University of Campinas"
+address: "Monteiro Lobato Street, 255, 13083- 970, Campinas, SP, Brazil"
+fontawesome: yes
+email: araujotq@gmail.com
+phone: "+55 31 98447-5551"
+web: araujotq.netlify.com
+#updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+# EDUCATION
+
+• *Federal University of Minas Gerais*, Ph.D. Zoology \hfill May 2017
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, MSc. Forest Science \hfill December 2012
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, BSc. Biological Science \hfill July 2011                
+
+
+
+# PROFESSIONAL EXPERIENCE
+
+• *Postdoctoral Research Associate*, [Evolution of Meiofaunal Organisms Lab](https://meiofaunalab.wixsite.com/meiofaunaunicamp) · State University of Campinas · Campinas · SP · Brazil August 2018       
+*Goal*: conduct innovative and collaborative research of the morphology of muscular system of thaumastodermatids using the modern techniques of microscopy and explore under the light of the evolution under Dr. André Garrafonni’s supervision
+
+• *Graduate Research Assistant*, [Federal University of Minas Gerais](www.ufmg.br) Federal University of Minas Gerais, Belo Horizonte · MG · Brazil  \hfil April, 2013 to May 2017            
+*Goal*: Doctoral research in Zoology, the first attempt to link traditional Linnean ranks (family and genus-groups) with phylogenetic relationships on Xenotrichulidae, using the tree thinking under Dr. Alfredo Hannemann Wieloch’s supervision
+
+• *Graduate Research Assistant*, [The Laboratory of Invertebrate Biodiversity](http://www.hochbergbiodiversitylab.com/) University of Massachusetts Lowell, Lowell · MA · USA  \hfil March, 2015 to May 2016            
+*Goal*: Doctoral research in Zoology, International scholar program, the first attempt to link traditional Linnean ranks (family and genus-groups) with phylogenetic relationships on Xenotrichulidae, using the tree thinking under Dr. Rick Hohcberg’s supervision
+
+• *Graduate Research Assistant*, [Federal University of Jequitinhonha and Mucuri Valleys](http://www.ufvjm.edu.br/) · Diamantina · MG · Brazil \hfill March 2011 to December 2012  
+*Goal*: Masters research in Forestry, investigate the effects of different levels of environmental degradation and precipitation on community composition and meiofaunal abundance affected the ability of the community to recover and recolonise the meiobenthos  under Dr. André Garrafonni’s supervision
+
+• *Undergraduate Research Assistant*, [Federal University of Jequitinhonha and Mucuri Valleys](http://www.ufvjm.edu.br/) · Diamantina · MG · Brazil \hfill July 2011 to December 2012  
+*Goal*: Survey of freshwater Gastrotricha in three hydrographic basins of Minas Gerais State  under Dr. André Garrafonni’s supervision
+
+\newpage
+
+# TEACHING EXPERIENCE
+
+• *State University of Campinas*, Systematics and Phylogenetics \hfill August to December 2019
+
+
+• *Federal University of Piauí*, Marine Invertebrates \hfill March 2019
+
+
+• *Federal University of Piauí*, Meiofaunal organisms Lab \hfill March 2019
+
+
+• *Federal University of Jequitinhonha and Mucuri Valleys*, Introdution of Marine Biology \hfill November 2014
+
+
+# VISITOR SCHOLAR AND INTERNATIONAL EXPERIENCE
+
+• *University of Massachusetts Lowell* · MA · USA \hfill May 2018  
+Laboratory research on confocal techniques on marine Gastrotricha under Dr. Rick Hochberg's supervision
+
+
+• *University of Massachusetts Lowell* · MA · USA \hfill March 2015 to March 2015  
+Laboratory research on phylogenetic and systematics of Xenotrichulidae (Gastrotricha) Dr. Rick Hochberg's supervision. Granted by Science without Borders/CNPq – Conselho Nacional de Desenvolvimento Cientifico e Tecnologico, Brazil
+
+
+• *Università degli Studi di Urbino Carlo Bo* ·  Urbino · Italy \hfill July 2012  
+Laboratory research on freshwater Gastrotrich under Dr. Maria Balsamo’s supervision
+
+
+• *Federal Institute of Espiríto Santo, Campus Alegre* ·  Alegre · Brazil \hfill December 2009  
+Laboratory research on freshwater Gastrotrich under Dr. Maria Balsamo’s supervision
+
+# ACADEMIC HONORS AND AWARDS
+
+• *I Semana de Integração: Ensino, pesquisa e extensão - Federal University of Jequitinhonha and Mucuri Valleys*, Diamantina · MG · Brazil \hfill June 2012  
+1^st^ Place Oral Presentation 
+
+
+\newpage
+
+
+# PUBLICATIONS
+•	ARS Garraffoni, **Araújo, T.Q**, AP Lourenço, L Guidi, M Balsamo (2019) Integrative taxonomy of a new *Redudasys* species (Gastrotricha: Macrodasyida) sheds light on the invasion of fresh water habitats by macrodasyids. *Scientific Reports*.
+
+•	R Hochberg, MA Todaro, **Araújo, T.Q.**, S Atherton, M Balsamo, CY Chang, M Di Dimenico, ARS Garraffoni, L Guidi, T Känneby, A Kieneke, JJ Kirk, F Leasi, J Lee, T Nesteruk, M Dal Zotto, SJ Bownes, L Cesaroni, I-H Kim, L Münter, R Perissinotto (2017) A Tribute to William Hummon – Gastrotrich Biologist Extraordinaire.*Journal of the Marine Biological Association of the United Kingdom*.
+
+•	ARS Garraffoni, **Araújo, T.Q.** (2017) Phylogeny of *Pseudostomella* Swedmark, 1956 (Gastrotricha: Macrodasyida) base on morphological data and first insights on the historical biogeography of Thaumastodermatidae. *Proceedings of the Biological Society of Washington*.
+
+•	**Araújo, T.Q.** and Hochberg, R . (2017). Description of a new species of *Oregodasys* (Gastrotricha: Macrodasyida: Thaumastodermatidae) from Belize and Tobago. *Proceedings of the Biological Society of Washington*. https://doi.org/10.2988/17-00003.
+
+•	**Araújo, T.Q.**, R Hochberg. (2017) First description of a gastrotrich with four scale types, including feathered biancres, a novel find for Gastrotricha. *Journal of the Marine Biological Association of the United Kingdom*.
+
+•	**Araújo, T.Q.**, R Hochberg. Description of a new species of *Thaumastoderma* (Gastrotricha: Macrodasyida: Thaumastodermatidae) from Belize and Tobago. *Proceedings of the Biological Society of Washington*.
+
+•	Garraffoni, A. R. S., **Araújo, T. Q.**, Lourenço, A. P., Guidi, L., Balsamo, M. (2016). A new genus and new species of freshwater Chaetonotidae (Gastrotricha: Chaetonotida) from Brazil with phylogenetic position inferred from nuclear and mitochondrial DNA sequences. Systematics and Biodiversity.  
+
+•	**Araújo, T.Q.**, Wieloch, A.H., Vidigal, T.H.D., Hochberg, R., Garraffoni, A.R.S. (2016). *Pseudostomella dolichopoda* Todaro, 2012 and *P. cataphracta* Ruppert, 1970 (Gastrotricha: Thaumastodermatidae): new records from Brazil and USA and an updated key to the genus. *Check List*. 
+
+•	**Araújo, T. Q**., Checon, H. H., Garraffoni, A. R. S. (2016). Alpha and beta diversity of freshwater meiofauna at different spatial scales in a Neotropical lotic system. *Marine and Freshwater Research*.
+
+•	**Araújo, T. Q.**, Atherton, S., Hochberg, R. (2015) First record and a description of a new species of (Gastrotricha: Macrodasyida: Thaumastodermatidae) from Tobago. *Proceedings of the Biological Society of Washington*. 
+
+•	**Araújo, T. Q.**, Balsamo, M.; Garraffoni, A. R. S. (2014).  A new species of *Pseudostomella* (Gastrotricha, Thaumastodermatidae) from Brazil. *Marine Biodiversity*.  
+
+•	**Araújo, T. Q.**, Alcantara, F. C., Garraffoni, A. R.S. 2013. New records of Gastrotricha from Minas Gerais, Brazil. *Studies on Neotropical Fauna and Environment*.  
+
+•	Garraffoni, A. R. S., **Araújo, T. Q.** (2010). Identification of key water Gastrotricha Brazil's continental and marine/ Chave de identificação de Gastrotricha de águas continentais e marinhas do Brasil. *Papéis Avulsos de Zoologia (USP.Museu de Zoologia. Impresso)*.
+
+•	Garraffoni, A. R. S., **Araújo, T. Q.**, Lourenco, A. P., Balsamo, M. 2010. New data on freshwater psammic Gastrotricha from Brazil. *ZooKeys*. 
+
+# INVITED PRESENTATIONS
+
+• *Federal University of Piauí*, Floriano · PI · Brazil \hfill March 2019  
+Lecture: “Meiofauna e a fantástica vida entre grãos” (In Portuguese)
+
+• *State University of Santa Cruz*, Ilhéus · BA · Brazil \hfill November 2014  
+Lecture: “Introdução ao Filo Gastrotricha” (In Portuguese)
+
+# EXTENSION PRESENTATIONS
+
+• Taxonomia e Ecologia de Gastrotricha de Água Doce. 
+Fundação Centro Tecnólogico de Minas Gerais, Belo Horizonte, MG, Brazil. May 2014
+
+
+# EVENTS ORGANIZATIONS
+
+• I Symposium of Systematics and Biogeography, Diamantina · MG · Brazil \hfill Octuber 2012
+
+• Lectures day - 2010, the year of Biodiversity, Diamantina · MG · Brazil \hfill April 2010
+
+• II Biology Week, Diamantina · MG · Brazil \hfill Octuber 2009
+
+• I Training Seminar for the Professional Biologist, Diamantina, MG, Brazil \hfill September 2009
+
+• II Environmental Week, Diamantina · MG · Brazil \hfill June 2009
+
+• I Biology Week, Diamantina · MG · Brazil \hfill Octuber 2008
+
+
+# CONFERENCE PRESENTETIONS - ORAL (*In Portuguese*)
+
+• **Araújo, T. Q.**, Garraffoni, A. R. S. (2012). O uso de Gastrotricha em estudo de biomonitoramento: um estudo de caso no Parque Estadual do Rio Preto - MG. XXIX Brazilian Congress of Zoology, Salvador, BA, Brazil
+
+• Vieira, K., Alcantara, F. C., **Araújo, T. Q.**, Pimentel, D. M., Lourenço, A. P., Garraffoni, A. R. S.(2012). Efeitos da poluição por efluente doméstico na sobrevivência de Copepoda bentônico em laboratório. I Semana da Integração, Diamantina, MG, Brazil
+
+• Vieira, K., Alcantara, F. C., **Araújo, T. Q.**, Lourenço, A. P., Garraffoni, A. R. S.(2012). Efeitos da poluição por efluente doméstico na resistência de Copepoda bentônico através de bioensaio. I Seminário da Pesquisa Científica do Parque Estadual do Biribiri
+
+
+# CONFERENCE PRESENTATIONS - POSTERS (*In Portuguese*)
+
+• **Araújo, T. Q.**, Garraffoni, A. R. S. (2014). Efeito da degradação e do fluxo de corrente em comunidades meiofaunais de um ecossistema lótico no cerrado brasileiro. XXX Brazilian Congress of Zoology, Porto Alegre, RS, Brazil
+
+• **Araújo, T. Q.**, Garraffoni, A. R. S. (2014). Descrição de um novo gênero e uma nova espécie de Gastrotricha (Chaetonotidae: Chaetonotinae) do Brazil. XXX Brazilian Congress of Zoology, Porto Alegre, RS, Brazil
+
+• **Araújo, T. Q.**, Garraffoni, A. R. S., Oliveira, L. L. S., Batista, M. G. S., Batista, F. M. S., Carvalho, T. M. M., Morais, A. M. R., Wieloch, A. H., Vidigal, T. H. D. A. (2013). Primeiro levantamento de Gastrotricha no Nordeste Brasileiro. XXX Brazilian Congress of Limnology, Bonito, MS, Brazil
+
+• Oliveira, L. L. S., **Araújo, T. Q.**, Garraffoni, A. R. S (2013). Primeiro levantamento de Gastrotricha em lagoa costeira no Brasil. XXX Brazilian Congress of Limnology, Bonito, MS, Brazil
+
+• **Araújo, T. Q.**, Oliveira, L. V. L., Alcantara, F. C., Garraffoni, A. R. S.(2012). Utilização de microinvertebrados aquáticos em  estudo de biomonitoramento: um estudo de caso no Parque Estadual do Rio Preto (Brasil). XVI Congresso da Sociedade Ibérica de Limnologia, Guimarães, Portugal
+
+• Alcantara, F. C., **Araújo, T. Q.**, Gomes, M. E., Garraffoni, A. R. S. (2012). Gastrotricha brasileiros de águas continentais I: três novos morfótiposde *Polymerurus* Remane, 1927. XXIX Brazilian Congress of Zoology, Salvador, BA, Brazil
+
+• Alcantara, F. C., **Araújo, T. Q.**, Garraffoni, A. R. S. (2011). Primeiro Registro do Gênero Polymerurus Remane, 1927 (Gastrotricha) no Estado de Minas Gerais e Descrição de um Novo Morfotipo. XIII Jornada de Iniciação Científica e Tecnólogica, Diamantina, MG, Brazil
+
+• **Araújo, T. Q.**, Garraffoni, A. R. S. (2011). Levantamento de Gastrotricha em três Bacias Hidrográficas do Estado de Minas Gerais. XIII Jornada de Iniciação Científica e Tecnólogica, Diamantina, MG, Brazil
+
+• 7+ abstracts in Brazilian Professional meetings from 2008 to 2011
+
+
+# GRANTS
+
+
+• [São Paulo Research Foundation – FAPESP](http://www.fapesp.br/en/) \hfill August 2019   
+Title: Integrative Taxonomy, morphological phylogenetic analysis and evolution of muscular system of Thaumastodermatidae Remane, 1927 (Gastrotricha: Macrodasyida)  
+Funded my Postdoctoral at the State University of Campinas ($45,000)
+
+• [Science without Borders/CNPq – Conselho Nacional de Desenvolvimento Cientifico e Tecnologico, Brazil](http://www.cnpq.br) \hfill March 2015 to March 2016  
+Title: Morphological Phylogeny of Xenotrichulidae 
+Funded my International Ph.D study at University of Massachusetts Lowell, Lowell · MA · USA ($15,600)
+
+
+# JOURNAL REFEREE
+
+•	Annales Zoologici 
+
+•	European Journal of Taxonomy
+
+•	Cahiers de Biologie Marine
+
+•	Proceedings of the Biological Society of Washington
+
+
+# PERSONAL PROJECTS
+
+
+• Blog: https://araujotq.netlify.com - My blog developed with Hugo, blogdown, Rstudio,
+and GitHub
+
+
+# LANGUAGUES
+
+• Portuguese (Native speaker proficiency)
+
+• English (Advanced proficiency)
+
+
+
+

@@ -1,0 +1,274 @@
+---
+output: 
+  pdf_document: 
+    latex_engine: pdflatex
+    template: ~/Dropbox/CV/CV_TEST.tex
+geometry: margin=1in 
+
+title: "Curriculum Vitae"
+author: "Maxwel Coura Oliveira, PhD" 
+
+jobtitle: "Professor, Universidade do Oeste Paulista e Pesquisador, Universidade de Wisconsin-Madison"
+address: "Rodovia Raposo Tavares, km 572,  · Departamento de Agronomia · Pres. Prudente · SP, BRA 9067-175"
+fontawesome: yes
+email: max.oliveira@wisc.edu
+github: maxwelco
+twitter: maxwelco
+phone: "+55 (18) 99690-1070"
+web: maxweeds.rbind.io
+#updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+# EDUCAÇÃO
+
+• *Universidade de Nebraska-Lincoln*, Ph.D. Agronomia (Planta daninha) \hfill Dez 2017
+
+
+• *Universidade Federal dos Vales do Jequitinhonha e Mucuri*, MSc. Produção vegetal (Planta daninha) \hfill Jul 2013
+
+
+• *Universidade Federal dos Vales do Jequitinhonha e Mucuri*, BSc. Agronomia \hfill Jul 2011                
+
+
+
+# EXPERIÊNCIA PROFISSIONAL SELECIONADAS
+
+• *Professor*, Universidade do Oeste Paulista · Presidente Prudente · SP · BRA \hfil Fev 2020 · Atual  
+*Objetivo*: Professor e pesquisador de plantas daninhas. Ministra aulas na graduação e pós-graduação.
+
+• *Pesquisador Associado*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Universidade de Wisconsin-Madison · Madison · WI · EUA \hfil Jan 2018 · Atual  
+*Objetivo*: realizar pesquisa inovadora e colaborativa e de extensão em biologia, ecologia e manejo de ervas daninhas problemáticas em milho, soja e cânhamo sob a supervisão do Dr. Rodrigo Werle
+
+• *Doutoramento*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) Universidade de Nebraska-Lincoln, Lincoln · NE · EUA  \hfil Jan, 2014 até Dez 2017            
+*Objetivo*: Pesquisa de doutorado em Sistemas de Produção, Biologia e Ecologia de Plantas Daninhas, Manejo Integrado de Plantas Daninhas, Evolução da Resistência a Herbicidas e ensaios de eficácia de herbicidas sob a supervisão do Dr. Stevan Knezevic
+
+• *Trainee*, [TIMAC Agro](http://www.timacagro.com.br/) · Paragominas · PA · Brasil \hfill Jan a Jun 2013  
+*Objetivo*: Treinado para ser um supervisor de equipe de vendas de fertilizantes, aquisição de talentos e marketing
+
+• *Mestrado*, [Universidade Federal dos Vales do Jequitinhonha e Mucuri](http://www.ufvjm.edu.br/) · Diamantina · MG · Brasil \hfill Jul 2011 a Dez 2012  
+*Objetivo*: Mestrado em biologia, competição e manejo integrado de ervas daninhas sob supervisão do Dr. José Barbosa dos Santos
+
+• *Estágio internacional*, [The Ohio Program](https://top.osu.edu/) · OH · EUA 
+\hfill Abr 2010 a Mar 2011  
+*Objetivo*: Mão de fazenda em uma fazenda de vegetais em Michigan (EUA) e assistente em uma estufa de tomate hidropônico em Nova York, EUA
+
+
+
+# AULAS MINISTRADAS
+
+• *Universidade do Oeste Paulista*, Manejo de Plantas Daninhas \hfill  2020
+
+• *Universidade do Oeste Paulista*, Análise estatística no R \hfill 2019/2020
+
+• *Universidade de Wisconsin-Madison*, Peparação para o Camp de Herbologia \hfill 2018
+
+• *Universidade de Nebraska-Lincoln*, Lab de Plantas Invasoras \hfill 2016/2017 
+
+# MONITORIAS
+
+• *Universidade Federal dos Vales do Jequitinhonha e Mucuri*, Lab de Plantas Daninhas \hfill 2011
+
+• *Universidade Federal dos Vales do Jequitinhonha e Mucuri*, Lab de Melhoramento Genético \hfill 2009
+
+
+# PESQUISADOR VISITANTE
+
+• *Universidade de Illinois Urbana-Champaign* · IL · EUA \hfill Setembro 2017  
+Pesquisa sobre mecanísmo de resistência de *Amaranthus palmeri* para herbicidas inibidores da PPO sob supervisão de Dr. Pat Tranel
+
+
+• *Universidade do Estado do Colorado–Fort Collins* · CO · EUA \hfill Maio 2017  
+Pesquisa no lab sobre resistencia de *Amaranthus tuberculatus* aos herbicidas inibidores da HPPD sob supervisão de Dr. Todd Gaines
+
+
+• *Universidade do Estado do Colorado–Fort Collins* · CO · EUA \hfill Setembro 2016  
+Pesquisa no lab sobre fisiologia dos hebricidas inibidores da HPPD em *Amaranthus tuberculatus* sob supervisão de Dr. Franck Dayan
+
+
+• *Universidade Federal de Viçosa-Viçosa* · MG · Brasil \hfill Agosto 2012 à Dezembro 2012   
+Pesquisa no campo, lab e estufas com comportamento de herbicidas no solo e manejo de plantas daninhas sob supervisão do Dr. Antonio Alberto Silva
+
+# HONRAS ACADÊMICAS E PRÊMIOS
+
+• *Congresso da North Central Weed Science Society*, Saint louis · MO · EUA \hfill Dez 2017  
+Melhor Apresentação de Poster (Resistência de Plantas Daninhas)
+
+
+• *Competição da North Central Weed Science Society*, Ames · IA  · EUA \hfill Jul 2017  
+Primeiro Colocado Time e Primeiro Colocado Individual em Identificação de Herbicidas
+
+
+• *Universidade de Nebraska-Lincoln*, Lincoln · NE · EUA \hfill Mar 2017  
+Travel Grant ($400) to attend the 2017 Global Herbicide Resistant Conference
+
+
+• *Campeonato de Herbologia da North Central Weed Science Society*, West Laffayete · EUA \hfill Jul 2016  
+Terceiro Colocado Time 
+
+
+• *Congresso da Weed Science Society of America*, San Juan · PR \hfill Fev 2015  
+Primeiro Colocado Poster (Biologia de Plantas Daninhas)
+
+
+• *Campeonato de Herbologia da Western Weed Science Society*, Columbus · OH · EUA \hfill Julho 2015  
+Terceiro Colocado Time e Terceiro Colocado individual
+
+
+
+# MEMBRO DE SOCIEDADES PROFISSIONAIS
+
+• Weed Science Society of America
+
+• North Central Weed Science Society
+
+# MANUSCRITOS EM PREPARAÇÃO 
+
+• **Oliveira MC**, Butts T, Conley S, e Werle R. Tolerance of US Midwest Soybean Cultivars to Preemergent Applications of Metribuzin e Sulfentrazone. Enviar para: *Weed Technology*
+
+• Smith D, **Oliveira MC**, Davis V, e Werle R. (2019) Herbicide carryover evaluation following commonly applied silage corn e soybean herbicides. Enviar para: *Agronomy*
+
+• **Oliveira MC**, da Silva AL, Ulguim AR, Werle R. Assessment of Weed Management Strategies e Challenges in Brasilian Cropping Systems. Enviar para: *Weed Technology*
+
+
+# MANUSCRITOS SUBMETIDOS
+
+• **Oliveira MC**, Giacomini D, Tranel P, e Werle R. Molecular e greenhouse validation of field evolved resistance to glyphosate e PPO-inhibitors in Nebraska. Submission: *Pest Management Science*
+
+• **Oliveira MC**, Osipitan OA, Begcy K, e Werle R. Cover crops, hormones e herbicides: priming an Integrated Weed Management Strategy. Enviado para: *Plant Science* (convidado)
+
+# PUBLICAÇÕES SELECIONADAS
+
+• Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, e Sikkema PH (2019) Off-Target Movement Assessment of Dicamba in North America. in press *Weed Technology*. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+
+• **Oliveira MC**, Butts L, e Werle R (2019) Survey of cover crop management in Nebraska. 9:1-14 *Agriculture*, convidado: “Cover Crops”. doi: [10.3390/agriculture9060124](https://doi.org/10.3390/agriculture9060124)
+
+• Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, e Jhala AJ (2019) Critical Time for Weed Removal in Glyphosate-Resistant Soybean as Influenced by Preemergence Herbicides. 33-393:399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
+
+• Ferreira EA, Paiva MCG, Pereira GAM, **Oliveira MC**, Silva, EB (2019) Fitossociologia de plantas daninhas na cultura do milho submetida à aplicação de doses de nitrogênio, *Journal of Neotropical Agriculture*, 6:100-107 (in Portuguese with English abstract). doi: [10.32404/rean.v6i2.2710](https://doi.org/10.32404/rean.v6i2.2710)
+
+• Werle R, **Oliveira MC**, Jhala AJ, Klein R, Proctor CA, e Rees J (2018) Survey of Nebraska farmers’
+adoption of dicamba-tolerant soybean technology e off-target movement. *Weed
+Technology*, 32:754--761. doi: [10.1017/wet.2018.62](https://doi.org/10.1017/wet.2018.62)
+
+• **Oliveira MC**, Gaines TA, Patterson EP, Jhala AJ, Irmak S, Amundsen K, e Knezevic SZ (2018)
+Interspecific e intraspecific transfer of metabolism based mesotrione resistance transfer
+in dioecious weedy *Amaranthus*. *Plant Journal*. 96:1051--1063. doi: [10.1111/tpj.14089](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14089)
+
+• Knezevic SZ, Ospitan AO, **Oliveira MC**, e Scott JE (2018) *Lythrum salicaria* (purple loosestrife) control with herbicides: multiyear applications. *Invasive Plant Science e Management*. 11:143--154. doi: [10.1017/inp.2018.17](https://doi.org/10.1017/inp.2018.17)
+
+• **Oliveira MC**, Pereira GAM, Ferreira EA, Barbosa JB, Knezevic SZ, e Werle R (2018) Additive
+design: the concept e data analysis. *Weed Research*, 58:338--347. doi: [10.1111/wre.12317](https://onlinelibrary.wiley.com/doi/full/10.1111/wre.12317)
+
+• **Oliveira MC**, Gaines TA, Jhala AJ, e Knezevic SZ (2018) Inheritance of mesotrione
+resistance in an (*Amaranthus tuberculatus*) (var. *rudis*) population from Nebraska, EUA.
+*Frontiers in Plant Science*, 9:60. doi: [10.3389/fpls.2018.00060](https://www.frontiersin.org/articles/10.3389/fpls.2018.00060/full)
+
+• Miller JJ, Schepers JS, Shapiro CA, Arnenson NJ, Eskridge KM, **Oliveira MC**, e Giesler LJ
+(2018) Characterizing soybean vigor e productivity using multiple crop canopy sensor
+readings. *Field Crops Research*, 216:22--31. doi: [10.1016/j.fcr.2017.11.006](https://www.sciencedirect.com/science/article/pii/S0378429017310341)
+
+• **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, e Knezevic SZ (2018)
+Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*)
+population from Nebraska, EUA with cytochrome P450 inhibitors. *Pest Management
+Science*, 74:2296--2305. (Publicação convidado) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
+
+• **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, e Knezevic SZ (2017)
+Confirmation e Control of HPPD-inhibiting Herbicide-Resistant Waterhemp
+(*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: 
+[10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-e-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
+
+• Braga RR, Santos JB, Zanuncio JC, Bibiano CS, Ferreira EA, **Oliveira MC**, Silva DV, e Serrāo JE
+(2016) Effect of growing *Brachiaria brizantha* on phytoremediation of picloram under
+different pH environments. *Ecological Engineering*, 94:102--106. doi: [10.1016/j.ecoleng.2016.05.050](https://www.sciencedirect.com/science/article/pii/S0925857416302853)
+
+# PALESTRAS E TREINAMENTOS
+
+• *Valoriza Agronegocios*, Patos de Minas · MG · Brasil \hfill Jan 2019  
+Título: “Treinamento resistência, dicamba, identificação de plantas daninhas e herbicidas”
+
+• *II IMAST*, Dracena · SP · Brasil \hfill Setembro 2018  
+Título: “Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA”
+
+• *JF Crow Institute for the Study of Evolution*, Madison · WI · EUA \hfill Set 2018  
+Título: Evolução de *Amaranthus tuberculatus* aos herbicidas inibidores da 4-hydroxyphepylpiruvate dioxygenase
+
+
+# PALESTRAS EM EVENTOS DE EXTENSÃO
+
+• Evolução de Resistência em *Amaranthus tuberculatus*.  
+Waterhemp worshop, Chippewa Falls, Bangor, Janesville, Appleton, WI, EUA, Mar 2019
+
+• Dia de Campo Planta Daninhas, Arlington e Lancaster · WI · EUA \hfill Jul 2018
+
+• Dia de Campo da Mandioca: Especificidades e Práticas, Diamantina, MG, Brasil \hfill Out 2011
+
+
+# RESUMOS DE CONGRESSOS
+
+• *70+ resumos em congressos no Brasil e EUA entre 2008 e 2020*
+
+
+# PROJETOS APROVADOS
+
+
+• [UW-Madison Division of Extension e UW-Madison CALS](https://oeo.cals.wisc.edu) \hfill Mar 2019 Título: Adaptation of Industrial Hemp (*Cannabis sativa*) to Agronomic practices in Wisconsin
+Pago: US$35,000
+
+• [Wisconsin Corn Promotion Board](http://wicorn.org) \hfill Jan 2019  
+Título: Challenging the Weed Management Challenges in Wisconsin Corn Production 
+Pago: US$30,000
+
+• [CAPES](http://www.capes.gov.br/) Foundation \hfill September 2013  
+Título: Evolution of HPPD-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska  
+Pago: US$130,000 - Doutorado na Universidade de Nebraska-Lincoln
+
+# MANUAIS
+
+• Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean \hfill Fev 2020    [Link](http://www.wiscweeds.info/img/2018%202019%20waterhemp%20challenge/PreEmergence_waterhempFINAL.pdf)
+
+• Cover Crops 101 \hfill Ago 2019   
+[Link](https://learningstore.extension.wisc.edu/collections/farming/products/cover-crops-101)
+
+• Chave para Identificação de Injúrias Causadas por Herbicidas \hfill Set 2018  
+[Inglês](http://www.wiscweeds.info/img/2018%20Herbicide%20SOA%20injury%20chart/2018_HerbicideInjury_EN.pdf) e [Português](https://maxweeds.rbind.io/files/Herbicide%20chart/2018_HerbicideInjury_BRA.pdf).
+
+• UW Waterhemp Challenge: Preliminary Report Comparison of Soil Residual Herbicides \hfill Ago 2018  
+[Link](http://www.wiscweeds.info/img/2018%20waterhemp%20challenge/Waterhemp%20Management%20PRE%20Comparison_Lancaster%20WI%202018.pdf)
+
+# PROGRAMAÇÃO
+
+• Terminal
+
+• R 
+
+• C++
+
+• GitHub
+
+• Agricultural Research Management (ARM)
+
+• SAS
+
+# PROJETOS PESSOAIS
+
+• Open Source Weed Science – Um repositório com tutoriais de análise e visualização de dados publicados em artigos de planta daninha e áreas relacionadas: https://openweedsci.org
+
+• Meu blog pessoal - Blog: https://maxweeds.rbind.io
+
+# LINGUAS
+
+• Português (Nativo)
+
+• Inglês (Fluente)
+
+• Espanhol (Intermediário) 
+
