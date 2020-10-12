@@ -35,45 +35,127 @@ urlcolor: blue
 
 • *Federal University of Jequitinhonha and Mucuri Valleys*, BSc. Agronomy \hfill July 2011
 
-# PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCES
 
-• *Professor*, [University of Western Sao Paulo](http://www.unoeste.br/) · Presidente Prudente · SP · Brazil February 2020\
-*Goal*: conduct innovative and collaborative research and teaching on biology, ecology and management of troublesome weeds in Western Sao Paulo.
+# Western São Paulo University
 
-• *Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · University of Wisconsin-Madison · Madison · WI · USA January 2018\
-*Goal*: conduct innovative and collaborative research and extension programming on biology, ecology and management of troublesome weeds in corn, soybeans and industrial hemp under Dr. Rodrigo Werle's supervision
+*Assistant Professor* · Presidente Prudente · SP · Brazil \hfill Fev 2020 - Current 
 
-• *Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) University of Nebraska-Lincoln, Lincoln · NE · USA \hfil January, 2014 to December 2017\
-*Goal*: Doctoral research in Weed Biology and Ecology, Integrated Weed Management, Herbicide Resistance Evolution and Management, and Herbicide efficacy trials under Dr. Stevan Knezevic's supervision
+-   Part-time job
 
-• *Sales Management Trainee*, [TIMAC Agro](http://www.timacagro.com.br/) · Paragominas · PA · Brazil \hfill January to June 2013\
-*Goal*: Trained to be a supervisor of fertilizers sales team, talent acquisition, and marketing
+-   *Goal*: conduct innovative and collaborative research and teaching on biology, ecology and management of troublesome weeds in Western Sao Paulo.
 
-• *Graduate Research Assistant*, [Federal University of Jequitinhonha and Mucuri Valleys](http://www.ufvjm.edu.br/) · Diamantina · MG · Brazil \hfill July 2011 to December 2012\
-*Goal*: Masters research in weed Biology, competition, and integrated weed management under Dr. José Barbosa dos Santos' supervision
+# University of Wisconsin-Madison
 
-• *Undergraduate Senior Trainee*, [The Ohio Program](https://top.osu.edu/) · OH · USA \hfill April 2010 to March 2011\
-*Goal*: farm hand in a vegetable farm in Michigan (USA) and greenhouse assistant in a hydroponic tomato greenhouse in New York, USA.
+*Research Assistant*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Remote \hfill Jan 2020 - Current 
 
-• *Undergraduate Junior Trainee*, Pulveriza Fertilizers · Matipó · MG · Brazil \hfill July 2009\
-*Goal*: work in a industry of foliar fertilizers for corn, vegetables and coffee trees
+-   Writing manuscripts/grants
+-   Supervising graduate students
+-   Data analysis/modeling
 
-• *Coordinator*, [CREA Jr](https://junior.creadf.org.br/) · Diamantina · MG · Brazil \hfill January to December 2009\
-*Goal*: leading the club for mentoring students, connecting students to professional engineers, organizing seminars, prospective of new members
+*Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
 
-• *Undergraduate Intern*, [EMATER MG](http://www.emater.mg.gov.br/) · Santana do Paraíso · MG · Brazil \hfill July 2008 *Goal*: extension work with small vegetables growers
+-   Research focus on weed management on corn, soybeans and industrial hemp.
+-   Investigations on herbicide resistance weeds in Wisconsin
+-   Train the Wisconsin Weed Science Team
+-   Writing manuscripts/grants
+-   Extension talks and activities
+-   Herbicide efficacy
+-   Data analysis/modeling
+
+# University of Nebraska-Lincoln
+
+*Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfil January, 2014 to December 2017
+
+1.  Herbicide resistance/weed ecology studies: field, greenhouse, and laboratory.
+2.  Field herbicide efficacy trials
+3.  Extension talks and activities
+4.  Data analysis/modeling
+
+# TIMAC Agro Brasil
+
+*Sales Management Trainee* Paragominas · PA · Brazil \hfill January to June 2013\
+
+1.  Sales
+
+2.  Marketing
+
+# Federal University of Jequitinhonha and Mucuri Valleys
+
+*Graduate Research Assistant*, Diamantina · MG · Brazil \hfill July 2011 to December 2012
+
+-   Research on weed biology/ecology studies
+
+Undergraduate Research Assistant, Diamantina · MG · Brazil \hfill March 2006 to July 2011
+
+-   Fate of herbicide in soils
+-   Forage grass for soil health
+
+# The Ohio Program
+
+*Undergraduate Senior Trainee*, OH · USA \hfill April 2010 to March 2011
+
+-   Farm assistant in vegetable/orchard at Long's Family Farm in Commerce, MIM, USA
+
+-   Greenhouse assistant in hydroponic tomatoes at Intergrow Greenhouses in Albion, NY, USA
+
+# Pulveriza Fertilizantes
+
+*Undergraduate Junior Trainee*, Matipó · MG · Brazil \hfill July 2009
+
+-   Assisted in foliar fertilizer manufacturing
+
+# EMATER MG
+
+*Undergraduate Intern*, Santana do Paraíso · MG · Brazil \hfill July 2008
+
+-   Assisted on consulting and extension activities to small vegetables growers
 
 \newpage
 
-# TEACHING EXPERIENCE
+# **TALKS**
 
-• *University of Wisconsin-Madison*, Weeds Contest Prep Course \hfill Spring 2018
+# Keynote speaker
 
-• *University of Nebraska-Lincoln*, Invasive Plants Lab \hfill Spring 2016/2017
+-   II Workshop Internacional de Defesa Sanitária Vegetal Tema: Dispersão de Pragas, Online · Brazil \hfill September 2020\
+    Lecture: "Dispersão de plantas daninhas resistêntes a herbicidas no mundo" (In Portuguese)
 
-• *Federal University of Jequitinhonha and Mucuri Valleys*, Weed Manag Lab \hfill Spring 2011
+-   *II IMAST*, Dracena · SP · Brazil \hfill September 2018\
+    Lecture: "Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA" (In Portuguese)
 
-• *Federal University of Jequitinhonha and Mucuri Valleys*, Crop Improv Lab \hfill Spring/Fall 2009
+-   *JF Crow Institute for the Study of Evolution*, Madison · WI · USA \hfill September 2018\
+    Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide resistance in *Amaranthus tuberculatus*
+
+# **TEACHING, MENTORING AND LEADERSHIP**
+
+# **Teaching**
+
+-   Programming in R, Western São Paulo University \hfill Fall 2019/2020
+-   Weed Biology and Management, Western São Paulo University \hfill Fall 2020
+-   Wheat, Western São Paulo University \hfill Spring/Fall 2020
+-   Weeds Contest Prep Course, *University of Wisconsin-Madison* \hfill Spring 2018
+-   Invasive Plants Lab (*Teaching Assistant*), *University of Nebraska-Lincoln* \hfill Spring 2016/2017
+-    Weed Biology and Management Lab (*Teaching Assistant*), *Federal University of Jequitinhonha and Mucuri Valleys* \hfill Spring 2011
+-   Crop Improvement Lab (*Teaching Assistant*) *Federal University of Jequitinhonha and Mucuri Valleys* \hfill Spring/Fall 2009
+
+# **Mentoring and Student Supervision**
+
+-   Michele Cardoso Santos, Undergraduate Research Assistant · Western São Paulo University, 2020
+-   Diogo Mendonça Rodrigues Lemos, MSc · Western São Paulo University, 2020
+-   Wilson Geraldo Pereira Neto, MSc · University of São Paulo, 2020
+-   Victor Hugo Vidal Ribeiro, MSc · University of Wisconsin-Madison, 2018-20
+-   Sarah Striegel, MSc · University of Wisconsin-Madison, 2018-20
+-   Haleigh Ortmeier-Clarke, MSc · University of Wisconsin-Madison, 2019/20
+-   Kolby Grint, MSc · University of Wisconsin-Madison, 2019/20
+-   Felipe Faleco, MSc · University of Wisconsin-Madison, 2019/20
+-   Nikola Arsenijevic, MSc · University of Wisconsin-Madison, 2019
+-   Lina Liu, Undergraduate Research Assistant · University of Wisconsin-Madison, 2018
+-   David Wang, Undergraduate Research Assistant · University of Wisconsin-Madison, 2018
+-   Pavle Pavlovic, Undergraduate Research Assistant · University of Nebraska-Lincoln, 2017
+-   Amanda Wistead, Undergraduate Research Assistant · University of Nebraska-Lincoln, 2014/15
+-   Ícaro Freitas, Undergraduate Research Assistant · University of Nebraska-Lincoln, 2014
+-   Sergio Gonçalves Oliveira, Undergraduate Research Assistant · University of Nebraska-Lincoln, 2014
+-   Kyle Kardell, Undergraduate Research Assistant · University of Nebraska-Lincoln, 2014
 
 # VISITOR SCHOLAR
 
@@ -89,31 +171,40 @@ Laboratory research on herbicide physiology in *Amaranthus tuberculatus* from Ne
 • *Federal University of Viçosa-Viçosa* · MG · Brazil \hfill August 2012 to December 2012\
 Field, laboratory, and greenhouse research with fate of herbicide in the soil, and integrated weed management under Dr. Antonio Alberto Silva's supervision
 
-# ACADEMIC HONORS AND AWARDS
+# **GRANTS, SCHOLARSHIPS AND AWARDS**
 
-• *North Central Weed Science Society Meeting*, Saint louis · MO · USA \hfill December 2017\
-1^st^ Place Outstanding Poster Presentation (Herbicide Resistance section)
+-   American Society of Agronomy, San Antonio, TX · USA \hfill November 2017 \
+    Cover Crop 101, Extension Education Community Award, category short publication (16 pages or less)
 
-• *North Central Weed Science Society Weed Contest*, Ames · IA · USA \hfill July 2017\
-1^st^ Place Graduate Team and 1^st^ Place Overall Individual Herbicide ID
+```{=html}
+<!-- -->
+```
+-   *North Central Weed Science Society Meeting*, Saint louis · MO · USA \hfill December 2017\
+    1^st^ Place Outstanding Poster Presentation (Herbicide Resistance section)
 
-• *University of Nebraska-Lincoln*, Lincoln · NE · USA \hfill March 2017\
-Travel Grant (\$400) to attend the 2017 Global Herbicide Resistant Conference
+-   *North Central Weed Science Society Weed Contest*, Ames · IA · USA \hfill July 2017\
+    1^st^ Place Graduate Team (Thomas Butts, **Maxwel Oliveira**, Bruno Canella Vieira, and Clint Baiermann) and 1^st^ Place Overall Individual Herbicide ID
 
-• *North Central Weed Science Society Weed Contest*, West Laffayete · USA \hfill July 2016\
-3^rd^ Place Graduate Team
+-   U*niversity of Nebraska-Lincoln*, Lincoln · NE · USA \hfill March 2017\
+    Travel Grant (\$400) to attend the 2017 Global Herbicide Resistant Conference
 
-• *Weed Science Society of America Meeting*, San Juan · PR \hfill February 2015\
-1^st^ Place Outstanding Poster Presentation (Weed Biology section)
+-   *North Central Weed Science Society Weed Contest*, West Lafayette · USA \hfill July 2016\
+    3^rd^ Place Graduate Team (Parminder Chahal, Bruno Canella Vieira, **Maxwel Oliveira**, and Don Treptow)
 
-• *Western Weed Science Society Weed Contest*, Columbus · OH · USA \hfill July 2015\
-3^rd^ Place Graduate Team and 3^rd^ Place Overall Individual Graduate
+-   *Weed Science Society of America Meeting*, San Juan · PR \hfill February 2015\
+    1^st^ Place Outstanding Poster Presentation (Weed Biology section)
 
-• *Mayrink Vieira High School Science Fair*, Ipatinga · MG · BRA \hfill September 2002\
-Outstanding team project "Batteries and electrolysis"
+-   *Western Weed Science Society Weed Contest*, Columbus · OH · USA \hfill July 2015\
+    3^rd^ Place Graduate Team Parminder Chahal, Bruno Canella Vieira, **Maxwel Oliveira**, and Don Treptow) and 3^rd^ Place Overall Individual Graduate
 
-• *Mayrink Vieira High School Science Fair*, Ipatinga · MG · BRA \hfill September 2001\
-Outstanding team project "Cell organelles"
+-   LASPAU-administered Ph.D. Fulbright scholarship -- Science without Borders Brazilian Program \hfill September 2013\
+    Ph.D at the University of Nebraska-Lincoln (\$130,000)
+
+-   *Mayrink Vieira High School Science Fair*, Ipatinga · MG · BRA \hfill September 2002\
+    Outstanding team project "Batteries and electrolysis"
+
+-   *Mayrink Vieira High School Science Fair*, Ipatinga · MG · BRA \hfill September 2001\
+    Outstanding team project "Cell organelles"
 
 \newpage
 
@@ -186,12 +277,6 @@ Outstanding team project "Cell organelles"
 • *Valoriza Agronegocios*, Patos de Minas · MG · Brazil \hfill January 2019\
 Lecture: "Treinamento resistência, dicamba, identificação de plantas daninhas e herbicidas" (In Portuguese)
 
-• *II IMAST*, Dracena · SP · Brazil \hfill September 2018\
-Lecture: "Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA" (In Portuguese)
-
-• *JF Crow Institute for the Study of Evolution*, Madison · WI · USA \hfill September 2018\
-Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide resistance in *Amaranthus tuberculatus*
-
 # EXTENSION PRESENTATIONS
 
 • Waterhemp Resistance Evolution and Status. Waterhemp worshop, Chippewa Falls, Bangor, Janesville, Appleton, WI, USA, March 2019
@@ -248,7 +333,7 @@ Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide re
 
 • Knezevic SZ, Oliveira MC, Scott JE (2016) Simulated drift of dicamba on potentially sensitive crops. Proceeding of the North Central Weed Science Society Annual Meetings, Des Moines, IA
 
-• **Oliveira MC**, cott JE, Jhala AJ, Gaines T, Knezevic SZ (2016) Herbicide Programs to control HPPD-resistant Common Waterhemp in Nebraska. Proceeding of the Weed Science Society of America Annual Meetings, San Juan, PR
+• **Oliveira MC**, Scott JE, Jhala AJ, Gaines T, Knezevic SZ (2016) Herbicide Programs to control HPPD-resistant Common Waterhemp in Nebraska. Proceeding of the Weed Science Society of America Annual Meetings, San Juan, PR
 
 • **Oliveira MC**, Gaines T, Jhala A, Knezevic SZ (2016) Pollen-mediated resistance transfer from HPPD-resistance waterhemp to susceptible Palmer amaranth in Nebraska. Proceeding of the Weed Science Society of America Annual Meetings, San Juan, PR
 
@@ -278,9 +363,7 @@ Title: Challenging the Weed Management Challenges in Wisconsin Corn Production F
 Title: Adaptation and Management of Glyphosate-Resistant Pigweed Species in the Northern Midwest US Soybean Production Systems\
 Submitted but not funded
 
-• [CAPES](http://www.capes.gov.br/) Foundation \hfill September 2013\
-Title: Evolution of HPPD-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska\
-Funded my Ph.D at the University of Nebraska-Lincoln (\$130,000)
+•
 
 # **TECHNICAL BULETINS AND EXTENSION ARTICLES** 
 

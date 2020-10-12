@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.10)  11 OCT 2020 14:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.10)  11 OCT 2020 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,21 +507,26 @@ nput line 115.
 (/Users/maxwelco/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesomet
 hree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-) [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+[1
 
 {/Users/maxwelco/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6] [7] [8] 
+[2] [3] [4] [5] [6] [7] [8] [9] 
 AED: lastpage setting LastPage
-[9] (./Curriculum-Vitae.aux)
+[10] (./Curriculum-Vitae.aux)
 Package rerunfilecheck Info: File `Curriculum-Vitae.out' has not changed.
-(rerunfilecheck)             Checksum: 469D5EE1EF0FD9249267905D0A265831;2438.
+(rerunfilecheck)             Checksum: 0756A9031A80C25CF6E4C5EAD96D654E;4518.
  ) 
 Here is how much of TeX's memory you used:
- 14090 strings out of 481885
- 205622 string characters out of 5931034
- 523149 words of memory out of 5000000
- 29839 multiletter control sequences out of 15000+600000
- 583646 words of font info for 293 fonts, out of 8000000 for 9000
+ 14125 strings out of 481885
+ 206370 string characters out of 5931034
+ 524889 words of memory out of 5000000
+ 29863 multiletter control sequences out of 15000+600000
+ 582512 words of font info for 277 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,12n,66p,1205b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/maxwelco/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Use
@@ -535,10 +540,10 @@ type1/public/fontawesome/FontAwesome.pfb></Users/maxwelco/Library/TinyTeX/texmf
 f-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/maxwelco/Library/TinyTeX/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/maxwelco/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Curriculum-Vitae.pdf (9 pages, 132346 bytes).
+Output written on Curriculum-Vitae.pdf (10 pages, 139266 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 261 compressed objects within 3 object streams
- 76 named destinations out of 1000 (max. 500000)
- 18561 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 369 PDF objects out of 1000 (max. 8388607)
+ 329 compressed objects within 4 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 18657 words of extra memory for PDF output out of 20736 (max. 10000000)
 
