@@ -1,7 +1,7 @@
 ---
 name: Maxwel Coura 
 surname: Oliveira
-position: "Weed Scientist · Data analyst"
+position: "Weed Scientist"
 address: "São Paulo, SP · Brazil"
 phone: +55 18 99690 1070
 www: maxweeds.rbind.io
@@ -136,11 +136,11 @@ Advisor: Dr. José B Santos
 
 4.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
 
-5.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-Target Movement Assessment of Dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+5.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-target movement assessment of dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
 
 6.  **Oliveira MC**, Butts L, and Werle R (2019) Survey of cover crop management in Nebraska. 9:1-14 *Agriculture* (Invited publication). doi: [10.3390/agriculture9060124](https://doi.org/10.3390/agriculture9060124)
 
-7.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical Time for Weed Removal in Glyphosate-Resistant Soybean as Influenced by Preemergence Herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
+7.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical time for weed removal in glyphosate-resistant soybean as influenced by preemergence herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
 
 8.  Ferreira EA, Paiva MCG, Pereira GAM, **Oliveira MC**, Silva, EB (2019) Fitossociologia de plantas daninhas na cultura do milho submetida à aplicação de doses de nitrogênio, *Journal of Neotropical Agriculture*, 6:100-107 (in Portuguese with English abstract). doi: [10.32404/rean.v6i2.2710](https://doi.org/10.32404/rean.v6i2.2710)
 
@@ -160,7 +160,7 @@ Advisor: Dr. José B Santos
 
 16. **Oliveira MC**, Feist D, Eskelsen S, Scott JE, and Knezevic SZ (2017) Weed control in soybean with preemergence and postemergence-applied herbicides. *Crop, Forage, and Turfgrass Management*, 3:1--7
 
-17. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and Control of HPPD-inhibiting Herbicide-Resistant Waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
+17. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and control of HPPD-inhibiting herbicide-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
 
 18. Butts TR, Miller JJ, Pruitt JD, Vieira BC, **Oliveira MC**, Ramirez II S, and Lindquist JL (2017) Light quality effect on corn growth as influenced by weed species and nitrogen rate. *Journal of Agricultural Science*, 9:15--27. doi: [10.5539/jas.v9n1p15](http://www.ccsenet.org/journal/index.php/jas/article/view/63437)
 
@@ -186,17 +186,23 @@ Advisor: Dr. José B Santos
 
 # Technical bulletins and extension articles
 
-1.  Alves DP, Reis MR, Pereira GAM, Silva MMJ, Nascimento MA, and **Oliveira** MC (2020) Injúrias causadas por residual de herbicidas na cultura do alho. *Universidade Federal de Viçosa* [Link](https://boletimagrotecnico.crp.ufv.br/?wpdmpro=boletim-03-injurias-causadas-por-residual-de-herbicidas-na-cultura-do-alho)
+1. Striegel S, **Oliveira MC**, Arneson NJ, Conley SP, Stoltenberg DE, and Werle R (2020) Spray solution pH as influenced by synthetic auxin formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.info/img/Update%20Series%20Articles/WWRUS%20Article%201_Spray%20Solution%20pH.pdf)
 
-2.  Gomes CA, Reis MR, Silva MMJ, Pereira GAM, and **Oliveira** MC (2020) Injúrias causadas por residual de herbicidas na cultura da cebola. *Universidade Federal de Viçosa* [Link](https://boletimagrotecnico.crp.ufv.br/?wpdmpro=boletim-02-injurias-causadas-por-residual-de-herbicidas-na-cultura-da-cebola)
+1. Striegel S, **Oliveira MC**, Arneson NJ, Conley SP, Stoltenberg DE, and Werle R (2020) Soybean injury as influenced by synthetic auxin
+formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.info/img/Update%20Series%20Articles/WWRUS%20Article%202_Low%20tunnel%20volatility.pdf)
 
-3.  **Oliveira MC**, Pereira GAM, Takano H, Nunes AL, and Reis MR (2020) Classificação dos herbicidas no Brasil. *maxweeds* [Link](https://maxweeds.rbind.io/post/chart/Chart_Herbicida.pdf)
 
-4.  Arneson NJ, Smith DH, DeWerff R, **Oliveira MC, and** Rodrigo Werle (2019) Residual control of waterhemp with pre-emergence herbicides in soybean. *WiscWeeds* [Link](https://www.wiscweeds.info/img/2018%202019%20waterhemp%20challenge/PreEmergence_waterhempFINAL.pdf)
+1.  Alves DP, Reis MR, Pereira GAM, Silva MMJ, Nascimento MA, and **Oliveira MC** (2020) Injúrias causadas por residual de herbicidas na cultura do alho. *Universidade Federal de Viçosa* [Link](https://boletimagrotecnico.crp.ufv.br/?wpdmpro=boletim-03-injurias-causadas-por-residual-de-herbicidas-na-cultura-do-alho)
 
-5.  Smith DH, Broeske M, Patton J, Shelley K, Arriaga F, Jensen B, **Oliveira MC,** Briski B, Bubolz B, Rushmann R, Johnson H, Schriefer G, and Sorge M (2019) Cover Crops 101. *University of Wisconsin-Madison* [Link](https://learningstore.extension.wisc.edu/collections/farming/products/cover-crops-101)
+1.  Gomes CA, Reis MR, Silva MMJ, Pereira GAM, and **Oliveira MC** (2020) Injúrias causadas por residual de herbicidas na cultura da cebola. *Universidade Federal de Viçosa* [Link](https://boletimagrotecnico.crp.ufv.br/?wpdmpro=boletim-02-injurias-causadas-por-residual-de-herbicidas-na-cultura-da-cebola)
 
-6.  **Oliveira MC** and Werle R (2018) Herbicide site of action key for crop injury symptoms. *WiscWeeds* Link: [EN](https://maxweeds.rbind.io/files/2018_HerbicideInjury_EN.pdf) and [PT](https://maxweeds.rbind.io/files/2018_HerbicideInjury_BRA.pdf).
+1.  **Oliveira MC**, Pereira GAM, Takano H, Nunes AL, and Reis MR (2020) Classificação dos herbicidas no Brasil. *maxweeds* [Link](https://maxweeds.rbind.io/post/chart/Chart_Herbicida.pdf)
+
+1.  Arneson NJ, Smith DH, DeWerff R, **Oliveira MC, and** Rodrigo Werle (2019) Residual control of waterhemp with pre-emergence herbicides in soybean. *WiscWeeds* [Link](https://www.wiscweeds.info/img/2018%202019%20waterhemp%20challenge/PreEmergence_waterhempFINAL.pdf)
+
+1.  Smith DH, Broeske M, Patton J, Shelley K, Arriaga F, Jensen B, **Oliveira MC,** Briski B, Bubolz B, Rushmann R, Johnson H, Schriefer G, and Sorge M (2019) Cover Crops 101. *University of Wisconsin-Madison* [Link](https://learningstore.extension.wisc.edu/collections/farming/products/cover-crops-101)
+
+1.  **Oliveira MC** and Werle R (2018) Herbicide site of action key for crop injury symptoms. *WiscWeeds* Link: [EN](https://maxweeds.rbind.io/files/2018_HerbicideInjury_EN.pdf) and [PT](https://maxweeds.rbind.io/files/2018_HerbicideInjury_BRA.pdf).
 
 # Invited talks and presentations
 
@@ -312,7 +318,7 @@ Advisor: Dr. José B Santos
 
 -   Programming in R, Western São Paulo University \hfill Fall 2019/2020
 
--   Weed Biology and Management, Western São Paulo University \hfill Fall 2020
+-   Weed Biology and Management, Western São Paulo University \hfill Spring/Fall 2020
 
 -   Wheat, Western São Paulo University \hfill Spring/Fall 2020
 
@@ -383,7 +389,7 @@ Advisor: Dr. José B Santos
 
 -   Poster judge for 2019 Weed Science Society of America Meeting, New Orleans, LA
 
--   Poster judge for North Central Weed Science Society Meeting, 2018/19
+-   Poster judge for North Central Weed Science Society Meeting, 2018/19/20
 
 -   Grader for North Central Weed Science Society Weeds Contest, 2018/19
 
