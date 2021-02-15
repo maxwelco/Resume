@@ -2,7 +2,7 @@
 name: Maxwel Coura 
 surname: Oliveira
 position: "Weed Scientist"
-address: "São Paulo, SP · Brazil"
+address: "Rio Paranaíba, MG · Brazil"
 phone: +55 18 99690 1070
 www: maxweeds.rbind.io
 email: "maxwelco@gmail.com"
@@ -14,7 +14,10 @@ output: vitae::awesomecv
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+knitr::opts_chunk$set(
+    echo = FALSE, 
+    warning = FALSE, 
+    message = FALSE)
 library(vitae)
 ```
 
@@ -127,6 +130,9 @@ Advisor: Dr. José B Santos
 -   Assisted on consulting and extension activities to small vegetables growers
 
 # Peer-reviewed publications
+
+1. Ribeiro VHV, Arneson NJ, **Oliveira MC**, Read H, Maia LGS, Ané JM, Werle R (2021) Influence of PRE-emergence herbicides on soybean development, root nodulation and symbiotic nitrogen fixation crop protection. Accepted at Crop Protection Journal
+
 
 1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2020) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology in press* doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
 
@@ -275,6 +281,12 @@ formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.
 
 -   Spanish (Intermediate)
 
+# Certifications
+
+-   Teaching and [Tidyverse Instructor Certification](https://education.rstudio.com/trainers/people/oliveira+maxwel/) \hfill February 2021\
+    Issue by [Rstudio](https://rstudio.com/)
+
+
 # Grants, scholarships and awards
 
 -   American Society of Agronomy, San Antonio, TX · USA \hfill November 2019\
@@ -375,13 +387,15 @@ formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.
 
 # Professional society memberships
 
--   Weed Science Society of America
+-   Brazilian Weed Science Society
 
 -   North Central Weed Science Society
 
+-   Weed Science Society of America
+
 # Services
 
--   Founder and board member, Open Weed Science - <https://www.openweedsci.org/>
+-   Founder and creative director, Open Weed Science - <https://www.openweedsci.org/>
 
 -   Ad-hoc Reviewer for Weed Research, Pest management Science, Agronomy, Weed Science, Journal of Agricultural Science, Crop Protection, Plos one, Scientia Agricola, Chemosphere, Planta daninha
 
