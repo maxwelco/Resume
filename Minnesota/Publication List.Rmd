@@ -1,0 +1,117 @@
+---
+title: "Publication list"
+author: | 
+  | Maxwel Coura Oliveira, Ph.D
+  | Postdoctoral Research Associate, University of Wisconsin-Madison
+  
+date: ""
+output: pdf_document
+
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[CO,CE]{Publication list}
+- \fancyfoot[CO,CE]{Publication list - Maxwel Coura Oliveira}
+- \fancyfoot[LE,RO]{\thepage}
+
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+**1** · Werle R, **Oliveira MC**, Jhala AJ, Klein R, Proctor CA, and Rees J (2018) Survey of Nebraska farmers’
+adoption of dicamba-tolerant soybean technology and off-target movement. *Weed
+Technology*, in press. doi: [10.1017/wet.2018.62](https://doi.org/10.1017/wet.2018.62)
+
+**2** · **Oliveira MC**, Gaines TA, Patterson EP, Jhala AJ, Irmak S, Amundsen K, and Knezevic SZ (2018)
+Interspecific and intraspecific transfer of metabolism based mesotrione resistance transfer
+in dioecious weedy *Amaranthus*. *The Plant Journal*. 96:1051--1063. doi: [10.1111/tpj.14089](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14089)
+
+
+**3** · Knezevic SZ, Ospitan AO, **Oliveira MC**, and Scott JE (2018) *Lythrum salicaria* (purple loosestrife) control with herbicides: multiyear applications. *Invasive Plant Science and Management*. 11:143--154. doi: [10.1017/inp.2018.17](https://doi.org/10.1017/inp.2018.17)
+
+
+**4** · **Oliveira MC**, Pereira GAM, Ferreira EA, Barbosa JB, Knezevic SZ, and Werle R (2018) Additive
+design: the concept and data analysis. *Weed Research*, 58:338--347. doi: [10.1111/wre.12317](https://onlinelibrary.wiley.com/doi/full/10.1111/wre.12317)
+
+
+**5** · **Oliveira MC**, Gaines TA, Jhala AJ, and Knezevic SZ (2018) Inheritance of mesotrione
+resistance in an (*Amaranthus tuberculatus*) (var. *rudis*) population from Nebraska, USA.
+*Frontiers in Plant Science*, 9:60. doi: [10.3389/fpls.2018.00060](https://www.frontiersin.org/articles/10.3389/fpls.2018.00060/full)
+
+
+**6** · Miller JJ, Schepers JS, Shapiro CA, Arnenson NJ, Eskridge KM, **Oliveira MC**, and Giesler LJ
+(2018) Characterizing soybean vigor and productivity using multiple crop canopy sensor
+readings. *Field Crops Research*, 216:22--31. doi: [10.1016/j.fcr.2017.11.006](https://www.sciencedirect.com/science/article/pii/S0378429017310341)
+
+
+**7** · **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018)
+Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*)
+population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management
+Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
+
+
+**8** · **Oliveira MC**, Feist D, Eskelsen S, Scott JE, and Knezevic SZ (2017) Weed control in soybean with
+preemergence and postemergence-applied herbicides. *Crop, Forage, and Turfgrass
+Management*, 3:1--7
+
+
+**9** · **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017)
+Confirmation and control of HPPD-inhibiting herbicide-resistant waterhemp
+(*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: 
+[10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
+
+
+**10** · Butts TR, Miller JJ, Pruitt JD, Vieira BC, **Oliveira MC**, Ramirez II S, and Lindquist JL (2017)
+Light quality effect on corn growth as influenced by weed species and nitrogen
+rate. *Journal of Agricultural Science*, 9:15--27. doi: [10.5539/jas.v9n1p15](http://www.ccsenet.org/journal/index.php/jas/article/view/63437)
+
+
+**11** · Braga RR, Santos JB, Zanuncio JC, Bibiano CS, Ferreira EA, **Oliveira MC**, Silva DV, and Serrāo JE
+(2016) Effect of growing *Brachiaria brizantha* on phytoremediation of picloram under
+different pH environments. *Ecological Engineering*, 94:102--106. doi: [10.1016/j.ecoleng.2016.05.050](https://www.sciencedirect.com/science/article/pii/S0925857416302853)
+
+
+**12** · Magalhães JES, Ferreira EA, **Oliveira MC**, Pereira GAM, Silva DV, and Santos JB (2016) Effect of
+plant-biostimulant on cassava initial growth. *Ceres*, 63:208--213 doi: [10.1590/0034-737X201663020012](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-737X2016000200208)
+
+
+**13** · Silva DV, Ferreira, **Oliveira MC**, Pereira GAM, Braga RR, Santos JB, Aspiazú I, and Souza MF
+(2016) Productivity of cassava and other crops in an intercropping system. *Ciencia e
+Investigación Agraria*, 43:159--166. doi: [10.4067/S0718-16202016000100015](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-16202016000100015)
+
+
+**14** · Pereira GAM, **Oliveira MC**, Braga RR, Silva DV, Oliveira AJM, Fernandes JSC, and Andrade
+Junior VC (2015) Growth of carrot cultivars in different environments. *Comunicata
+Scientiae*, 6:317--325. (in Portuguese with English abstract)
+
+
+**15** · Santos RC, Ferreira EA, Santos JB, **Oliveira MC**, Silva DV, Pereira GAM, Galon L, Aspiazú I,
+Mattos NP (2015) Phytosociological characterization of weed species as affected by soil
+management. *Australian Journal of Crop Science*, 9:112--119
+
+
+**16** · Pereira GAM, **Oliveira MC**, Oliveira, AJM, Fernandes JSC, Andrade Junior VC, Silva DV, and
+Ferreira EA (2015) Performance of carrot genotypes at two Jequitinhonha Valley sites.
+*Semina: Ciências Agrárias*, 36:4059-4070. doi: [10.5433/1679-0359.2015v36n6Supl2p4059](http://www.uel.br/revistas/uel/index.php/semagrarias/article/view/17819)	
+
+**17** · Ferreira EA, Silva DV, Braga RR, **Oliveira MC**, Pereira GAM, Santos JB, and Sediyama T (2014)
+Initial growth of cassava in intercropping system. *Scientia Agraria Paranaensis*,
+13:219-226
+
+**18** · Franco MHR, Nery MC, França AC, **Oliveira MC**, Franco GCN, and Lemos VT (2013) Production
+and physiological quality of bean seeds after application diquat. *Semina: Ciências
+Agrárias*, 34:1707-1714 (in Portuguese with English abstract). doi: [10.5433/1679-0359.2013v34n4p1707](http://www.uel.br/revistas/uel/index.php/semagrarias/article/view/10234)
+
+
+**19** · Pereira GAM, Lemos VT, Santos JB, Ferreira EA, Silva DV, **Oliveira MC**, and Menezes CWG
+(2012) Growth of cassava and weed in response to phosphate fertilizer. *Ceres*, 59:716-
+722 (in Portuguese with English abstract). doi: [10.1590/S0034-737X2012000500019](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-737X2012000500019)
+
+**20** · Miranda VS, Ribeiro KG, Silva AC, Pereira RC, Pereira OG, Torrado PV, Fernandes JSC, and
+**Oliveira MC** (2012) Rehabilitation with forage grasses of an area degraded by urban
+solid waste deposits. *Brazilian Journal of Animal Science*, 41:18-23. doi: [10.1590/S1516-35982012000100003](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-35982012000100003)
