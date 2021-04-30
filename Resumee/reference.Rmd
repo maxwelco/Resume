@@ -1,0 +1,30 @@
+---
+title: "References"
+
+output: pdf_document
+---
+
+
+
+Josh Miller - Technical Market Manager for Plant Health at BASF
+
+Contact: joshua.miller@basf.com / +1 (402) 440-5033
+
+--------------------
+
+Rodrigo Werle - Assistant Professor of Weed Science at University of Wisconsin-Madison
+
+Contact: rwerle@wisc.edu / +1 (602) 733-0319 
+
+--------------------
+
+Stevan Knezevic - Professor of Weed Science at University of Nebraska - Lincoln
+
+Contact: sknezevic2@unl.edu / +1 (402) 404-0175
+
+--------------------
+
+Todd Gaines - Professor of Weed Molecular Biology at Colorado State University
+
+Contact: Todd.Gaines@colostate.edu / +1 (970) 420-6284
+

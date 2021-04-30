@@ -1,0 +1,258 @@
+---
+name: Maxwel Coura 
+surname: Oliveira
+position: "Associate Researcher - Weed Scientist"
+address: "University of Wisconsin - Madison"
+phone: +55 18 99690 1070
+www: maxweeds.rbind.io
+email: "maxwelco@gmail.com"
+twitter: maxwelco
+github: maxwelco
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+    echo = FALSE, 
+    warning = FALSE, 
+    message = FALSE)
+library(vitae)
+```
+
+# Education
+
+**Ph.D. in Agronomy (Weed Science)** · University of Nebraska-Lincoln \hfill December 2017\
+*Dissertation*: Evolution of HPPD-inhibitor herbicide resistance in a waterhemp (*Amaranthus tuberculatus* var. *rudis*) population from Nebraska, USA\
+*Advisor*: Dr. Stevan Knezevic, *Co-advisor*: Dr. Todd Gaines, Dr. Amit Jhala
+
+**MSc. in Plant Science (Weed Science)** · Federal University of Jequitinhonha and Mucuri Valleys \hfill July 2013\
+*Thesis*: Competitive ability of corn with *Commelina benghalensis* and *Richardia brasiliensis*\
+Advisor: Dr. José B Santos
+
+**BSc. in Agronomy** · Federal University of Jequitinhonha and Mucuri Valleys \hfill July 2011\
+*Thesis*: Composition and extraction of minerals in forage grass in a previously soil waste urban deposit area\
+*Advisor*: Dr. Karina G. Ribeiro
+
+# Professional experiences
+
+## **University of Wisconsin-Madison**
+
+*Research Associate/Data analyst*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Remote \hfill Jan 2020 - Current
+
+-   Writing manuscripts/grants
+
+-   Mentoring graduate students
+
+-   Data analysis/modeling
+
+*Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
+
+-   Research focus on weed management on corn, soybeans and industrial hemp
+
+-   Investigations on herbicide resistance weeds in Wisconsin
+
+-   Train the Wisconsin Weed Science Team
+
+-   Mentoring graduate/undergraduate students
+
+-   Writing manuscripts/grants
+
+-   Extension talks and activities
+
+-   Field herbicide efficacy trials
+
+-   Data analysis/modeling
+
+
+## **Western São Paulo University**
+
+*Assistant Professor* · Presidente Prudente · SP · Brazil \hfill Fev 2020 - Fev 2021
+
+-   Teaching to graduate and undergraduate levels
+
+-   Research on weed management strategies in dry land
+
+
+## **University of Nebraska-Lincoln**
+
+*Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfill Jan 2014 to Dec 2017
+
+-   Herbicide resistance/weed ecology studies: field, greenhouse, and laboratory
+
+-   Field herbicide efficacy trials
+
+-   Extension talks and activities
+
+-   Data analysis/modeling
+
+## **TIMAC Agro Brasil**
+
+*Sales Management Trainee* Paragominas · PA · Brazil \hfill Jan to June 2013
+
+-   Sales prospecting/marketing
+
+-   Talent acquisition
+
+-   Training
+
+## **Federal University of Jequitinhonha and Mucuri Valleys (UFVJM)**
+
+*Graduate Research Assistant*, Diamantina · MG · Brazil \hfill July 2011 to Dec 2012
+
+-   Research on weed biology/ecology studies
+
+-   Herbicide ecotoxicology
+
+*Undergraduate Research Assistant*, Diamantina · MG · Brazil \hfill Mar 2006 to July 2011
+
+-   Fate of herbicide in soils
+
+-   Forage grass for soil health
+
+## **The Ohio Program**
+
+*Undergraduate Senior Trainee*, OH · USA \hfill April 2010 to March 2011
+
+-   Farm assistant in vegetable/orchard at Long's Family Farm in Commerce, MI, USA
+
+-   Greenhouse assistant in hydroponic tomatoes at Intergrow Greenhouses in Albion, NY, USA
+
+## **Pulveriza Fertilizantes**
+
+*Undergraduate Junior Trainee*, Matipó · MG · Brazil \hfill July 2009
+
+-   Assisted in foliar fertilizer manufacturing
+
+## **EMATER MG**
+
+*Undergraduate Intern*, Santana do Paraíso · MG · Brazil \hfill July 2008
+
+-   Assisted on consulting and extension activities to small vegetables growers
+
+
+
+
+
+# Research qualifications and skills
+
+## **Laboratory**
+
+-   Experience on liquid and gas chromatography mass spectrometry (LC- and GC-MS), spectrophotometer, gene sequencing, expression, and molecular markers
+
+## **Greenhouse and Field**
+
+-   Experiment setup and design, resistance screening, grading, dose response, herbicide efficacy, herbicide selectivity, crop safety, herbicide dissipation in the soil, carryover, herbicide synergism, integrated weed management, and cover crops
+
+## **Data analysis/modeling**
+
+-   High skills in data analysis using different packages from R and Rstudio: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others
+
+-   Advance in LaTeX, Markdown, and GitHub
+
+-   Intermediate in SAS, Terminal, and HTML/CSS
+
+## **Interpersonal and Communication Skills**
+
+-   Ability to work, collaborate and communicate effectively (problem solving) with people from different backgrounds and cultures
+
+## **Languages**
+
+-   Portuguese (Native)
+
+-   English (Fluent)
+
+-   Spanish (Intermediate)
+
+## **Certifications**
+
+- Pesticide applicator license \hfill March 2018\
+    Issue by Wisconsin Department of Agriculture
+
+-   Teaching and [tidyverse instructor certification](https://education.rstudio.com/trainers/people/oliveira+maxwel/) \hfill February 2021\
+    Issue by [Rstudio](https://rstudio.com/)
+
+
+
+
+# Teaching, mentoring, leadership and services
+
+## **Teaching**
+
+-   Programming in R, Western São Paulo University \hfill Fall 2019/2020
+
+-   Weed Biology and Management, Western São Paulo University \hfill Spring/Fall 2020
+
+-   Wheat, Western São Paulo University \hfill Spring/Fall 2020
+
+-   Weeds Contest Preparation, *University of Wisconsin-Madison* \hfill Spring 2018
+
+-   Invasive Plants Lab (*Teaching Assistant*), *University of Nebraska-Lincoln* \hfill Spring 2016/2017
+
+-   Weed Biology and Management Lab (*Teaching Assistant*), *UFVJM* \hfill Spring 2011
+
+-   Crop Improvement Lab (*Teaching Assistant*) *UFVJM* \hfill Spring/Fall 2009
+
+## **Mentoring and Student Supervision**
+
+-   Michele Cardoso Santos, Undergraduate Lab Assistant · Western São Paulo University \hfill 2020/21
+
+-   Diogo Mendonça Rodrigues Lemos, MSc · Western São Paulo University \hfill 2020/21
+
+-   Wilson Geraldo Pereira Neto, MSc · University of São Paulo \hfill 2020/21
+
+-   Victor Hugo Vidal Ribeiro, MSc · University of Wisconsin-Madison \hfill 2018-20
+
+-   Sarah Striegel, MSc · University of Wisconsin-Madison \hfill 2018-20
+
+-   Haleigh Ortmeier-Clarke, MSc · University of Wisconsin-Madison \hfill 2019/20
+
+-   Kolby Grint, MSc · University of Wisconsin-Madison \hfill 2019/20
+
+-   Felipe Faleco, MSc · University of Wisconsin-Madison \hfill 2019/20
+
+-   Nikola Arsenijevic, MSc · University of Wisconsin-Madison \hfill2019
+
+-   Lina Liu, Undergraduate Lab Assistant · University of Wisconsin-Madison \hfill 2018
+
+-   David Wang, Undergraduate Lab Assistant · University of Wisconsin-Madison \hfill 2018
+
+-   Pavle Pavlovic, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2017
+
+-   Amanda Wistead, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014/15
+
+-   Ícaro Freitas, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014
+
+-   Sergio Gonçalves Oliveira, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014
+
+-   Kyle Kardell, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014
+
+
+## **Services**
+
+-   Founder and creative director, Open Weed Science - <https://www.openweedsci.org/>
+
+-   Podcast interviews
+    - Knowing the herbicides - [Link](https://mipd47.com.br/2020/07/20/mipd47-024_entendendo-os-herbicidas/)
+    - Herbicide mode of action (Pigment inhibitors) - [Link](https://omny.fm/shows/papo-agro-podcast/pa87-destrinchando-herbicidas-inibidores-de-carote)
+
+-   Ad-hoc Reviewer for Weed Research, Pest management Science, Agronomy, Weed Science, Journal of Agricultural Science, Crop Protection, Plos one, Scientia Agricola, Chemosphere, Planta daninha
+
+-   Assistant Editor for Colloquium Agrariae Journal
+
+-   Poster judge for 2019 Weed Science Society of America Meeting, New Orleans, LA
+
+-   Poster judge for North Central Weed Science Society Meeting, 2018/19/20
+
+-   Grader for North Central Weed Science Society Weeds Contest, 2018/19
+
+-   Program Chair of the 2018 North Central Weed Science Society Meeting Milwaukee, WI
+
+-   Staff of Wisconsin Weed Science Field Day, Arlington and Lancaster · WI · USA, 2018
+
+-   Field staff organization of Flaming Weed Control Workshop, Concord · NE · USA, 2014/15/16/17
+
+-   Staff of II Seminar of Forage and Rangeland Sciences, Diamantina · MG · Brazil, 2009
+
+-   Staff of I Seminar of Engineers, Diamantina · MG · Brazil, September 2009
