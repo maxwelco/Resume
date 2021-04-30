@@ -1,0 +1,51 @@
+---
+title: "Research and Extension statement"
+author: | 
+  | Maxwel Coura Oliveira, Ph.D
+  | Postdoctoral Research Associate, University of Wisconsin-Madison
+  
+date: ""
+output: pdf_document
+
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[CO,CE]{Research and Extension statement}
+- \fancyfoot[CO,CE]{Research and Extension statement - Maxwel Coura Oliveira}
+- \fancyfoot[LE,RO]{\thepage}
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+Quality teaching and extension depends heavily on data from applied research; therefore, they are actively connected and the base for a robust weed science program. Weed management is commonly associated with cropping-systems, but weeds are also a nuance in pastures and rangelands, urban areas, wetlands, railways, etc. Herbicides are by far the most commonly used tool used for weed control, mainly because of their cost-effectiveness and convenience. However, there has been a shortage of new herbicide site of action in the past two decades. Before the "Roundup Ready era", multiple industries invested heavily in herbicide discovery. It was a typical chemical thread to have industries presenting new herbicide sites-of- action (SOA) pretty much every year. The introduction of glyphosate-tolerant crops revolutionized weed management and led to a disincentive for the discovery of modern chemistry because glyphosate became the solution for weed management in row crops. Overreliance of glyphosate in row-crops resulted in resistant weeds. Nowadays, the industry is still focusing on developing new transgenic plants, which a goal of fight glyphosate and other herbicide-resistant weeds. Therefore, the complexity of weed management is increasing for the grower's standpoint but challenging for weed scientists. The new weed science era will require creativity, innovation, knowledge, and communication amongst growers, advisers, and scientists in private and public sectors.
+
+Currently, there are over 500 unique cases of herbicide resistance worldwide, including 21 individual cases in Minnesota. The knowledge I acquired during my graduate program including management, genetics, and ecology of herbicide-resistant weeds would allow me to conduct applied (e.g., management) and basic (e.g., mechanism of resistance) research on weeds that may eventually evolve resistance to herbicides in Minnesota with focus in waterhemp and Palmer amaranth. Studying biology, ecology, genetics, and management would aid to implement sustainable management strategies to reduce the evolution of herbicide-resistant weeds in Minnesota. Herbicides are a great tool and will continue to be the most common strategy for weed control. It would be of my interest to test older chemistries and new herbicides as well as conventional and herbicide-tolerant crops. Therefore, providing research-based herbicide recommendations can assist growers to achieve adequate levels of weed control in the different crops grown in Minnesota. These would be an essential component of my applied field research and extension program.
+
+In the integrated management approach (using mechanical, biological, chemical, and cultural tactics), the use of cover crops would be a significant strategy for reducing the impact of weeds and increasing soil quality in agricultural areas. For example, the use of cover crops can reduce the need for multiple herbicides applications, especially in the spring and fall. I would be interested in studying the adaption and the economic value of different cover crops species in Minnesota. Exploring the cover crops potential for increasing soil quality, reducing the impact of weeds, and economic potential (e.g., seed, grazing, and forages) would be a focus of my program. Additionally, my objective would be to demonstrate how the adoption of an integrated management approach can better help control weeds sustainably and prevent dispersal of invasive species while protecting the environment and increasing food security.
+
+Global warming is affecting the landscape. With the potential increase of temperatures, shifts in the weed communities are likely to occur. The change in climate can increase species invasiveness and competitiveness into new territories, reducing the value of established indigenous plant community and disturbing the habitat. Also, global warming can expand adaption of troublesome weeds into agronomic areas, including weeds that are prone to evolve resistance to herbicides. I would be interested in establishing a multidisciplinary long-term study of the ecological adaptation of invasive and troublesome row crop weed species into non-crop land and agronomic areas in Minnesota, respectively. The objective would be to understand the factors related to the success of species in each of these environments. Primarily simulating climate changes in growth chambers to understand the potential fitness trade-offs associated with higher temperatures. Further understanding the possible impacts of management practices vs. climate change in weeds and invasive species.
+
+As an Extension Specialist, I would serve my clientele on a daily basis by e-mail, phone, website, or in person by visiting farms and talks on-field and training days. I am interested in conducting on-farm research programs to deal with real-world problems that farmers are facing during growing seasons in Minnesota. Also, I would be interested in training our clientele (farmers, agronomists, coops, extension educators) on proper weed and herbicide identification. I would like to teach undergraduate and graduate students (future decision makers) at the University of Minnesota to attend the Society Weeds Contest. Additionally, it is my interest to generate surveys with Minnesota's farmers to understand their perceptions on potential agricultural issues. The use of surveys would serve, in part, as a guide for the current training and future need for weed research. I am willing to collaborate with extension educators, faculty, and other agricultural personnel with research and extension activities such as Minnesota's Pest Management bulletins. I plan to reach my clientele with research and extension results generated from the Minnesota Weed Science program via extension bulletins, Twitter, Minnesota's extension website, and my program's webpage/blog.
+
+To establish a successful weed science program, I would spend time and energy on recruiting talented postdoctoral researchers and training undergraduate and graduate students. Funding to support my weed science program and students would be obtained from industry and agricultural commodity boards, state and federal agencies. I am willing to conduct multidisciplinary research and extension program to serve Minnesota stakeholders. I will collaborate with colleagues at the University of Minnesota and beyond. Collaboration is critical to establish an innovative program and to meet the demand from the clientele and scientific community.
+
+	
+Sincerely,
+
+
+\vspace{150pt}
+
+
+
+
+
+\begin{center}
+Maxwel Coura Oliveira 
+\end{center}
+
+
+
