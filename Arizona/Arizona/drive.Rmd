@@ -1,0 +1,22 @@
+---
+title: "Driver's License Statement"
+author: "Maxwel Coura Oliveira"
+date: "2/19/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+
+I do have a driver's license from Wisconsin that expired at January 31, 2021. If I am offered this position, I would have to renew it to a Arizona driver's license. Therefore, at the momento I do not have a valid driver's license.
+
+
+
+![](drivers.png)
+
+
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("drivers.png")
+```
