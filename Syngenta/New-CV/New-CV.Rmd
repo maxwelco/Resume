@@ -1,7 +1,7 @@
 ---
 name: Maxwel Coura 
 surname: Oliveira
-position: "Weed Scientist"
+position: "Weed and Data Scientist"
 address: "Rio Paranaíba, MG · Brazil"
 phone: +55 18 99690 1070
 www: maxweeds.rbind.io
@@ -131,66 +131,48 @@ Advisor: Dr. José B Santos
 
 # Peer-reviewed publications
 
-1. Ribeiro VHV, Arneson NJ, **Oliveira MC**, Read H, Maia LGS, Ané JM, Werle R (2021) Influence of PRE-emergence herbicides on soybean development, root nodulation and symbiotic nitrogen fixation crop protection. Accepted at Crop Protection Journal
+1. Evaluating efficacy of preemergence soybean herbicides using field treated soil in greenhouse bioassays. *Weed Technology in press* doi: [10.1017/wet.2021.22](https://doi.org/10.1017/wet.2021.22)
+
+1. Ribeiro VHV, Arneson NJ, **Oliveira MC**, Read H, Maia LGS, Ané JM, Werle R (2021) Influence of PRE-emergence herbicides on soybean development, root nodulation and symbiotic nitrogen fixation crop protection. *Crop Protection* 144:105576 doi: [10.1016/j.cropro.2021.105576](https://doi.org/10.1016/j.cropro.2021.105576)
+
+1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2020) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology* 25:155-165 doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
+
+1.  Striegel S, **Oliveira MC**, Arneson N, Conley SP, Stoltenberg DE, and Werle R (2020) Spray solution pH and soybean injury as influenced by synthetic auxin formulation and spray additives. *Weed Technology* 35:113-127 doi: [10.1017/wet.2020.89](https://doi.org/10.1017/wet.2020.89)
+
+1.  **Oliveira MC**, Giacomini D, Arsenijevic N, Vieira G, Tranel P, and Werle R. Distribution and validation of genotypic and phenotypic glyphosate and PPO-inhibitor resistance in Palmer amaranth (*Amaranthus palmeri*) from southwestern Nebraska. *Weed Technology* 35:65-76 doi: [10.1017/wet.2020.74](https://doi.org/10.1017/wet.2020.74)
+
+1.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
+
+1.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-target movement assessment of dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+
+1.  **Oliveira MC**, Butts L, and Werle R (2019) Survey of cover crop management in Nebraska. 9:1-14 *Agriculture* (Invited publication). doi: [10.3390/agriculture9060124](https://doi.org/10.3390/agriculture9060124)
+
+1.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical time for weed removal in glyphosate-resistant soybean as influenced by preemergence herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
 
 
-1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2020) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology in press* doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
+1.  Werle R, **Oliveira MC**, Jhala AJ, Klein R, Proctor CA, and Rees J (2018) Survey of Nebraska farmers' adoption of dicamba-tolerant soybean technology and off-target movement. *Weed Technology*, 32:754--761. doi: [10.1017/wet.2018.62](https://doi.org/10.1017/wet.2018.62)
 
-2.  Striegel S, **Oliveira MC**, Arneson N, Conley SP, Stoltenberg DE, and Werle R (2020) Spray solution pH and soybean injury as influenced by synthetic auxin formulation and spray additives. *Weed Technology in press*. doi: [10.1017/wet.2020.89](https://doi.org/10.1017/wet.2020.89)
+1. **Oliveira MC**, Gaines TA, Patterson EP, Jhala AJ, Irmak S, Amundsen K, and Knezevic SZ (2018) Interspecific and intraspecific transfer of metabolism based mesotrione resistance transfer in dioecious weedy *Amaranthus*. *Plant Journal*. 96:1051--1063. doi: [10.1111/tpj.14089](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14089)
 
-3.  **Oliveira MC**, Giacomini D, Arsenijevic N, Vieira G, Tranel P, and Werle R. Distribution and validation of genotypic and phenotypic glyphosate and PPO-inhibitor resistance in Palmer amaranth (*Amaranthus palmeri*) from southwestern Nebraska. *Weed Technology*. *In press*. doi: [10.1017/wet.2020.74](https://doi.org/10.1017/wet.2020.74)
+1. Knezevic SZ, Ospitan AO, **Oliveira MC**, and Scott JE (2018) *Lythrum salicaria* (purple loosestrife) control with herbicides: multiyear applications. *Invasive Plant Science and Management*. 11:143--154. doi: [10.1017/inp.2018.17](https://doi.org/10.1017/inp.2018.17)
 
-4.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
+1. **Oliveira MC**, Pereira GAM, Ferreira EA, Barbosa JB, Knezevic SZ, and Werle R (2018) Additive design: the concept and data analysis. *Weed Research*, 58:338--347. doi: [10.1111/wre.12317](https://onlinelibrary.wiley.com/doi/full/10.1111/wre.12317)
 
-5.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-target movement assessment of dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+1. **Oliveira MC**, Gaines TA, Jhala AJ, and Knezevic SZ (2018) Inheritance of mesotrione resistance in an (*Amaranthus tuberculatus*) (var. *rudis*) population from Nebraska, USA. *Frontiers in Plant Science*, 9:60. doi: [10.3389/fpls.2018.00060](https://www.frontiersin.org/articles/10.3389/fpls.2018.00060/full)
 
-6.  **Oliveira MC**, Butts L, and Werle R (2019) Survey of cover crop management in Nebraska. 9:1-14 *Agriculture* (Invited publication). doi: [10.3390/agriculture9060124](https://doi.org/10.3390/agriculture9060124)
+1. Miller JJ, Schepers JS, Shapiro CA, Arnenson NJ, Eskridge KM, **Oliveira MC**, and Giesler LJ (2018) Characterizing soybean vigor and productivity using multiple crop canopy sensor readings. *Field Crops Research*, 216:22--31. doi: [10.1016/j.fcr.2017.11.006](https://www.sciencedirect.com/science/article/pii/S0378429017310341)
 
-7.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical time for weed removal in glyphosate-resistant soybean as influenced by preemergence herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
+1. **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018) Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*) population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
 
-8.  Ferreira EA, Paiva MCG, Pereira GAM, **Oliveira MC**, Silva, EB (2019) Fitossociologia de plantas daninhas na cultura do milho submetida à aplicação de doses de nitrogênio, *Journal of Neotropical Agriculture*, 6:100-107 (in Portuguese with English abstract). doi: [10.32404/rean.v6i2.2710](https://doi.org/10.32404/rean.v6i2.2710)
+1. **Oliveira MC**, Feist D, Eskelsen S, Scott JE, and Knezevic SZ (2017) Weed control in soybean with preemergence and postemergence-applied herbicides. *Crop, Forage, and Turfgrass Management*, 3:1--7
 
-9.  Werle R, **Oliveira MC**, Jhala AJ, Klein R, Proctor CA, and Rees J (2018) Survey of Nebraska farmers' adoption of dicamba-tolerant soybean technology and off-target movement. *Weed Technology*, 32:754--761. doi: [10.1017/wet.2018.62](https://doi.org/10.1017/wet.2018.62)
+1. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and control of HPPD-inhibiting herbicide-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
 
-10. **Oliveira MC**, Gaines TA, Patterson EP, Jhala AJ, Irmak S, Amundsen K, and Knezevic SZ (2018) Interspecific and intraspecific transfer of metabolism based mesotrione resistance transfer in dioecious weedy *Amaranthus*. *Plant Journal*. 96:1051--1063. doi: [10.1111/tpj.14089](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14089)
 
-11. Knezevic SZ, Ospitan AO, **Oliveira MC**, and Scott JE (2018) *Lythrum salicaria* (purple loosestrife) control with herbicides: multiyear applications. *Invasive Plant Science and Management*. 11:143--154. doi: [10.1017/inp.2018.17](https://doi.org/10.1017/inp.2018.17)
-
-12. **Oliveira MC**, Pereira GAM, Ferreira EA, Barbosa JB, Knezevic SZ, and Werle R (2018) Additive design: the concept and data analysis. *Weed Research*, 58:338--347. doi: [10.1111/wre.12317](https://onlinelibrary.wiley.com/doi/full/10.1111/wre.12317)
-
-13. **Oliveira MC**, Gaines TA, Jhala AJ, and Knezevic SZ (2018) Inheritance of mesotrione resistance in an (*Amaranthus tuberculatus*) (var. *rudis*) population from Nebraska, USA. *Frontiers in Plant Science*, 9:60. doi: [10.3389/fpls.2018.00060](https://www.frontiersin.org/articles/10.3389/fpls.2018.00060/full)
-
-14. Miller JJ, Schepers JS, Shapiro CA, Arnenson NJ, Eskridge KM, **Oliveira MC**, and Giesler LJ (2018) Characterizing soybean vigor and productivity using multiple crop canopy sensor readings. *Field Crops Research*, 216:22--31. doi: [10.1016/j.fcr.2017.11.006](https://www.sciencedirect.com/science/article/pii/S0378429017310341)
-
-15. **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018) Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*) population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
-
-16. **Oliveira MC**, Feist D, Eskelsen S, Scott JE, and Knezevic SZ (2017) Weed control in soybean with preemergence and postemergence-applied herbicides. *Crop, Forage, and Turfgrass Management*, 3:1--7
-
-17. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and control of HPPD-inhibiting herbicide-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
-
-18. Butts TR, Miller JJ, Pruitt JD, Vieira BC, **Oliveira MC**, Ramirez II S, and Lindquist JL (2017) Light quality effect on corn growth as influenced by weed species and nitrogen rate. *Journal of Agricultural Science*, 9:15--27. doi: [10.5539/jas.v9n1p15](http://www.ccsenet.org/journal/index.php/jas/article/view/63437)
-
-19. Braga RR, Santos JB, Zanuncio JC, Bibiano CS, Ferreira EA, **Oliveira MC**, Silva DV, and Serrāo JE (2016) Effect of growing *Brachiaria brizantha* on phytoremediation of picloram under different pH environments. *Ecological Engineering*, 94:102--106. doi: [10.1016/j.ecoleng.2016.05.050](https://www.sciencedirect.com/science/article/pii/S0925857416302853)
-
-20. Magalhães JES, Ferreira EA, **Oliveira MC**, Pereira GAM, Silva DV, and Santos JB (2016) Effect of plant-biostimulant on cassava initial growth. *Ceres*, 63:208--213 doi: [10.1590/0034-737X201663020012](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-737X2016000200208)
-
-21. Silva DV, Ferreira, **Oliveira MC**, Pereira GAM, Braga RR, Santos JB, Aspiazú I, and Souza MF (2016) Productivity of cassava and other crops in an intercropping system. *Ciencia e Investigación Agraria*, 43:159--166. doi: [10.4067/S0718-16202016000100015](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-16202016000100015)
-
-22. Pereira GAM, **Oliveira MC**, Braga RR, Silva DV, Oliveira AJM, Fernandes JSC, and Andrade Junior VC (2015) Growth of carrot cultivars in different environments. *Comunicata Scientiae*, 6:317--325. (in Portuguese with English abstract)
-
-23. Santos RC, Ferreira EA, Santos JB, **Oliveira MC**, Silva DV, Pereira GAM, Galon L, Aspiazú I, and Mattos NP (2015) Phytosociological characterization of weed species as affected by soil management. *Australian Journal of Crop Science*, 9:112--119
-
-24. Pereira GAM, **Oliveira MC**, Oliveira, AJM, Fernandes JSC, Andrade Junior VC, Silva DV, and Ferreira EA (2015) Performance of carrot genotypes at two Jequitinhonha Valley sites. *Semina: Ciências Agrárias*, 36:4059-4070. doi: [10.5433/1679-0359.2015v36n6Supl2p4059](http://www.uel.br/revistas/uel/index.php/semagrarias/article/view/17819)
-
-25. Ferreira EA, Silva DV, Braga RR, **Oliveira MC**, Pereira GAM, Santos JB, and Sediyama T (2014) Initial growth of cassava in intercropping system. *Scientia Agraria Paranaensis*, 13:219-226
-
-26. Franco MHR, Nery MC, França AC, **Oliveira MC**, Franco GCN, and Lemos VT (2013) Production and physiological quality of bean seeds after application diquat. *Semina: Ciências Agrárias*, 34:1707-1714 (in Portuguese with English abstract). doi: [10.5433/1679-0359.2013v34n4p1707](http://www.uel.br/revistas/uel/index.php/semagrarias/article/view/10234)
-
-27. Pereira GAM, Lemos VT, Santos JB, Ferreira EA, Silva DV, **Oliveira MC**, and Menezes CWG (2012) Growth of cassava and weed in response to phosphate fertilizer. *Ceres*, 59:716- 722 (in Portuguese with English abstract). doi: [10.1590/S0034-737X2012000500019](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-737X2012000500019)
-
-28. Miranda VS, Ribeiro KG, Silva AC, Pereira RC, Pereira OG, Torrado PV, Fernandes JSC, and **Oliveira MC** (2012) Rehabilitation with forage grasses of an area degraded by urban solid waste deposits. *Brazilian Journal of Animal Science*, 41:18-23. doi: [10.1590/S1516-35982012000100003](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-35982012000100003)
 
 # Technical bulletins and extension articles
+
+1. Ribeiro, VHV, **Oliveira MC**, Smith, DH, Santos, JB, and Werle R (2021) Evaluating efficacy of preemergence soybean herbicides using field treated soil in greenhouse bioassays. Link: [link](https://www.wiscweeds.info/img/Update%20Series%20Articles/WWRUS%20Article%201_Spray%20Solution%20pH.pdf)
 
 1. Striegel S, **Oliveira MC**, Arneson NJ, Conley SP, Stoltenberg DE, and Werle R (2020) Spray solution pH as influenced by synthetic auxin formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.info/img/Update%20Series%20Articles/WWRUS%20Article%201_Spray%20Solution%20pH.pdf)
 
@@ -263,11 +245,11 @@ formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.
 
 ## **Data analysis/modeling**
 
--   High skills in data analysis using different packages from R and Rstudio softwares: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others
+-   High skills in data analysis using different packages from R and Rstudio softwares: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, Bayes and others
 
 -   Advance in LaTeX, Markdown, and GitHub
 
--   Intermediate in SAS, Terminal, and CSS
+-   Intermediate in SAS, Terminal, HTML and CSS
 
 ## **Interpersonal and Communication Skills**
 
