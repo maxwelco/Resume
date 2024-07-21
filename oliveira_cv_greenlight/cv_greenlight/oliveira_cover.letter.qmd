@@ -31,7 +31,7 @@ format: letter-pdf
 
 I am thrilled to apply for the Regional Technical Development Manager – Europe position at Greenlight Biosciences. With over a decade of experience in agronomy, weed management, and research and development, I am confident in my ability to drive your mission of sustainable agricultural solutions and support the development of innovative RNA technologies.
 
-In my current role as Senior Digital Agronomist at BASF Digital Farming GmbH, I lead R&D for the xarvio smart spraying platform, managing stakeholder relationships and coordinating extensive field research. My proficiency in R and strong analytical skills have enabled me to produce actionable insights from complex data, directly aligning with your need for high-level statistics and data analysis.
+In my current role as Senior Digital Agronomist at BASF Digital Farming GmbH, I lead R&D for the xarvio/One Smart Spray platform, managing stakeholder relationships and coordinating extensive field research in the US. My proficiency in R and strong analytical skills have enabled me to produce actionable insights from complex data, directly aligning with your need for high-level statistics and data analysis.
 
 Previously, as an Assistant Professor at McGill University and a Postdoctoral Research Scientist at the University of Wisconsin-Madison, I gained significant experience in managing and analyzing complex research data, including trial planning with ARM software. These roles equipped me with the rigorous scientific methodologies required for successful research and development projects.
 
