@@ -1,0 +1,82 @@
+---
+author: Maxwel C Oliveira
+title: Weed Scientist
+format:
+  classic-cv-pdf: default
+#cvfooter:
+#  left: "mr.schochastics.net"
+#  right: "github.com/schochastics"
+cvcolor: b4151f #without `#`
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+cvmeta:
+  - title: Role
+    left: Senior Digital Agronomist
+    right: Cologne, Germany
+  - title: Field
+    left: Agronomy, Weed Science
+    right: maxweeds.rbind.io/
+  - title: Techs
+    left: R, ARM, Python, HTML
+    right: maxwelco@tuta.com
+execute:
+  echo: false
+---
+
+```{r}
+#| label: cvevents
+cvevents <- function(tbl, when, what, where, details) {
+
+    command_start <- "\\cvevent"
+
+    res <- paste0(
+        command_start, "{", tbl[[when]], "}", 
+        "{", tbl[[what]], "}",
+        "{", tbl[[where]], "}")
+    
+    tbl[[details]] <- sapply(tbl[[details]], function(x) paste0("{", x, "}", collapse = ","))
+    res <- paste0(res, "{",tbl[[details]],"}")
+
+    cat(res, sep = "\n")
+}
+```
+
+# Summary
+
+Results-driven scientist with over 10 years in agronomic solutions, specializing in project management, field trials, and technical strategy. Proven ability to lead cross-functional teams, manage complex projects, and build stakeholder relationships. Skilled in data analysis and utilizing trial management software. Dedicated to advancing agricultural technologies and supporting global R&D initiatives.
+
+# Experience
+
+
+```{r}
+#| label: experience
+#| output: asis
+tibble::tribble(
+    ~role, ~institution, ~dates, ~details, ~tasks,
+    "Senior Digital Agronomist", "BASF Digital Farming GmbH", "Oct. 2023 - Present",
+    "gh", c("Coordinating smart spraying research and development with xarvio for the One Smart Spray platform in the US", "Building and maintaining strong stakeholder relationships", "Developing agronomic digital intelligence for xarvio Field Manager"),
+    "Assistant Professor", "McGill University", "Jan. 2023 - Sep. 2023",
+    "Department of Plant Science", c("Tenure-track research and teaching in Weed Science", "Led research projects and provided technical guidance on agronomic solutions"),
+    "Research and Training Coordinator", "Teejet Technologies", "Nov. 2021 - Sep. 2022", "Chair of Social Networks", c("Developed strategies for product positioning", "Maintained relationships with stakeholders and conducted training and facilitated technology transfer"),
+    "Professor", "Universidade do Oeste Paulista", "Jan. 2020 - Fev. 2021",
+    "Department of Agronomy", c("Non-tenure-track research and teaching in Agronomy and Weed Science"),
+    "Post Doctoral Researcher", "University of Wisconsin-Madison", "Jan. 2018 - Sep. 2021", "Department of Agronomy", c("Developed and implemented a research and extension program", "Managed multi-state research projects and led a team of students", "Engaged with stakeholders through field days, on-farm research, and extension meetings"),
+    "Ph.D. Candidate", "University of Nebraska-Lincoln", "Jan. 2014 - Dec. 2017", "Department of Agronomy", c("Conducted field-based research on herbicide resistance in Amaranthus species", "Worked extensively in the herbicide evaluation program", "Developed and implemented analytical methods using R for data analysis and interpretation")
+) |>
+    cvevents(when = "dates", what = "role", where = "institution", details = "tasks")
+```
+
+# Education
+
+```{r }
+#| label: education
+#| output: asis
+tibble::tribble(
+    ~degree, ~uni, ~loc, ~dates, ~details,
+    "Ph.D. in Agronomy (Weed Science)", "University of Nebraska-Lincoln", "Lincoln, Nebraska", "Jan. 2014 - Dec. 2017", c("Thesis: Evolution of HPPD-inhibitor herbicide resistance", "Developed methods to assess metabolic herbicide resistance and hybridization"),
+    "MSc in Agronomy (Weed Science)", "UFVJM", "Diamantina, Brazil", "Jul. 2011 - Jul. 2013", c("Dissertation: Competition of Richardia brasiliensis and Commelina bengalensis in Corn"),
+    "BSc in Agronomy", "UFVJM", "Diamantina, Brazil", "Jan. 2006 - Jun. 2011", c("Thesis on rehabilitation of degraded areas")
+) |>
+    cvevents(when = "dates", what = "degree", where = "loc", details = "details")
+```
+
+

@@ -1,0 +1,44 @@
+---
+author:
+  - name: Maxwel Coura Oliveira
+    affiliation:
+#      - name: Dummy org
+#        department: Cool Dep
+        address: Krohst. 2
+        city: Colgone
+        country: Germany
+        postal-code: 50968
+address:
+  - Greenlight Biosciences España
+  - Agricultural Research Station
+  - Finca Diego Puerta, N-4, S/N, 41720
+  - Los Palacios y Villafranca,
+  - Sevilla, Spain
+subject: Cover letter for the Regional Technical Development Manager – Europe
+subject-title: "Subject"
+opening: "Dear Hiring Manager,"
+closing: "Sincerely,"
+#cc:, 
+#  - Recipient 1
+#  - Recipient 2
+#encl:
+#  - Enclosure 1
+#  - Enclosure 2
+ps: |
+#  PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+format: letter-pdf
+---
+
+I am thrilled to apply for the Regional Technical Development Manager – Europe position at Greenlight Biosciences. With over a decade of experience in agronomy, weed management, and research and development, I am confident in my ability to drive your mission of sustainable agricultural solutions and support the development of innovative RNA technologies.
+
+In my current role as Senior Digital Agronomist at BASF Digital Farming GmbH, I lead R&D for the xarvio smart spraying platform, managing stakeholder relationships and coordinating extensive field research. My proficiency in R and strong analytical skills have enabled me to produce actionable insights from complex data, directly aligning with your need for high-level statistics and data analysis.
+
+Previously, as an Assistant Professor at McGill University and a Postdoctoral Research Scientist at the University of Wisconsin-Madison, I gained significant experience in managing and analyzing complex research data, including trial planning with ARM software. These roles equipped me with the rigorous scientific methodologies required for successful research and development projects.
+
+At Teejet Technologies, my role as Research and Training Coordinator allowed me to refine my skills in stakeholder management and strategic product positioning. My international experience across North America, South America, and Europe has provided me with a deep understanding of diverse agricultural markets. I am fluent in Portuguese and English, with working knowledge of Spanish and some proficiency in German and Italian, and am actively pursuing Italian citizenship to further support your European initiatives.
+
+Greenlight Biosciences' commitment to RNA technology and sustainable agriculture resonates deeply with my professional values. I am particularly excited about the opportunity to contribute to your pipeline of products, including insecticides, fungicides, and herbicides. My experience in managing efficacy and selectivity data for regulatory purposes will be instrumental in ensuring high-quality Biological Assessment Dossiers and effective product development.
+
+I am eager to discuss how my background aligns with the goals of Greenlight Biosciences. Please contact me at +49 1529-5854-941 or via email at maxwelco@tuta.com to schedule a discussion.
+
+Thank you for considering my application.
