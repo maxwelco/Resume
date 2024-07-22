@@ -80,3 +80,16 @@ tibble::tribble(
 ```
 
 
+# Skills
+
+- Project Management 
+
+- Data Analysis (R / Python)
+
+- Stakeholder Management
+
+- Field Trials (ARM)
+
+- Strategic Product Positioning
+
+- Multilingual: Portuguese, English, Spanish, German, Italian
