@@ -1,0 +1,39 @@
+---
+author: Maxwel C Oliveira
+title: Weed Scientist
+format:
+  classic-cv-pdf: default
+#cvfooter:
+#  left: "mr.schochastics.net"
+#  right: "github.com/schochastics"
+cvcolor: b4151f #without `#`
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+cvmeta:
+  - title: Role
+    left: Senior Digital Agronomist
+    right: Cologne, Germany
+  - title: Field
+    left: Agronomy, Weed Science
+    right: maxweeds.rbind.io/
+  - title: Techs
+    left: R, ARM, Python, HTML
+    right: maxwelco@tuta.com
+execute:
+  echo: false
+---
+
+
+# **Education**
+
+**Ph.D. in Agronomy (Weed Science)** · University of Nebraska-Lincoln \hfill December 2017\
+*Dissertation*: Evolution of HPPD-inhibitor herbicide resistance in a waterhemp (*Amaranthus tuberculatus* var. *rudis*) population from Nebraska, USA\
+*Advisor*: Dr. Stevan Knezevic, *Co-advisor*: Dr. Todd Gaines, Dr. Amit Jhala
+
+**MSc. in Plant Science (Weed Science)** · Federal University of Jequitinhonha and Mucuri Valleys \hfill July 2013\
+*Thesis*: Competitive ability of corn with *Commelina benghalensis* and *Richardia brasiliensis*\
+Advisor: Dr. José B Santos
+
+**BSc. in Agronomy** · Federal University of Jequitinhonha and Mucuri Valleys \hfill July 2011\
+*Thesis*: Composition and extraction of minerals in forage grass in a previously soil waste urban deposit area\
+*Advisor*: Dr. Karina G. Ribeiro
+

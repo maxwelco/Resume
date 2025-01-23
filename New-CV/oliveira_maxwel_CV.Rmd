@@ -1,0 +1,230 @@
+---
+name: Maxwel
+surname: Coura Oliveira
+position: "Crop/Weed Scientist"
+address: "Cologne, Germany"
+phone: +49 15205854941
+www: maxweeds.rbind.io
+email: "maxwelco@tuta.com"
+#twitter: maxwelco
+github: maxwelco
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+#  Summary
+
+Crop and weed scientist with extensive experience in digital farming, weed management strategies, pesticide application and stakeholder engagement. Recognized for contributions to cutting-edge research, technology integration, and knowledge dissemination. Author of 30+ peer-reviewed publications and recipient of international awards. Proven expertise in agronomic R&D, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
+
+
+# **Professional experiences**
+
+## **BASF Digital Farming**
+
+*Senior Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Current
+
+-   Coordinated smart spraying research and development for the **One Smart Spray** platform in the US, enhancing precision farming capabilities.
+
+-   Built and maintained strong stakeholder relationships, fostering collaboration across global teams.
+
+-   Developing agronomic digital intelligence for **One Smart Spray** and **xarvio Field Manager**.
+
+-   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio Agbussiness** platform.
+
+
+## **McGill University**
+
+*Assistant Professor of Weed Science* · Saint-Anne-de-Bellevue · QC · Canada \hfill Dec 2022 - Sep 2023
+
+-   Tenure-track research and teaching in Weed Science.
+
+-   Led agronomic research projects on sweet corn and delivered extension talks to stakeholders.
+
+
+## **TeeJet Technologies South America**
+
+*Research and Training Coordinator* · Sao Paulo · SP · Brazil \hfill Nov 2021 - Oct 2022
+
+-   Developed strategies for product positioning, and maintained relationships with stakeholders.
+
+-   Led certified training programs on auxin herbicide (e.g., 2,4-D, dicamba) application in field crops.
+
+## **Western São Paulo University**
+
+*Assistant Professor* · Presidente Prudente · SP · Brazil \hfill Fev 2020 - Fev 2021
+
+-   Taught courses and workshops on weed biology, agronomy, and programming in R.
+
+-   Conducted surveys and research on herbicide weed management and cover crop strategies in corn and soybean farming systems.
+
+## **University of Wisconsin-Madison**
+
+*Research Associate/Data analyst*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Remote \hfill Jan 2020 - Sep 2021
+
+-   Analyzed complex datasets with empirical and machine learning models, and published manuscripts in high-impact journals.
+
+-   Mentored graduate students in experimental design and data visualization.
+
+*Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
+
+-   Developed integrated weed management strategies for corn and soybeans in Wisconsin, USA
+
+-   Led herbicide resistance studies and field herbicide efficacy trials.
+
+-   Delivered extension talks and outreach activities to stakeholders and growers.
+
+-   Supported students’ academic growth and contributed to grant proposals and publications.
+
+
+## **University of Nebraska-Lincoln**
+
+*Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfill Jan 2014 to Dec 2017
+
+-   Conducted field (corn and soybeans), greenhouse, and laboratory research on herbicide resistance and weed ecology.
+
+-   Designed and executed extension talks on integrated weed management and conducted herbicide efficacy trials.
+
+
+## **TIMAC Agro Brasil**
+
+*Sales Management Trainee* Paragominas · PA · Brazil \hfill Jan to Jun 2013
+
+-   Conducted sales prospecting and marketing campaigns to expand client base.
+
+-   Organized and delivered training sessions to enhance team performance and product knowledge.
+
+
+
+# **Education**
+
+**Ph.D. in Agronomy (Weed Science)** · University of Nebraska-Lincoln \hfill Jan 2014 to Dec 2017\
+*Dissertation*: Evolution of HPPD-inhibitor herbicide resistance in a waterhemp (*Amaranthus tuberculatus* var. *rudis*) population from Nebraska, USA\
+*Advisor*: Dr. Stevan Knezevic | *Co-advisor*: Dr. Todd Gaines, Dr. Amit Jhala
+
+**MSc. in Plant Science (Weed Science)** · Federal University of Jequitinhonha and Mucuri Valleys \hfill Ago 2011 to Jul 2013\
+*Thesis*: Competitive ability of corn with *Commelina benghalensis* and *Richardia brasiliensis*\
+Advisor: Dr. José B Santos
+
+**BSc. in Agronomy** · Federal University of Jequitinhonha and Mucuri Valleys \hfill Mar 2006 to Jul 2011\
+*Thesis*: Composition and extraction of minerals in forage grass in a previously soil waste urban deposit area\
+*Advisor*: Dr. Karina G. Ribeiro
+
+
+# **Research qualifications and skills**
+
+## **Technical Expertise**
+
+-  *Laboratory*: Experience on liquid and gas chromatography mass spectrometry (LC- and GC-MS), spectrophotometer, gene sequencing, expression, and molecular markers
+
+-   *Field/Greenhouse*:   Agronomic crops, experiment setup and design, resistance screening, grading, dose response, herbicide efficacy, herbicide selectivity, crop safety, herbicide dissipation in the soil, carryover, herbicide synergism, integrated weed management, and cover crops
+
+
+## **Data analysis/modeling**
+
+-   Skills in data analysis using different packages from R and Rstudio software: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others. Advance skills in Python, LaTeX, Quarto, Markdown, and GitHub. Also, intermediate skills in SAS, Terminal, and CSS.
+
+
+## **Languages**
+
+-   *Portuguese*: Native proficiency (reading, writing, and speaking).
+
+-   *English*: Fluent proficiency (reading, writing, and speaking).
+
+-   *Spanish*: Intermediate proficiency (reading and conversational speaking, listening).
+
+-   *Italian*: Intermediate proficiency (reading, conversational speaking, listening).
+
+-   *French*: Basic proficiency (reading, listening).
+
+-   *German*: Basic proficiency (reading, basic speaking).
+
+
+# **Selected peer-reviewed publications**
+
+## **Herbicide weed resistance**
+
+1. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and Control of HPPD-inhibiting Herbicide-Resistant Waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
+
+1. **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018) Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*) population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
+
+
+## **Herbicide weed management**
+
+1.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
+
+1.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical Time for Weed Removal in Glyphosate-Resistant Soybean as Influenced by Preemergence Herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
+
+1.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-Target Movement Assessment of Dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+
+## **Weed ecology**
+
+1. **Oliveira MC**, Jhala AJ, Bernards ML, Proctor CA, Stepanovic S, Werle R (2022) Palmer Amaranth (*Amaranthus palmeri*) Adaptation to US Midwest Agroecosystems. *Frontiers in Agronomy* 4, doi: [10.3389/fagro.2022.887629]( https://doi.org/10.3389/fagro.2022.887629)
+
+1. Mobli A, **Oliveira MC**, Butts L, Proctor C, Lawrence N, Werle R (2022) Emergence pattern of horseweed (*Erigeron canadensis* L.) accessions across Nebraska. *Weed Technology* 36:655-662 doi: [10.1017/wet.2022.62](https://doi.org/10.1017/wet.2022.62)
+
+## **Agronomic crops** 
+
+1. Grint K, Arneson NJ, Arriaga F, DeWerff R, **Oliveira M**, Smith DH, Stoltenberg DE, Werle R (2022) Cover Crops and preemergence herbicides: an integrated approach for weed management in corn-soybean systems in the US Midwest. *Frontiers in Agronomy* 4:888349 [10.3389/fagro.2022.888349](https://doi.org/10.3389/fagro.2022.888349)
+
+1. Ortmeier‐Clarke HJ, Laboski CAM, **Oliveira MC**, Arneson NJ, Conley SP, Werle R (2023) Cultivar and management effects on industrial hemp yields in Wisconsin. Agronomy Journal 115:1335-1343 doi: [10.1002/agj2.21297](https://doi.org/10.1002/agj2.21297)
+
+## **Agronomic surveys** 
+
+1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2021) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology* 32:754-761 doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
+
+1. Werle R, **Oliveira MC**, Jhala AJ, Proctor CA, Rees J Klein R (2018) Survey of Nebraska farmers’ adoption of dicamba-resistant soybean technology and dicamba off-target movement. *Weed Technology* 6:754-761 doi: [10.1017/wet.2018.62](https://doi.org/10.1017/wet.2018.62)
+
+
+A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveia - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
+
+
+
+# **Invited talks and presentations**
+
+## **Keynote speaker and invited lecturer**
+
+1.  II Workshop Internacional de Defesa Sanitária Vegetal, Online · Brazil \hfill September 2020\
+    Lecture: "Dispersão de plantas daninhas resistêntes a herbicidas no mundo" (in Portuguese)
+
+1.  *II IMAST*, Dracena · SP · Brazil \hfill September 2018\
+    Lecture: Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA"(in Portuguese)
+
+1.  *JF Crow Institute for the Study of Evolution*, Madison · WI · USA \hfill September 2018\
+    Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide resistance in *Amaranthus tuberculatus*
+
+## **Workshops**
+
+1. **Oliveira, MC**. *Presenter*. [Weed research data analysis with R](https://r-cbcpd-2022.netlify.app/). Brazilian Weed Science Meeting, Rio Verde, GO - 2022 
+
+1. **Oliveira, MC**. *Presenter*. Data Wrangling with Dplyr. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH - 2019
+
+1. **Oliveira, MC**. *Presenter*. Creating Reproducible Reports Using R Markdown. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH - 2019
+
+
+
+# **Selected grants, scholarships and awards**
+
+1.   North Central Weed Science Society Meeting, Saint louis · MO · USA \hfill December 2017\
+    1st Place Outstanding Poster Presentation (Herbicide Resistance section)
+
+1.   North Central Weed Science Society Weed Contest, Ames · IA · USA \hfill Jul 2017\
+    1st Place Graduate Team and 1st Place Overall Individual Herbicide ID
+
+1.   Weed Science Society of America Meeting, San Juan · PR \hfill February 2015\
+    1st Place Outstanding Poster Presentation (Weed Biology section)
+
+1.   LASPAU-administered Ph.D. Fulbright scholarship \hfill September 2013\
+    Science without Borders Brazilian Program -- Ph.D at the University of Nebraska-Lincoln (\$130,000)
+
+
+# Additional Information
+
+Currently pursuing Italian citizenship.
+
+

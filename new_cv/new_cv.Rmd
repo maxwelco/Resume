@@ -1,0 +1,110 @@
+---
+Personal_information:
+    name: Jacek G. Pardyak
+    address: 2523 YZ 's-Gravenhage
+    telephone: 06 X078X34X
+    email: jacek.pardyak@gmail.com
+    web: jacekpardyak.github.io
+
+Headline: >
+  Software Developer (Python \& R)
+
+Work_experience:
+  - employer: Atos Nederland B.V.
+    city: Amstelveen, Netherlands
+    position: Data Scientist
+    period: Mar 2015 - Mar 2021
+    description: 'Provided consulting services for industries such as: metallurgy, aviation, railways, retail, telco, health in the field of data science. Performed descriptive and predictive analysis of structured and unstructured data in R and Python. Created dashboards in Shiny and QlikView. Determined the state of equipment in use (tram and train tracks, aircraft) to predict when maintenance is due. Conducted customer behavioral segmentation and social media text sentiment analysis. Build models to recommend the next best offer, detect never paying or churning customers.'
+  - employer: The National Centre for Research and Development
+    city: Warsaw, Poland
+    position: Team leader system development
+    period: Aug 2008 - Feb 2015
+    description: 'Documentation of the process flow (process maps, procedures), development of the Document Management System. Motivating and supporting 5 subordinates.'
+  - employer: Graham Packaging
+    city: Warsaw, Poland
+    position: Production planner
+    period: Apr 1998 - Jul 2008
+    description: 'Plan and analyze results of mold production for plastic and other metal parts. Programming of CNC machines and execution of tasks related to the digital transformation of the organization.' 
+
+Education:
+  - school: Maria Curie-Skłodowska University, Lublin Poland
+    title: Master of Science in Mathematics
+    year: 2001
+
+                                
+Languages:
+  - language: Polish
+    oral: Excellent
+    written: Excellent
+  - language: English
+    oral: Excellent
+    written: Excellent
+  - language: Dutch
+    oral: Reasonable
+    written: Good
+  - language: Russian
+    oral: Good
+    written: Good
+
+Driving_licenses:
+  - type: B
+    file: images/licenses/license-B.pdf
+    continue: true
+  - type: A
+    file: images/licenses/license-A.pdf
+    continue: true
+  - type: AM
+    file: images/licenses/license-AM.pdf
+    continue: true    
+  - type: T
+    file: images/licenses/license-T.pdf
+    continue: false 
+    
+    
+Higlights:
+  - title: 'What are the Dutch singing about?'
+    url: jacekpardyak.github.io/Liedboek
+    url_short: boek
+    description: R Book with translations of the Dutch lyrics to Polish.
+    technologies: R, R Markdown, \LaTeX, HTML, ePUB
+  - title: 'Resume'
+    url: jacekpardyak.github.io/resume
+    url_short: jacekpardyak.github.io/resume
+    description: R Library for authoring Résumés, CVs and Letters.
+    technologies: R, R Markdown, \LaTeX
+  - title: 'Kaggle tutorials'
+    url: www.kaggle.com/jacekpardyak
+    url_short: www.kaggle.com
+    description: R Tidyverse and Python TensorFlow applications in the analysis of the Dutch language and processes taking place in the Netherlands.
+    technologies: R, Python
+
+
+
+Competences:
+  - title: Be reliable and honest 
+    text: The statement that something is not true also provides knowledge.
+  - title: Think logically
+    text: I create my own models of reality to navigate in it.
+  - title: Learn
+    text: I enjoy learning new Information Technologies, Data Science algorithms and improved programming libraries.
+  - title: Discover and explore
+    text: I like to discover the secrets hidden in the data.
+  - title: Writing and reporting
+    text: I like to share my discoveries with others, so that they gain in value.
+
+Interests:
+  - name: Garden \& plants
+    file: images/interests/plants.pdf
+    continue: true
+  - name: Leisure time outdoors
+    file: images/interests/swimming.pdf
+    continue: true 
+  - name: Programming in R \& Py
+    file: images/interests/knitting.pdf
+    continue: true
+  - name: Diversity \& inclusion
+    file: images/interests/diversity.pdf
+    continue: false   
+
+output: resume::curriculum_vitae
+---
