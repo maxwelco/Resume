@@ -1,0 +1,49 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.24)  24 JAN 2025 11:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cover_letter.tex
+(./cover_letter.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
+(/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2024/08/12 v1.3c Standard LaTeX document class
+(/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\longindentation=\dimen141
+\indentedwidth=\dimen142
+\labelcount=\count192
+) (/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/01/01 v25.1 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count193
+\U@D=\dimen143
+\l@unhyphenated=\language6
+(/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+(/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/generic/babel/errbabel.def)
+
+! Package babel Error: Unknown option 'english'. Either you misspelled it
+(babel)                or the language definition file english.ldf
+(babel)                was not found.
+(babel)                There is a locale ini file for this language.
+(babel)                If it’s the main language, try adding `provide=*'
+(babel)                to the babel package options.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4134 \ProcessOptions*
+                        
+Here is how much of TeX's memory you used:
+ 1199 strings out of 475837
+ 21673 string characters out of 5772878
+ 415006 words of memory out of 5000000
+ 24208 multiletter control sequences out of 15000+600000
+ 558845 words of font info for 37 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,0n,48p,159b,57s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.

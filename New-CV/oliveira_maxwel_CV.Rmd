@@ -20,7 +20,8 @@ library(vitae)
 
 #  Summary
 
-Crop and weed scientist with extensive experience in digital farming, weed management strategies, pesticide application and stakeholder engagement. Recognized for contributions to cutting-edge research, technology integration, and knowledge dissemination. Author of 30+ peer-reviewed publications and recipient of international awards. Proven expertise in agronomic R&D, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
+Crop and weed scientist with extensive experience in digital farming, weed management strategies, pesticide application, toxicology and stakeholder engagement. Recognized for contributions to cutting-edge research, technology integration, and knowledge dissemination. Author of 30+ peer-reviewed publications and recipient of international awards. Proven expertise in agronomic R&D, crop protection, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
+
 
 
 # **Professional experiences**
@@ -35,7 +36,7 @@ Crop and weed scientist with extensive experience in digital farming, weed manag
 
 -   Developing agronomic digital intelligence for **One Smart Spray** and **xarvio Field Manager**.
 
--   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio Agbussiness** platform.
+-   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio AgBusiness** platform.
 
 
 ## **McGill University**
@@ -44,16 +45,17 @@ Crop and weed scientist with extensive experience in digital farming, weed manag
 
 -   Tenure-track research and teaching in Weed Science.
 
--   Led agronomic research projects on sweet corn and delivered extension talks to stakeholders.
+-   Led agronomic research projects on sweet corn with [Groupe Bonduelle](https://www.bonduelle.com/fr/) and delivered extension talks to stakeholders.
 
 
 ## **TeeJet Technologies South America**
 
 *Research and Training Coordinator* · Sao Paulo · SP · Brazil \hfill Nov 2021 - Oct 2022
 
--   Developed strategies for product positioning, and maintained relationships with stakeholders.
+-   Developed strategies for nozzle positioning in pesticide application, and maintained relationships with stakeholders.
 
--   Led certified training programs on auxin herbicide (e.g., 2,4-D, dicamba) application in field crops.
+-   Led certified training programs for pesticide applicators on auxin herbicide (e.g., 2,4-D, dicamba) application in field crops. 
+
 
 ## **Western São Paulo University**
 
@@ -69,13 +71,15 @@ Crop and weed scientist with extensive experience in digital farming, weed manag
 
 -   Analyzed complex datasets with empirical and machine learning models, and published manuscripts in high-impact journals.
 
--   Mentored graduate students in experimental design and data visualization.
+-   Mentored graduate students in experimental design, writing and data visualization techniques for effectively communicating research findings.
 
 *Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
 
 -   Developed integrated weed management strategies for corn and soybeans in Wisconsin, USA
 
--   Led herbicide resistance studies and field herbicide efficacy trials.
+-   Led herbicide resistance studies and field herbicide efficacy trials with chemical industry.
+
+-   Conducted research on off-target herbicide movement (e.g., 2,4-D and dicamba) that was used by [EPA](https://www.epa.gov/) product registration decision.
 
 -   Delivered extension talks and outreach activities to stakeholders and growers.
 
@@ -86,14 +90,14 @@ Crop and weed scientist with extensive experience in digital farming, weed manag
 
 *Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfill Jan 2014 to Dec 2017
 
--   Conducted field (corn and soybeans), greenhouse, and laboratory research on herbicide resistance and weed ecology.
+-   Conducted field (corn and soybeans), greenhouse, and laboratory research on herbicide resistance, toxicology and weed ecology.
 
--   Designed and executed extension talks on integrated weed management and conducted herbicide efficacy trials.
+-   Designed and executed extension talks on integrated weed management and conducted herbicide efficacy trials with chemical industry.
 
 
 ## **TIMAC Agro Brasil**
 
-*Sales Management Trainee* Paragominas · PA · Brazil \hfill Jan to Jun 2013
+*Sales Management Trainee*, Paragominas · PA · Brazil \hfill Jan to Jun 2013
 
 -   Conducted sales prospecting and marketing campaigns to expand client base.
 
@@ -210,21 +214,19 @@ A complete list of publications is available upon request or can be accessed on 
 
 # **Selected grants, scholarships and awards**
 
-1.   North Central Weed Science Society Meeting, Saint louis · MO · USA \hfill December 2017\
+1.   North Central Weed Science Society Meeting, Saint louis · MO · USA \hfill Dec 2017\
     1st Place Outstanding Poster Presentation (Herbicide Resistance section)
 
 1.   North Central Weed Science Society Weed Contest, Ames · IA · USA \hfill Jul 2017\
     1st Place Graduate Team and 1st Place Overall Individual Herbicide ID
 
-1.   Weed Science Society of America Meeting, San Juan · PR \hfill February 2015\
+1.   Weed Science Society of America Meeting, San Juan · PR \hfill Feb 2015\
     1st Place Outstanding Poster Presentation (Weed Biology section)
 
-1.   LASPAU-administered Ph.D. Fulbright scholarship \hfill September 2013\
+1.   LASPAU-administered Ph.D. Fulbright scholarship \hfill Sep 2013\
     Science without Borders Brazilian Program -- Ph.D at the University of Nebraska-Lincoln (\$130,000)
 
-
-# Additional Information
+# Additional information
 
 Currently pursuing Italian citizenship.
-
 

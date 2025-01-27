@@ -1,0 +1,27 @@
+---
+author: Maxwel Coura Oliveira
+return-address: 
+  - Krohst. 2
+  - 50968 Cologne, GER
+address:
+  - Rovensa
+  - Lisbon
+  - Portugal
+  
+subject: Cover letter for the Toxicology Specialist (3631) position
+opening: Dear Hiring Manager,,
+closing: Best regards,
+signature: Maxwel Coura Oliveira
+
+output: komaletter::komaletter
+---
+
+I am excited to apply for the Toxicology Specialist position at Rovensa. With a Ph.D. in Agronomy and extensive experience in herbicide development, dose-response analysis, and sustainable crop care solutions, I am eager to contribute to your mission of advancing innovative and responsible agricultural practices.
+
+While working in the U.S., I collaborated with the chemical industry on the development and launch of new herbicides, leading field trials and providing data-driven support for regulatory submissions. My expertise in dose-response analysis has been integral to evaluating herbicide efficacy and safety, ensuring products meet both performance and compliance standards.
+
+In my current role as Senior Digital Agronomist at BASF Digital Farming, I lead research on smart spraying technology, integrating precision agriculture solutions to optimize pesticide application. My academic career further solidified my foundation in field research, where I investigated herbicide resistance and contributed to EPA product registration decisions. These experiences have equipped me with a strong understanding of herbicide performance and environmental safety.
+
+As a multilingual professional fluent in Portuguese and English, I am adept at collaborating with diverse teams and stakeholders across global markets. Rovensa’s commitment to sustainable agriculture aligns closely with my professional values, and I am confident my skills in herbicide development, data analysis, and field research would bring value to your team.
+
+I have attached my CV for your review and would welcome the opportunity to discuss my application further. Thank you for considering my candidacy.
