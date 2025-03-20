@@ -20,7 +20,7 @@ library(vitae)
 
 #  Summary
 
-Crop and weed scientist with extensive experience in digital farming, weed management strategies, pesticide application, toxicology and stakeholder engagement. Recognized for contributions to cutting-edge research, technology integration, and knowledge dissemination. Author of 30+ peer-reviewed publications and recipient of international awards. Proven expertise in agronomic R&D, crop protection, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
+Crop and weed scientist with extensive experience in digital farming, weed management strategies, pesticide application, toxicology and stakeholder engagement. Recognized for contributions to cutting-edge research, technology integration, and knowledge dissemination. Author of 30+ peer-reviewed publications and recipient of international awards. Proven expertise in agronomic R&D, arable land, crop protection, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
 
 
 
@@ -225,6 +225,16 @@ A complete list of publications is available upon request or can be accessed on 
 
 1.   LASPAU-administered Ph.D. Fulbright scholarship \hfill Sep 2013\
     Science without Borders Brazilian Program -- Ph.D at the University of Nebraska-Lincoln (\$130,000)
+    
+# **Certification**
+
+1.   Teaching and [tidyverse instructor certification](https://education.rstudio.com/trainers/people/oliveira+maxwel/) \hfill February 2021\
+    Issue by [Rstudio](https://rstudio.com/)
+
+1. Pesticide applicator license \hfill March 2018\
+    Issue by Wisconsin Department of Agriculture
+
+
 
 # Additional information
 
