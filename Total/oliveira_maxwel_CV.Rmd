@@ -1,7 +1,7 @@
 ---
 name: Maxwel
 surname: Coura Oliveira
-position: "Crop/Weed Scientist"
+position: "Crop"
 address: "Cologne, Germany"
 phone: +49 15205854941
 www: maxweeds.rbind.io
@@ -20,7 +20,7 @@ library(vitae)
 
 #  Summary
 
-Crop and weed scientist with extensive experience in digital farming, weed management strategies, pesticide application and stakeholder engagement. Recognized for contributions to cutting-edge research, technology integration, and knowledge dissemination. Author of 30+ peer-reviewed publications and recipient of international awards. Proven expertise in agronomic R&D, arable land, crop protection, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
+Agronomist bridging precision farming and nature-based solutions, with expertise in field, soil health, cover crops, and data-driven land management for climate resilience. Proven expertise in agronomic R&D, arable land, crop protection, field trials, and advanced data analysis, with strong skills in statistical modeling, machine learning, and data visualization using R, Python, and other tools.
 
 
 
@@ -34,7 +34,7 @@ Crop and weed scientist with extensive experience in digital farming, weed manag
 
 -   Built and maintained strong stakeholder relationships, fostering collaboration across global teams.
 
--   Developing agronomic digital intelligence for **One Smart Spray** and **xarvio Field Manager**.
+-   Developed precision ag tools (**OneSmartSpray**) to reduce agrochemical use—aligning with nature-based carbon strategies by minimizing farm emissions.
 
 -   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio AgBusiness** platform.
 
@@ -150,21 +150,6 @@ Advisor: Dr. José B Santos
 
 
 # **Selected peer-reviewed publications**
-
-## **Herbicide weed resistance**
-
-1. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and Control of HPPD-inhibiting Herbicide-Resistant Waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
-
-1. **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018) Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*) population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
-
-
-## **Herbicide weed management**
-
-1.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
-
-1.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical Time for Weed Removal in Glyphosate-Resistant Soybean as Influenced by Preemergence Herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
-
-1.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-Target Movement Assessment of Dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
 
 ## **Weed ecology**
 
