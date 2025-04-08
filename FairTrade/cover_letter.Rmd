@@ -1,0 +1,30 @@
+---
+author: Maxwel Coura Oliveira
+return-address: 
+  - Krohst. 2
+  - 50968 Cologne, GER
+address:
+  - Fairtrade International
+  - Bonn, DE
+  
+subject: Cover letter for the Senior Advisor Climate and Environment position
+opening: Dear Hiring Manager,
+closing: Best regards,
+signature: Maxwel Coura Oliveira
+
+output: komaletter::komaletter
+---
+
+
+I am writing to express my strong interest in the position of Senior Advisor Climate and Environment at Fairtrade International. With over a decade of experience as an agro-environmental scientist working across academic, regulatory, and industry sectors, I am eager to apply my expertise to a mission-driven organization that is redefining equity and sustainability in global trade. This role represents a natural and purposeful transition in my career—from advancing sustainable agricultural practices to directly supporting climate resilience and environmental justice through fair trade systems.
+
+My professional journey has spanned diverse geographies and sectors, including research leadership in Canada and Brazil, regulatory advisory in the U.S., and currently, digital farming innovation in Germany. In each context, I have worked at the intersection of environmental risk, farmer livelihoods, and science-based policymaking—especially related to pesticide fate, soil health, and sustainable input use. These themes resonate deeply with Fairtrade’s commitment to supporting smallholder producers navigating climate-related and market-driven challenges.
+
+I bring a strong track record of cross-cultural collaboration and capacity-building, having led participatory projects with farmers, NGOs, companies, and regulatory agencies. I’ve contributed to international environmental policy discussions, and authored over 30 peer-reviewed publications on agro-environmental topics. My multilingual fluency and global field experience allow me to translate complex science into practical solutions across technical and socio-political contexts.
+
+More than a new position, this opportunity reflects a deeper alignment with my values. I am passionate about building fairer systems that recognize and support the environmental leadership of producers in the Global South. Fairtrade’s work in advocacy, capacity development, and systems thinking deeply inspires me, and I am confident that my scientific grounding and programmatic leadership can strengthen the organization’s climate and environment portfolio.
+
+I would welcome the opportunity to discuss how my experience and commitment to justice-focused sustainability can contribute to your ongoing work. Thank you for considering my application.
+
+Warm regards,
+Maxwel Coura Oliveira
