@@ -1,0 +1,163 @@
+---
+name: Maxwel
+surname: Coura Oliveira
+position: "Crop/Weed Scientist"
+address: "Cologne, Germany"
+phone: +49 15205854941
+www: maxweeds.rbind.io
+email: "maxwelco@tuta.com"
+#twitter: maxwelco
+github: maxwelco
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+#  Summary
+
+Agronomy leader with 10+ years of international experience in crop production systems, precision agriculture, and grower-focused technical support. Proven ability to design and deploy innovative agronomic solutions (e.g., IPM, substrate management, protected cultivation) that improve yield, quality, and sustainability. Strong track record in field-based research, grower education, and cross-functional collaboration across Europe, North America, and South America. 
+
+
+
+# **Professional experiences**
+
+## **BASF Digital Farming**
+
+*Senior Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Current
+
+-   Coordinated smart spraying research and development for the **One Smart Spray** platform in the US, enhancing precision farming capabilities.
+
+-   Built and maintained strong stakeholder relationships, fostering collaboration across global teams.
+
+-   Developing agronomic digital intelligence for **One Smart Spray** and **xarvio Field Manager**.
+
+-   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio AgBusiness** platform.
+
+
+## **McGill University**
+
+*Assistant Professor of Weed Science* · Saint-Anne-de-Bellevue · QC · Canada \hfill Dec 2022 - Sep 2023
+
+-   Tenure-track research and teaching in Weed Science.
+
+-   Led agronomic research projects on sweet corn with [Groupe Bonduelle](https://www.bonduelle.com/fr/) and delivered extension talks to stakeholders.
+
+
+## **TeeJet Technologies South America**
+
+*Research and Training Coordinator* · Sao Paulo · SP · Brazil \hfill Nov 2021 - Oct 2022
+
+-   Developed strategies for nozzle positioning in pesticide application, and maintained relationships with stakeholders.
+
+-   Led certified training programs for pesticide applicators on auxin herbicide (e.g., 2,4-D, dicamba) application in field crops. 
+
+
+## **Western São Paulo University**
+
+*Assistant Professor* · Presidente Prudente · SP · Brazil \hfill Fev 2020 - Fev 2021
+
+-   Taught courses and workshops on weed biology, agronomy, and programming in R.
+
+-   Conducted surveys and research on herbicide weed management and cover crop strategies in corn and soybean farming systems.
+
+## **University of Wisconsin-Madison**
+
+*Research Associate/Data analyst*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Remote \hfill Jan 2020 - Sep 2021
+
+-   Analyzed complex datasets with empirical and machine learning models, and published manuscripts in high-impact journals.
+
+-   Mentored graduate students in experimental design, writing and data visualization techniques for effectively communicating research findings.
+
+*Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
+
+-   Developed integrated weed management strategies for corn and soybeans in Wisconsin, USA
+
+-   Led herbicide resistance studies and field herbicide efficacy trials with chemical industry.
+
+-   Conducted research on off-target herbicide movement (e.g., 2,4-D and dicamba) that was used by [EPA](https://www.epa.gov/) product registration decision.
+
+-   Delivered extension talks and outreach activities to stakeholders and growers.
+
+-   Supported students’ academic growth and contributed to grant proposals and publications.
+
+
+## **University of Nebraska-Lincoln**
+
+*Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfill Jan 2014 to Dec 2017
+
+-   Conducted field (corn and soybeans), greenhouse, and laboratory research on herbicide resistance, toxicology and weed ecology.
+
+-   Designed and executed extension talks on integrated weed management and conducted herbicide efficacy trials with chemical industry.
+
+
+## **TIMAC Agro Brasil**
+
+*Sales Management Trainee*, Paragominas · PA · Brazil \hfill Jan to Jun 2013
+
+-   Conducted sales prospecting and marketing campaigns to expand client base.
+
+-   Organized and delivered training sessions to enhance team performance and product knowledge.
+
+## **Intergrow Greenhouses**
+
+*Greenhouse Assistant*, Albion · NY · US \hfill Sep 2010 to Apr 2011
+
+-   Executed precision tomato tutoring (trellising/pruning) in controlled environments, optimizing plant architecture for light penetration and airflow.
+
+-   Monitored crop health and growth stages daily, coordinating with IPM teams to implement early disease detection
+
+## **Long Fanily Farm**
+
+*Farm Assistant*, Commerce · MI · US \hfill Apr 2010 to Sept 2010
+
+-   Managed daily crop operations for diversified produce, including planting, irrigation, and harvest of high-value crops, ensuring optimal quality and yield for direct-to-market sales.
+
+
+# Education
+
+1. **Ph.D. in Agronomy** | University of Nebraska-Lincoln (2017)
+
+1. **M.Sc. in Plant Science** | Federal University of Jequitinhonha and Mucuri Valleys (2013)
+
+1. **B.Sc. in Agronomy** | Federal University of Jequitinhonha and Mucuri Valleys (2011)
+
+
+# Technical Skills
+
+1. **Field Agronomy**: Protected cultivation, substrate systems, IPM, nutrient management
+
+1. **Digital Tools**: R/Python analytics, remote sensing
+
+1. **Languages**: Portuguese (native), English (fluent), Spanish/Italian (intermediate), German (basic)
+
+1. **Certifications**: EU Driver’s License, Pesticide Applicator (WI, USA)
+
+
+# Publications & Outreach 
+
+1. **Oliveira et al. (2022)**. Palmer Amaranth Adaptation to Midwest Agroecosystems. Frontiers in Agronomy.
+
+1. **Oliveira et al. (2020)**. Cover Crops and Hormones: Priming Integrated Weed Management. Plant Science.
+
+1. **Werle & Oliveira (2018)**. Dicamba Off-Target Movement Survey. Weed Technology.
+
+A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveia - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
+
+
+    
+# **Certification**
+
+1.   Teaching and [tidyverse instructor certification](https://education.rstudio.com/trainers/people/oliveira+maxwel/) \hfill February 2021\
+    Issue by [Rstudio](https://rstudio.com/)
+
+1. Pesticide applicator license \hfill March 2018\
+    Issue by Wisconsin Department of Agriculture
+
+
+
+
