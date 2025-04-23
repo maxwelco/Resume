@@ -1,0 +1,30 @@
+---
+author: Maxwel Coura Oliveira
+return-address: 
+  - Krohst. 2
+  - 50968 Cologne, GER
+address:
+  - Carbon Robotics
+  - Netherlands
+  
+subject: Field Research and Development Specialist
+opening: Dear Hiring Manager,,
+closing: Best regards,
+signature: Maxwel Coura Oliveira
+
+output: komaletter::komaletter
+---
+
+As a weed scientist dedicated to sustainable weed management, I’m eager to apply my expertise in weed ecology, field research, business and data analysis to optimize Carbon Robotics’ LaserWeeder™. While my background isn’t in laser technology, my deep understanding of weed management, resistance mechanisms, and field trial design can help refine your system’s accuracy and adoption.
+
+**How I Can Contribute:**
+
+*Weed Behavior Insights:* My deep knowledge on weed management identifies growth stages and environmental triggers where laser weeding could be most effective.
+
+*Field Trial Leadership:* Research and development; my expertise in data collection, statistical analysis, and translating results to stakeholders aligns with your need for evidence-based product improvements.
+
+*Precision Ag Integration:* At BASF, I leaded the research on precision weed management: smart spray weed control strategies—a skill applicable to enhancing LaserWeeder’s AI targeting.
+
+I’m confident my blend of weed science rigor and collaborative problem-solving can help Carbon Robotics bridge the gap between agronomy and tech. I’d welcome the chance to discuss how my work could support your mission.
+
+Best regards,

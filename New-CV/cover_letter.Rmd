@@ -1,27 +1,25 @@
 ---
 author: Maxwel Coura Oliveira
 return-address: 
-  - Krohst. 2
-  - 50968 Cologne, GER
+  - Im Zollhafen 24,
+  - 50678 Cologne, GER
+  - BASF Digital Farming GmbH
 address:
-  - Rovensa
-  - Lisbon
-  - Portugal
+  - Weed Science Society of America
   
-subject: Cover letter for the Toxicology Specialist (3631) position
-opening: Dear Hiring Manager,,
+subject: 2025 WSSA Travel Enrichment Experience Award
+opening: Dear Committee Members,
 closing: Best regards,
-signature: Maxwel Coura Oliveira
+signature: Maxwel Coura Oliveira, PhD  
+
 
 output: komaletter::komaletter
 ---
 
-I am excited to apply for the Toxicology Specialist position at Rovensa. With a Ph.D. in Agronomy and extensive experience in herbicide development, dose-response analysis, and sustainable crop care solutions, I am eager to contribute to your mission of advancing innovative and responsible agricultural practices.
+I am pleased to strongly recommend Joaquin Enrria, a graduate student at Kansas State University, for the 2025 WSSA Travel Enrichment Experience Award. I had the opportunity to work closely with Joaquin during the summer of 2024 on spot spray application research in Kansas, where he played a key role in designing and managing field trials under the guidance of Dr. Anita Dille.
 
-While working in the U.S., I collaborated with the chemical industry on the development and launch of new herbicides, leading field trials and providing data-driven support for regulatory submissions. My expertise in dose-response analysis has been integral to evaluating herbicide efficacy and safety, ensuring products meet both performance and compliance standards.
+Joaquin demonstrated exceptional technical skills, attention to detail, and a deep understanding of precision weed management. His ability to troubleshoot field challenges and collect high-quality data was critical to the project’s success. Beyond his technical contributions, Joaquin is a collaborative and motivated researcher who actively engages with peers and stakeholders, making him a valuable asset to the weed science community.
 
-In my current role as Senior Digital Agronomist at BASF Digital Farming, I lead research on smart spraying technology, integrating precision agriculture solutions to optimize pesticide application. My academic career further solidified my foundation in field research, where I investigated herbicide resistance and contributed to EPA product registration decisions. These experiences have equipped me with a strong understanding of herbicide performance and environmental safety.
+This award would provide Joaquin with a unique opportunity to expand his knowledge, network with experts, and bring innovative ideas back to his program. His dedication, work ethic, and passion for advancing sustainable weed control make him an outstanding candidate. I have no doubt he will represent WSSA with excellence.
 
-As a multilingual professional fluent in Portuguese and English, I am adept at collaborating with diverse teams and stakeholders across global markets. Rovensa’s commitment to sustainable agriculture aligns closely with my professional values, and I am confident my skills in herbicide development, data analysis, and field research would bring value to your team.
-
-I have attached my CV for your review and would welcome the opportunity to discuss my application further. Thank you for considering my candidacy.
+Please feel free to contact me with any questions. Thank you for your consideration

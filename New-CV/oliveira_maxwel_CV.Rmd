@@ -131,7 +131,7 @@ Advisor: Dr. José B Santos
 
 ## **Data analysis/modeling**
 
--   Skills in data analysis using different packages from R and Rstudio software: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others. Advance skills in Python, LaTeX, Quarto, Markdown, and GitHub. Also, intermediate skills in SAS, Terminal, and CSS.
+-   Skills in data analysis using different packages from R and Rstudio software: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others. Advance skills in Python, LaTeX, Quarto, Markdown, GitHub, Confluence, Jira. Also, intermediate skills in SAS, Terminal, and CSS.
 
 
 ## **Languages**
@@ -188,43 +188,6 @@ Advisor: Dr. José B Santos
 A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveia - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
 
 
-
-# **Invited talks and presentations**
-
-## **Keynote speaker and invited lecturer**
-
-1.  II Workshop Internacional de Defesa Sanitária Vegetal, Online · Brazil \hfill September 2020\
-    Lecture: "Dispersão de plantas daninhas resistêntes a herbicidas no mundo" (in Portuguese)
-
-1.  *II IMAST*, Dracena · SP · Brazil \hfill September 2018\
-    Lecture: Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA"(in Portuguese)
-
-1.  *JF Crow Institute for the Study of Evolution*, Madison · WI · USA \hfill September 2018\
-    Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide resistance in *Amaranthus tuberculatus*
-
-## **Workshops**
-
-1. **Oliveira, MC**. *Presenter*. [Weed research data analysis with R](https://r-cbcpd-2022.netlify.app/). Brazilian Weed Science Meeting, Rio Verde, GO - 2022 
-
-1. **Oliveira, MC**. *Presenter*. Data Wrangling with Dplyr. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH - 2019
-
-1. **Oliveira, MC**. *Presenter*. Creating Reproducible Reports Using R Markdown. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH - 2019
-
-
-
-# **Selected grants, scholarships and awards**
-
-1.   North Central Weed Science Society Meeting, Saint louis · MO · USA \hfill Dec 2017\
-    1st Place Outstanding Poster Presentation (Herbicide Resistance section)
-
-1.   North Central Weed Science Society Weed Contest, Ames · IA · USA \hfill Jul 2017\
-    1st Place Graduate Team and 1st Place Overall Individual Herbicide ID
-
-1.   Weed Science Society of America Meeting, San Juan · PR \hfill Feb 2015\
-    1st Place Outstanding Poster Presentation (Weed Biology section)
-
-1.   LASPAU-administered Ph.D. Fulbright scholarship \hfill Sep 2013\
-    Science without Borders Brazilian Program -- Ph.D at the University of Nebraska-Lincoln (\$130,000)
     
 # **Certification**
 
