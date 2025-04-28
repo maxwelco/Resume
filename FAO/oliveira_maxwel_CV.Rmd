@@ -1,0 +1,414 @@
+---
+name: Maxwel
+surname: Coura Oliveira
+position: "Agricultural Leader"
+address: "Cologne, Germany"
+phone: +49 15205854941
+www: maxweeds.rbind.io
+email: "maxwelco@tuta.com"
+#twitter: maxwelco
+github: maxwelco
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+#  **Summary**
+
+Crop Scientist, Digital Agriculture Leader, and Extension Specialist with 10+ years advancing sustainable production systems. Expertise in field research, grower extension, agronomic innovation, precision technologies, and policy-relevant research to optimize global crop productivity. Proven leadership in bridging field-level solutions with institutional strategies, leading multidisciplinary teams, and driving initiatives that influenced farming practices across three continents. Extensive hands-on experience designing and managing field trials, collaborating directly with growers, and leading knowledge transfer efforts to accelerate adoption of innovative agricultural practices worldwide.
+
+
+#  **Professional experiences**
+
+## **BASF Digital Farming**
+
+*Senior Research & Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Current
+
+-   Coordinated smart spraying research and development for the **One Smart Spray** platform in the US, enhancing precision farming capabilities.
+
+-   Built and maintained strong stakeholder relationships, fostering collaboration across global teams.
+
+-   Developing agronomic digital intelligence for **One Smart Spray** and **xarvio Field Manager**.
+
+-   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio AgBusiness** platform.
+
+
+## **McGill University**
+
+*Assistant Professor of Weed Science* · Saint-Anne-de-Bellevue · QC · Canada \hfill Dec 2022 - Sep 2023
+
+-   Tenure-track research and teaching in Crop Protection --Weed Science.
+
+-   Led agronomic research projects on sweet corn with [Groupe Bonduelle](https://www.bonduelle.com/fr/) and delivered extension talks to stakeholders.
+
+
+## **TeeJet Technologies South America**
+
+*Research and Training Coordinator* · Sao Paulo · SP · Brazil \hfill Nov 2021 - Oct 2022
+
+-   Developed strategies for nozzle positioning in pesticide application, and maintained relationships with stakeholders.
+
+-   Led certified training programs for pesticide applicators, promoting responsible and sustainable use of auxin herbicides (e.g., 2,4-D, dicamba) to support environmentally conscious field crop production.
+
+
+## **Western São Paulo University**
+
+*Assistant Professor* · Presidente Prudente · SP · Brazil \hfill Fev 2020 - Fev 2021
+
+-   Taught courses and workshops on weed biology, agronomy, and programming in R.
+
+-   Conducted surveys and research on sustainable weed management practices, integrating precision herbicide programs to enhance resilience and soil health in family farm cotton production systems.
+
+## **University of Wisconsin-Madison**
+
+*Research Associate/Data analyst*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Remote \hfill Jan 2020 - Sep 2021
+
+-   Analyzed complex datasets with empirical and machine learning models, and published manuscripts in high-impact journals.
+
+-   Mentored graduate students in experimental design, writing and data visualization techniques for effectively communicating research findings.
+
+*Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
+
+-   Developed integrated weed management strategies for corn and soybeans in Wisconsin, USA
+
+-   Led herbicide resistance studies and field herbicide efficacy trials with chemical industry.
+
+-   Conducted research on off-target herbicide movement (e.g., 2,4-D and dicamba) that was used by [EPA](https://www.epa.gov/) product registration decision.
+
+-   Delivered extension talks and outreach activities to stakeholders and growers.
+
+-   Supported students’ academic growth and contributed to grant proposals and publications.
+
+
+## **University of Nebraska-Lincoln**
+
+*Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfill Jan 2014 to Dec 2017
+
+-   Conducted field (corn and soybeans), greenhouse, and laboratory research on herbicide resistance, toxicology and weed ecology.
+
+-   Designed and executed extension talks on integrated weed management and conducted herbicide efficacy trials with chemical industry.
+
+
+## **TIMAC Agro Brasil**
+
+*Sales Management Trainee*, Paragominas · PA · Brazil \hfill Jan to Jun 2013
+
+-   Conducted sales prospecting and marketing campaigns to expand client base.
+
+-   Organized and delivered training sessions to enhance team performance and product knowledge.
+
+
+
+#  **Education**
+
+**Ph.D. in Agronomy (Weed Science)** · University of Nebraska-Lincoln \hfill Jan 2014 to Dec 2017\
+*Dissertation*: Evolution of HPPD-inhibitor herbicide resistance in a waterhemp (*Amaranthus tuberculatus* var. *rudis*) population from Nebraska, USA\
+*Advisor*: Dr. Stevan Knezevic | *Co-advisor*: Dr. Todd Gaines, Dr. Amit Jhala
+
+**MSc. in Plant Science (Weed Science)** · Federal University of Jequitinhonha and Mucuri Valleys \hfill Ago 2011 to Jul 2013\
+*Thesis*: Competitive ability of corn with *Commelina benghalensis* and *Richardia brasiliensis*\
+Advisor: Dr. José B Santos
+
+**BSc. in Agronomy** · Federal University of Jequitinhonha and Mucuri Valleys \hfill Mar 2006 to Jul 2011\
+*Thesis*: Composition and extraction of minerals in forage grass in a previously soil waste urban deposit area\
+*Advisor*: Dr. Karina G. Ribeiro
+
+
+#  **Technical qualifications and skills**
+
+## **Technical Expertise**
+
+-  *Laboratory*: Experience on liquid and gas chromatography mass spectrometry (LC- and GC-MS), spectrophotometer, gene sequencing, expression, and molecular markers
+
+-   *Field/Greenhouse*:   Digital agriculture, Agronomic crops, experiment setup and design, resistance screening, grading, dose response, herbicide efficacy, herbicide selectivity, crop safety, herbicide dissipation in the soil, carryover, herbicide synergism, integrated weed management, and cover crops
+
+
+## **Data analysis/modeling**
+
+-   Skills in data analysis using different packages from R and Rstudio software: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others. Advance skills in Python, LaTeX, Quarto, Markdown, GitHub, Confluence, Jira. Also, intermediate skills in SAS, Terminal, and CSS.
+
+
+## **Languages**
+
+-   *Portuguese*: Native proficiency (reading, writing, and speaking).
+
+-   *English*: Fluent proficiency (reading, writing, and speaking).
+
+-   *Spanish*: Intermediate proficiency (reading and conversational speaking, listening).
+
+-   *Italian*: Intermediate proficiency (reading, conversational speaking, listening).
+
+-   *French*: Basic proficiency (reading, listening).
+
+-   *German*: Basic proficiency (reading, basic speaking).
+
+
+#  **Selected peer-reviewed publications**
+
+## **Herbicide weed resistance**
+
+1. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and Control of HPPD-inhibiting Herbicide-Resistant Waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
+
+1. **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018) Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*) population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
+
+
+## **Herbicide weed management**
+
+1.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
+
+1.  Knezevic SZ, Pavlovic P, Barnes ER, Beiermann C, **Oliveira MC**, Lawrence N, Scott JE, and Jhala AJ (2019) Critical Time for Weed Removal in Glyphosate-Resistant Soybean as Influenced by Preemergence Herbicides. 33:393-399. *Weed Technology*. doi: [10.1017/wet.2019.18](https://doi.org/10.1017/wet.2019.18)
+
+1.  Soltani S, **Oliveira MC**, Alves GS, Werle R, Norsworthy JK, Sprague CL, Young BG, Reynolds DB, Brown A, and Sikkema PH (2020) Off-Target Movement Assessment of Dicamba in North America. *Weed Technology* 34:318-330. doi: [10.1017/wet.2020.17](https://doi.org/10.1017/wet.2020.17)
+
+## **Weed ecology**
+
+1. **Oliveira MC**, Jhala AJ, Bernards ML, Proctor CA, Stepanovic S, Werle R (2022) Palmer Amaranth (*Amaranthus palmeri*) Adaptation to US Midwest Agroecosystems. *Frontiers in Agronomy* 4, doi: [10.3389/fagro.2022.887629]( https://doi.org/10.3389/fagro.2022.887629)
+
+1. Mobli A, **Oliveira MC**, Butts L, Proctor C, Lawrence N, Werle R (2022) Emergence pattern of horseweed (*Erigeron canadensis* L.) accessions across Nebraska. *Weed Technology* 36:655-662 doi: [10.1017/wet.2022.62](https://doi.org/10.1017/wet.2022.62)
+
+## **Agronomic crops** 
+
+1. Grint K, Arneson NJ, Arriaga F, DeWerff R, **Oliveira M**, Smith DH, Stoltenberg DE, Werle R (2022) Cover crops and preemergence herbicides: an integrated approach for weed management in corn-soybean systems in the US Midwest. *Frontiers in Agronomy* 4:888349 [10.3389/fagro.2022.888349](https://doi.org/10.3389/fagro.2022.888349)
+
+1. Ortmeier‐Clarke HJ, Laboski CAM, **Oliveira MC**, Arneson NJ, Conley SP, Werle R (2023) Cultivar and management effects on industrial hemp yields in Wisconsin. Agronomy Journal 115:1335-1343 doi: [10.1002/agj2.21297](https://doi.org/10.1002/agj2.21297)
+
+## **Surveys**
+
+1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2021) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology* 32:754-761 doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
+
+1. **Oliveira MC**, Butts, L, and Werle R, (2018) Assessment of cover crop management strategies in Nebraska, US. *Agriculture* 6:754-761 doi: [10.3390/agriculture9060124](https://doi.org/10.3390/agriculture9060124)
+
+
+A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveia - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
+
+#  **Technical bulletins and extension articles**
+
+1. Striegel S, **Oliveira MC**, Arneson NJ, Conley SP, Stoltenberg DE, and Werle R (2020) Spray solution pH as influenced by synthetic auxin formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.info)
+
+1. Striegel S, **Oliveira MC**, Arneson NJ, Conley SP, Stoltenberg DE, and Werle R (2020) Soybean injury as influenced by synthetic auxin
+formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.info)
+
+
+1.  Alves DP, Reis MR, Pereira GAM, Silva MMJ, Nascimento MA, and **Oliveira MC** (2020) Injúrias causadas por residual de herbicidas na cultura do alho. *Universidade Federal de Viçosa* [Link](https://boletimagrotecnico.crp.ufv.br/?wpdmpro=boletim-03-injurias-causadas-por-residual-de-herbicidas-na-cultura-do-alho)
+
+1.  Gomes CA, Reis MR, Silva MMJ, Pereira GAM, and **Oliveira MC** (2020) Injúrias causadas por residual de herbicidas na cultura da cebola. *Universidade Federal de Viçosa* [Link](https://boletimagrotecnico.crp.ufv.br/?wpdmpro=boletim-02-injurias-causadas-por-residual-de-herbicidas-na-cultura-da-cebola)
+
+1.  **Oliveira MC**, Pereira GAM, Takano H, Nunes AL, and Reis MR (2020) Classificação dos herbicidas no Brasil. *maxweeds* [Link](https://maxweeds.rbind.io/post/chart/Chart_Herbicida.pdf)
+
+1.  Arneson NJ, Smith DH, DeWerff R, **Oliveira MC, and** Rodrigo Werle (2019) Residual control of waterhemp with pre-emergence herbicides in soybean. *WiscWeeds* [Link](https://www.wiscweeds.info)
+
+1.  Smith DH, Broeske M, Patton J, Shelley K, Arriaga F, Jensen B, **Oliveira MC,** Briski B, Bubolz B, Rushmann R, Johnson H, Schriefer G, and Sorge M (2019) Cover Crops 101. *University of Wisconsin-Madison* [Link](https://learningstore.extension.wisc.edu/collections/farming/products/cover-crops-101)
+
+1.  **Oliveira MC** and Werle R (2018) Herbicide site of action key for crop injury symptoms. *WiscWeeds* Link: [EN](https://maxweeds.rbind.io/files/2018_HerbicideInjury_EN.pdf) and [PT](https://maxweeds.rbind.io/files/2018_HerbicideInjury_BRA.pdf).
+    
+#  **Certification**
+
+1.   Teaching and [tidyverse instructor certification](https://education.rstudio.com/trainers/people/oliveira+maxwel/) \hfill February 2021\
+    Issue by [Rstudio](https://rstudio.com/)
+
+1. Pesticide applicator license \hfill March 2018\
+    Issue by Wisconsin Department of Agriculture
+
+#  **Invited talks and presentations**
+
+## **Keynote speaker**
+
+1.  II Workshop Internacional de Defesa Sanitária Vegetal, Online · Brazil \hfill September 2020\
+    Lecture: "Dispersão de plantas daninhas resistêntes a herbicidas no mundo" (in Portuguese)
+
+2.  *II IMAST*, Dracena · SP · Brazil \hfill September 2018\
+    Lecture: Da resistência ao dicamba: o desafio no manejo de plantas daninhas nos EUA"(in Portuguese)
+
+3.  *JF Crow Institute for the Study of Evolution*, Madison · WI · USA \hfill September 2018\
+    Lecture: Evolution of 4-hydroxyphepylpiruvate dioxygenase inhibitor herbicide resistance in *Amaranthus tuberculatus*
+
+## **Scientific conferences**
+
+1.  **Oliveira MC** et al (2019) Growers' Feedback on the Use of Cover Crops for Weed Management in Nebraska. North Central Weed Science Society Annual Meetings: Cover crop symposium, Columbus, OH
+
+2.  **Oliveira MC** et al (2019) A cropping-system weed science survey of Brazil, a breadbasket country in the tropics. Proceeding of the Weed Science Society of America Annual Meetings, New Orleans, LA
+
+3.  **Oliveira MC** et al (2017) A qualitative assay for detecting Palmer amaranth and its hybrids amongst pigweed species. Proceeding of the North Central Weed Science Society Annual Meetings, Saint Louis, MO
+
+4.  **Oliveira MC** et al (2016) Investigations into target-site and nontarget site resistance mechanisms in HPPD resistant waterhemp from Nebraska. Proceeding of the North Central Weed Science Society Annual Meetings, Des Moines, IA
+
+5.  **Oliveira MC** et al (2015) Soybean yields and critical time for weed removal as influenced by soil applied herbicides. Proceeding of the North Central Weed Science Society Annual Meetings, Indianapolis, IN
+
+6.  **Oliveira MC** et al (2014) Confirmation of HPPD Resistant Common Waterhemp in Nebraska. Proceeding of the North Central Weed Science Society Annual Meetings, Minneapolis, MN
+
+## **Workshops**
+
+1. Oliveira MC (2022) [O R na Ciência das Plantas Daninhas](https://r-cbcpd-2022.netlify.app/). XXXII Congresso Brasileiro da Ciência das Plantas Daninhas, Rio Verde, GO
+
+1.  Oliveira MC (2019) Data Wrangling with Dplyr. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH
+
+2.  Oliveira MC (2019) Creating Reproducible Reports Using R Markdown. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH
+
+
+
+#  **Grants, scholarships and awards**
+
+-   American Society of Agronomy, San Antonio, TX · USA \hfill November 2019\
+    Cover Crop 101, Extension Education Community Award, category short publication (16 pages or less)
+
+-   Wisconsin Corn Promotion Board \hfill January 2019\
+    Challenging the Weed Management Challenges in Wisconsin Corn Production (\$30,000)
+
+-   North Central Weed Science Society Meeting, Saint louis · MO · USA \hfill December 2017\
+    1st Place Outstanding Poster Presentation (Herbicide Resistance section)
+
+-   North Central Weed Science Society Weed Contest, Ames · IA · USA \hfill July 2017\
+    1st Place Graduate Team and 1st Place Overall Individual Herbicide ID
+
+-   University of Nebraska-Lincoln, Lincoln · NE · USA \hfill March 2017\
+    Travel Grant (\$400) to attend the 2017 Global Herbicide Resistant Conference
+
+-   North Central Weed Science Society Weed Contest, West Lafayette · USA \hfill July 2016\
+    3rd Place Graduate Team
+
+-   Weed Science Society of America Meeting, San Juan · PR \hfill February 2015\
+    1st Place Outstanding Poster Presentation (Weed Biology section)
+
+-   Western Weed Science Society Weed Contest, Columbus · OH · USA \hfill July 2015\
+    3rd Place Graduate Team and 3rd Place Overall Individual Graduate
+
+-   LASPAU-administered Ph.D. Fulbright scholarship \hfill September 2013\
+    Science without Borders Brazilian Program -- Ph.D at the University of Nebraska-Lincoln (\$130,000)
+
+-   CNPq undergraduate scholarship, Diamantina · MG · Brazil \hfill Aug 2008 to Jul 2009
+
+-   Mayrink Vieira High School Science Fair, Ipatinga · MG · Brazil \hfill September 2002\
+    Outstanding team project "Batteries and electrolysis"
+
+-   Mayrink Vieira High School Science Fair, Ipatinga · MG · Brazil \hfill September 2001\
+    Outstanding team project "Cell organelles"
+
+#  **Teaching, mentoring and leadership**
+
+## **Teaching**
+
+-   Programming in R, Western São Paulo University \hfill Fall 2019/2020
+
+-   Weed Biology and Management, Western São Paulo University \hfill Spring/Fall 2020
+
+-   Wheat, Western São Paulo University \hfill Spring/Fall 2020
+
+-   Weeds Contest Preparation, *University of Wisconsin-Madison* \hfill Spring 2018
+
+-   Invasive Plants Lab (*Teaching Assistant*), *University of Nebraska-Lincoln* \hfill Spring 2016/2017
+
+-   Weed Biology and Management Lab (*Teaching Assistant*), *UFVJM* \hfill Spring 2011
+
+-   Crop Improvement Lab (*Teaching Assistant*) *UFVJM* \hfill Spring/Fall 2009
+
+## **Mentoring and Student Supervision**
+
+-   Michele Cardoso Santos, Undergraduate Lab Assistant · Western São Paulo University \hfill 2020/21
+
+-   Diogo Mendonça Rodrigues Lemos, MSc · Western São Paulo University \hfill 2020/21
+
+-   Wilson Geraldo Pereira Neto, MSc · University of São Paulo \hfill 2020/21
+
+-   Victor Hugo Vidal Ribeiro, MSc · University of Wisconsin-Madison \hfill 2018-20
+
+-   Sarah Striegel, MSc · University of Wisconsin-Madison \hfill 2018-20
+
+-   Haleigh Ortmeier-Clarke, MSc · University of Wisconsin-Madison \hfill 2019/20
+
+-   Kolby Grint, MSc · University of Wisconsin-Madison \hfill 2019/20
+
+-   Felipe Faleco, MSc · University of Wisconsin-Madison \hfill 2019/20
+
+-   Nikola Arsenijevic, MSc · University of Wisconsin-Madison \hfill2019
+
+-   Lina Liu, Undergraduate Lab Assistant · University of Wisconsin-Madison \hfill 2018
+
+-   David Wang, Undergraduate Lab Assistant · University of Wisconsin-Madison \hfill 2018
+
+-   Pavle Pavlovic, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2017
+
+-   Amanda Wistead, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014/15
+
+-   Ícaro Freitas, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014
+
+-   Sergio Gonçalves Oliveira, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014
+
+-   Kyle Kardell, Undergraduate Research Assistant · University of Nebraska-Lincoln \hfill 2014
+
+## **Committee Member for degree thesis**
+
+-   Victor Hugo Vidal Ribeiro, MSc · UFVJM/University of Wisconsin-Madison \hfill 2020
+-   João Emílio Magalhães, BSc · UFVJM \hfill 2011
+
+## **Student Liaison CREA Jr**
+
+-   Coordinator for the city of Diamantina, MG \hfill 2008/09
+
+#  **Professional society memberships**
+
+-   Brazilian Weed Science Society
+
+-   North Central Weed Science Society
+
+-   Weed Science Society of America
+
+#  **Services**
+
+-   Volunteer staff, Sao Paulo Invisivel, Sao Paulo, Brazil
+
+-   Founder and creative director, Open Weed Science - <https://www.openweedsci.netlify.app/>
+
+-   Ad-hoc Reviewer for Weed Research, Pest management Science, Agronomy, Weed Science, Journal of Agricultural Science, Crop Protection, Plos one, Scientia Agricola, Chemosphere, Planta daninha
+
+-   Assistant Editor for Colloquium Agrariae Journal
+
+-   Poster judge for 2019 Weed Science Society of America Meeting, New Orleans, LA
+
+-   Poster judge for North Central Weed Science Society Meeting, 2018/19/20
+
+-   Grader for North Central Weed Science Society Weeds Contest, 2018/19
+
+-   Program Chair of the 2018 North Central Weed Science Society Meeting Milwaukee, WI
+
+-   Staff of Wisconsin Weed Science Field Day, Arlington and Lancaster · WI · USA, 2018
+
+-   Field staff organization of Flaming Weed Control Workshop, Concord · NE · USA, 2014/15/16/17
+
+-   Staff of II Seminar of Forage and Rangeland Sciences, Diamantina · MG · Brazil, 2009
+
+-   Staff of I Seminar of Engineers, Diamantina · MG · Brazil, September 2009
+
+#  **References**
+
+- Daniel Ebersold, Head of Agronomy Technology at BASF Digital Farming, Germany.  
+E-mail: daniel.ebersold@xarvio.com Phone number: (+49) 173 3419703
+
+- MSc. Nick Arneson, Agriculture Conservance Lead at The Nature Conservancy, USA.  
+Phone number: +1(402) 676-1618
+
+- Dr. Rodrigo Werle, Associate Professor at University of Wisconsin-Madison, USA.  
+E-mail: rwerle@wisc.edu Phone number: +1(608) 733-0319
+
+- Dr. Victor Hugo Vidal Ribeiro, Assistant Professor at Oregon State University, USA.  
+E-mail: victor.ribeiro@oregonstate.edu Phone number: +1(541) 286-0070
+
+- Dr. Stevan Knezevic, Professor at University of Nebraska-Lincoln, USA.  
+E-mail: sknezevic2@unl.edu Phone number: +1(402) 404-0175
+
+- Dr. Todd Gaines, Associate Professor at Colorado State University, USA.  
+E-mail: Todd.Gaines@colostate.edu Phone number: +1(970) 420-6284
+
+- Dr. Amit Jhala, Associate Professor at University of Nebraska-Lincoln, USA.  
+E-mail: amit.jhala@unl.edu Phone number: +1(402) 472-1534
+
+
+
+
+
+
+

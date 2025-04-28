@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.21)  22 JAN 2025 09:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.24)  24 APR 2025 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **new_cv.tex
 (./new_cv.tex
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
 (./curriculum_vitae.cls
 Document Class: curriculum_vitae 2021/04/07 custom LaTeX document style for R Markdown 
 (/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/latex/extsizes/extreport.cls
@@ -21,28 +21,28 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 \big@size=\dimen141
 )
-\c@part=\count194
-\c@chapter=\count195
-\c@section=\count196
-\c@subsection=\count197
-\c@subsubsection=\count198
-\c@paragraph=\count199
-\c@subparagraph=\count266
-\c@figure=\count267
-\c@table=\count268
+\c@part=\count196
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen142
 ) (/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/06/26 v24.7 The Babel package
-\babel@savecnt=\count269
+Package: babel 2025/01/01 v25.1 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count271
 \U@D=\dimen143
 \l@unhyphenated=\language5
 (/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count270
+\bbl@dirlevel=\count272
 (/Users/mvjvf593tdv/Library/TinyTeX/texmf-dist/tex/generic/babel/errbabel.def)
 
 ! Package babel Error: Unknown option 'english'. Either you misspelled it
@@ -56,15 +56,15 @@ See the babel package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4221 \ProcessOptions*
+l.4134 \ProcessOptions*
                         
 Here is how much of TeX's memory you used:
- 1337 strings out of 475544
- 25322 string characters out of 5776335
- 1925905 words of memory out of 5000000
- 24046 multiletter control sequences out of 15000+600000
- 558367 words of font info for 37 fonts, out of 8000000 for 9000
+ 1355 strings out of 475178
+ 25666 string characters out of 5764871
+ 421864 words of memory out of 5000000
+ 24416 multiletter control sequences out of 15000+600000
+ 559135 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 56i,0n,65p,186b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,0n,65p,186b,57s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

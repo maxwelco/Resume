@@ -1,0 +1,31 @@
+---
+author: Maxwel Coura Oliveira
+return-address: 
+  - Krohst. 2
+  - Cologne, GER 50968 
+address:
+  - Recruitment Team
+  - FAO – Food and Agriculture Organization of the United Nations
+  - Viale delle Terme di Caracalla, 
+  - 00153 Roma RM, Italy
+  
+subject: Senior Agricultural Officer (Team Leader) (Job Number 2501102)
+opening: Dear Hiring Team,
+closing: Best regards,
+signature: Maxwel Coura Oliveira, PhD  
+
+
+output: komaletter::komaletter
+---
+
+I am excited to express my interest in the Senior Agricultural Officer (Team Leader, NSPLD) position (Job Number: 2501102) with FAO’s Plant Production and Protection Division. This opportunity strongly resonates with my passion for fostering more efficient, inclusive, resilient, and sustainable agricultural practices—values that are at the heart of FAO’s vision and my professional journey.
+
+With over a decade of experience advancing sustainable cropping systems, soil health management, and precision agriculture across Latin America, North America, and Europe, I am confident in my ability to lead change and deliver innovative, science-based solutions that respect both people and the planet. My hands-on fieldwork with farmers and stakeholders in both developed and developing countries has given me a deep understanding of local realities and the importance of context-specific approaches to agricultural development.
+
+As a trained Crop/Weed Scientist currently based in Germany, I have spearheaded multidisciplinary projects that integrated digital agriculture technologies, sustainable mechanization, and resilient farming practices—driving real-world impact in diverse agroecosystems. I am deeply motivated to apply this expertise to support Member Nations, particularly in developing regions, in their transition toward more productive and sustainable cropping systems.
+
+Leadership is at the core of my work: I have managed cross-functional teams, collaborated with institutional and private sector partners, and mentored early-career researchers. My approach emphasizes bridging research and practice, empowering farmers and stakeholders with knowledge tools, and building capacity for lasting transformation. I believe this aligns closely with NSPLD’s mission to develop modern agronomic strategies that produce more with less, while enhancing environmental stewardship.
+
+I am eager to contribute to a dynamic and visionary team, and to channel my experience, creativity, and commitment into driving change where it is most needed. Joining FAO would allow me to scale my impact and work toward building resilient agrifood systems that leave no one behind.
+
+Thank you for considering my application. I would welcome the chance to discuss how I can contribute to this vital journey at FAO headquarters in Rome.

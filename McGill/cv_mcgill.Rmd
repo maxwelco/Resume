@@ -242,6 +242,8 @@ formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.
 
 ## **Workshops**
 
+
+
 1.  Oliveira MC (2019) Data Wrangling with Dplyr. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH
 
 2.  Oliveira MC (2019) Creating Reproducible Reports Using R Markdown. North Central Weed Science Society Annual Meetings: Using RStudio for Visualization and Analysis of Weed Science Experiments, Columbus, OH
