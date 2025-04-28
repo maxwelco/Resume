@@ -1,0 +1,29 @@
+---
+author: Maxwel Coura Oliveira
+return-address: 
+  - Krohst. 2
+  - Cologne, GER 50968 
+address:
+  - Recruitment Team
+  - Alliance of Bioversity International and CIAT
+  - Via dei Tre Denari 472/a, 
+  - 00054, Fiumicino, Rome, Italy
+  
+subject: RFP300375 Research Specialist
+opening: Dear Hiring Team,
+closing: Best regards,
+signature: Maxwel Coura Oliveira, PhD  
+
+
+output: komaletter::komaletter
+---
+
+I am pleased to submit my application for the position of Research Specialist (Reference No. RFP300375) with the Crops for Nutrition and Health Program at the Alliance of Bioversity International and CIAT. I am enthusiastic about contributing to initiatives that advance food security, agricultural biodiversity, and sustainable food systems in Latin America.
+
+As a Crop/Weed Scientist with over a decade of international experience, I have worked extensively on digital agriculture initiatives, including field phenotyping, drone-based image acquisition, and data management projects. In collaboration with interdisciplinary teams, I have contributed to developing and applying image annotation and analysis protocols in large-scale agricultural experiments. Although my main expertise lies in crop science and digital agronomy rather than microbiological research, I am keen to broaden my skills and contribute to collaborative research that links field-based data with laboratory insights.
+
+My work consistently integrates applied research, field data curation, and training development for local partners, aligning closely with the Alliance’s goals. Additionally, I have experience supporting scientific publications and funding proposals, and am deeply committed to research that supports inclusive innovation in developing regions.
+
+Joining the Alliance represents a unique opportunity to combine my passion for sustainable agriculture, digital tools for crop research, and capacity building with a mission-driven organization. I am eager to grow professionally while contributing to the Alliance’s impactful work across Latin America and beyond.
+
+Thank you for considering my application. I would be delighted to discuss how my skills and motivation align with the Crops for Nutrition and Health Program’s objectives.

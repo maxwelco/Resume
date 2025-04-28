@@ -1,0 +1,29 @@
+---
+title: "References"
+format: pdf
+editor: source
+---
+
+-   Daniel Ebersold, Head of Agronomy Technology at BASF Digital Farming, Germany.\
+    E-mail: daniel.ebersold\@xarvio.com - Phone number: (+49) 173 3419703
+
+-   MSc. Nick Arneson, Agriculture Conservance Lead at The Nature Conservancy, USA.\
+    Phone number: +1(402) 676-1618
+
+-   Dr. Rodrigo Werle, Associate Professor at University of Wisconsin-Madison, USA.\
+    E-mail: rwerle\@wisc.edu Phone number: +1(608) 733-0319
+
+-   Dr. Muthu Bagavathiannan, Professor at Texas A&M, USA.\
+    E-mail: m.bagavathiannan\@ag.tamu.edu - Phone number: +1(479) 387-1674
+
+-   Dr. Victor Hugo Vidal Ribeiro, Assistant Professor at Oregon State University, USA.\
+    E-mail: victor.ribeiro\@oregonstate.edu - Phone number: +1(541) 286-0070
+
+-   Dr. Stevan Knezevic, Professor at University of Nebraska-Lincoln, USA.\
+    E-mail: sknezevic2\@unl.edu - Phone number: +1(402) 404-0175
+
+-   Dr. Todd Gaines, Associate Professor at Colorado State University, USA.\
+    E-mail: Todd.Gaines\@colostate.edu - Phone number: +1(970) 420-6284
+
+-   Dr. Amit Jhala, Associate Professor at University of Nebraska-Lincoln, USA.\
+    E-mail: amit.jhala\@unl.edu - Phone number: +1(402) 472-1534
