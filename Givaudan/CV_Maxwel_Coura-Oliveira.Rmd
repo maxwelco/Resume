@@ -1,0 +1,181 @@
+---
+name: Maxwel
+surname: Coura Oliveira
+position: "Agricultural Leader"
+address: "Cologne, Germany"
+phone: +49 15205854941
+www: maxweeds.rbind.io
+email: "maxwelco@tuta.com"
+#twitter: maxwelco
+github: maxwelco
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+#  **Summary**
+
+Agricultural Leader with 10+ years' global experience in regenerative and sustainable farming systems, digital agriculture, and value chain innovation. Proven track record managing stakeholder-led projects across Latin America, North America, and Europe. Deep expertise in agronomic research, precision technologies, and sustainability-focused field implementation. Passionate about driving nature-positive outcomes by integrating science-based practices, digital tools, and multi-stakeholder partnerships to improve soil health, biodiversity, and farmer livelihoods across complex supply chains.
+
+
+#  **Professional experiences**
+
+## **BASF Digital Farming**
+
+*Senior Research & Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Current
+
+-   Coordinated smart spraying research and development for the **One Smart Spray** platform in the US, enhancing precision farming capabilities.
+
+-   Built and maintained strong stakeholder relationships, fostering collaboration across global teams.
+
+-   Developing digital agronomic intelligence and sustainability algorithms for decision-making in crop protection stewardship.
+
+-   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio AgBusiness** platform.
+
+
+## **McGill University**
+
+*Assistant Professor of Weed Science* · Saint-Anne-de-Bellevue · QC · Canada \hfill Dec 2022 - Sep 2023
+
+-   Tenure-track research and teaching in Crop Protection --Weed Science.
+
+-   Delivered agronomic research and grower engagement to advance sustainable vegetable production using integrated pest and weed management approaches.
+
+
+## **TeeJet Technologies South America**
+
+*Research and Training Coordinator* · Sao Paulo · SP · Brazil \hfill Nov 2021 - Oct 2022
+
+-   Developed strategies for nozzle positioning in pesticide application, and maintained relationships with stakeholders.
+
+-   Led certified applicator training to minimize environmental impact and enhance regenerative herbicide stewardship in soybean and corn systems.
+
+
+## **Western São Paulo University**
+
+*Assistant Professor* · Presidente Prudente · SP · Brazil \hfill Fev 2020 - Fev 2021
+
+-   Taught courses and workshops on weed biology, agronomy, and programming in R.
+
+-   Conducted surveys and research on sustainable weed management practices, integrating precision herbicide programs to enhance resilience and soil health in family farm cotton production systems.
+
+## **University of Wisconsin-Madison**
+
+*Research Associate/Data analyst*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Remote \hfill Jan 2020 - Sep 2021
+
+-   Analyzed complex datasets with empirical and machine learning models, and published manuscripts in high-impact journals.
+
+-   Mentored graduate students in experimental design, writing and data visualization techniques for effectively communicating research findings.
+
+*Postdoctoral Research Associate*, [WiscWeeds Lab](http://www.wiscweeds.info/) · Madison · WI · USA \hfill Jan 2018 - Dec 2019
+
+-   Developed integrated weed management strategies for corn and soybeans in Wisconsin, USA
+
+-   Led herbicide resistance studies and field herbicide efficacy trials with chemical industry.
+
+-   Conducted research on off-target herbicide movement (e.g., 2,4-D and dicamba) that was used by [EPA](https://www.epa.gov/) product registration decision.
+
+-   Delivered extension talks and outreach activities to stakeholders and growers.
+
+-   Supported students’ academic growth and contributed to grant proposals and publications.
+
+
+## **University of Nebraska-Lincoln**
+
+*Graduate Research Assistant*, [Knezevic Lab](https://agronomy.unl.edu/knezevic) · Concord/Lincoln · NE · USA \hfill Jan 2014 to Dec 2017
+
+-   Conducted field (corn and soybeans), greenhouse, and laboratory research on herbicide resistance, toxicology and weed ecology.
+
+-   Designed and executed extension talks on integrated weed management and conducted herbicide efficacy trials with chemical industry.
+
+
+## **TIMAC Agro Brasil**
+
+*Sales Management Trainee*, Paragominas · PA · Brazil \hfill Jan to Jun 2013
+
+-   Conducted sales prospecting and marketing campaigns to expand client base.
+
+-   Organized and delivered training sessions to enhance team performance and product knowledge.
+
+
+
+#  **Education**
+
+**Ph.D. in Agronomy (Weed Science)** · University of Nebraska-Lincoln \hfill Jan 2014 to Dec 2017\
+*Dissertation*: Evolution of HPPD-inhibitor herbicide resistance in a waterhemp (*Amaranthus tuberculatus* var. *rudis*) population from Nebraska, USA\
+*Advisor*: Dr. Stevan Knezevic | *Co-advisor*: Dr. Todd Gaines, Dr. Amit Jhala
+
+**MSc. in Plant Science (Weed Science)** · Federal University of Jequitinhonha and Mucuri Valleys \hfill Ago 2011 to Jul 2013\
+*Thesis*: Competitive ability of corn with *Commelina benghalensis* and *Richardia brasiliensis*\
+Advisor: Dr. José B Santos
+
+**BSc. in Agronomy** · Federal University of Jequitinhonha and Mucuri Valleys \hfill Mar 2006 to Jul 2011\
+*Thesis*: Composition and extraction of minerals in forage grass in a previously soil waste urban deposit area\
+*Advisor*: Dr. Karina G. Ribeiro
+
+
+#  **Technical qualifications and skills**
+
+## **Technical Expertise**
+
+-  *Laboratory*: Experience on liquid and gas chromatography mass spectrometry (LC- and GC-MS), spectrophotometer, gene sequencing, expression, and molecular markers
+
+-   *Field/Greenhouse*:   Digital agriculture, Agronomic crops, experiment setup and design, resistance screening, grading, dose response, herbicide efficacy, herbicide selectivity, crop safety, herbicide dissipation in the soil, carryover, herbicide synergism, integrated weed management, and cover crops
+
+
+## **Data analysis/modeling**
+
+-   Skills in data analysis using different packages from R and Rstudio software: blog, presentations, reports, books, manuscripts, data visualization, maps, ANOVA, linear and non-linear models, mixed models, machine learning, and others. Advance skills in Python, LaTeX, Quarto, Markdown, GitHub, Confluence, Jira. Also, intermediate skills in SAS, Terminal, and CSS.
+
+
+## **Languages**
+
+-   *Portuguese*: Native proficiency (reading, writing, and speaking).
+
+-   *English*: Fluent proficiency (reading, writing, and speaking).
+
+-   *Spanish*: Intermediate proficiency (reading and conversational speaking, listening).
+
+-   *Italian*: Intermediate proficiency (reading, conversational speaking, listening).
+
+-   *French*: Basic proficiency (reading, listening).
+
+-   *German*: Basic proficiency (reading, basic speaking).
+
+
+#  **Selected peer-reviewed publications**
+
+1.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
+
+1. **Oliveira MC**, Jhala AJ, Bernards ML, Proctor CA, Stepanovic S, Werle R (2022) Palmer Amaranth (*Amaranthus palmeri*) Adaptation to US Midwest Agroecosystems. *Frontiers in Agronomy* 4, doi: [10.3389/fagro.2022.887629]( https://doi.org/10.3389/fagro.2022.887629)
+
+1. Mobli A, **Oliveira MC**, Butts L, Proctor C, Lawrence N, Werle R (2022) Emergence pattern of horseweed (*Erigeron canadensis* L.) accessions across Nebraska. *Weed Technology* 36:655-662 doi: [10.1017/wet.2022.62](https://doi.org/10.1017/wet.2022.62)
+
+1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2021) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology* 32:754-761 doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
+
+
+A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveia - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
+
+
+#  **Certification**
+
+1.   Teaching and [tidyverse instructor certification](https://education.rstudio.com/trainers/people/oliveira+maxwel/) \hfill February 2021\
+    Issue by [Rstudio](https://rstudio.com/)
+
+1. Pesticide applicator license \hfill March 2018\
+    Issue by Wisconsin Department of Agriculture
+
+
+
+
+
+
+
+
+
+

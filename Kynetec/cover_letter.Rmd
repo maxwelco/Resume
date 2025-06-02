@@ -1,0 +1,30 @@
+---
+author: Maxwel Coura Oliveira
+return-address: 
+  - Krohst. 2
+  - 50968 Cologne, GER
+address:
+  - Kynetec
+  - Germany
+  
+subject: Research Intelligence Analyst
+opening: Dear Hiring Manager,,
+closing: Best regards,
+signature: Maxwel Coura Oliveira
+
+output: komaletter::komaletter
+---
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Research Intelligence Analyst position (VN755) within Kynetec’s Agriculture division. With over a decade of international experience in crop science, data analysis, and stakeholder engagement across Brazil, Canada, the United States, and Germany, I bring a deep understanding of agricultural input markets, particularly in seed and crop protection, as well as a passion for translating complex research into actionable insights.
+
+Currently, I serve as Senior Digital Agronomist at BASF Digital Farming, where I coordinate smart spraying R&D and develop agronomic intelligence for platforms like One Smart Spray and xarvio Field Manager. This role has strengthened my ability to manage multi-stakeholder projects, supervise interdisciplinary teams, and deliver data-driven insights that influence product development and market positioning. My previous academic appointments, including as Assistant Professor at McGill University and the Western São Paulo University, have further honed my research writing, secondary data synthesis, and analytical storytelling—skills that directly align with the objectives of Kynetec’s Advanced Analytics team.
+
+I am particularly excited about the opportunity to contribute to high-quality reporting, support client engagement, and apply smart analytics methodologies using tools like GenAI. I have extensive experience working with cross-tab analysis, data visualization, and machine learning in agricultural research contexts. My background in weed science, pesticide efficacy trials, and regulatory collaboration with institutions like the EPA has taught me how to communicate technical data to both scientific and commercial audiences with clarity and impact.
+
+As a multilingual professional fluent in English, Portuguese, and Spanish—with working knowledge of Italian, French, and German — I am well-positioned to support international clients and collaborate across global teams. I am drawn to Kynetec’s mission of delivering impactful agricultural intelligence and would welcome the chance to contribute to this work through rigorous analysis and insightful reporting.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how my background and skills can contribute to the success of your team.
+
+Sincerely,

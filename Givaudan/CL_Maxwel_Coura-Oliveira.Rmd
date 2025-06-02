@@ -5,6 +5,7 @@ return-address:
   - Cologne, GER 50968 
 address:
   - Givaudan
+  - Vernier, Switzerland
   
 subject: Regenerative Agriculture Manager 
 opening: Dear Hiring Team,
@@ -17,7 +18,7 @@ output: komaletter::komaletter
 
 I am excited to apply for the Regenerative Agriculture Manager role at Givaudan. With a decade of experience in agronomy, digital farming, and sustainable crop management, I am eager to leverage my expertise to advance Givaudan’s regenerative agriculture initiatives. While my background includes conventional agricultural systems, my career has been increasingly focused on bridging the gap between productivity and sustainability—driven by a strong commitment to transitioning toward regenerative practices.
 
-My early work in herbicide resistance management, including my PhD research on Amaranthus tuberculatus, and my involvement in precision agriculture provided a deep understanding of conventional systems—but also revealed their limitations. This firsthand experience fuels my passion for regenerative solutions that enhance soil health, biodiversity, and long-term resilience. At BASF Digital Farming, I helped develop tools like One Smart Spray to reduce chemical inputs, aligning with regenerative principles. I also coordinated the Expert Scouting Trip project, which emphasized data-driven, sustainable decision-making.
+My early work in herbicide resistance management, including my PhD research on *Amaranthus tuberculatus*, and my involvement in precision agriculture provided a deep understanding of conventional systems—but also revealed their limitations. This firsthand experience fuels my passion for regenerative solutions that enhance soil health, biodiversity, and long-term resilience. At BASF Digital Farming, I helped develop tools like One Smart Spray to reduce chemical inputs, aligning with regenerative principles. I also coordinated the Expert Scouting Trip project, which emphasized data-driven, sustainable decision-making.
 
 My work has consistently involved multi-stakeholder leadership. At TeeJet Technologies, I trained farmers and applicators on responsible herbicide use, promoting practices that minimize off-target impacts—critical in transitioning to low-input systems. My nationwide weed management survey in Brazil, published in Weed Technology, engaged over 500 stakeholders, illustrating my ability to identify systemic barriers and drive adoption of sustainable practices.
 
