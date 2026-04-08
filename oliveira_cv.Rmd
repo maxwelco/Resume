@@ -1,9 +1,9 @@
 ---
 name: Maxwel
 surname: Coura Oliveira
-position: "Agricultural Leader"
-address: "Cologne, Germany"
-phone: +49 15205854941
+position: "Weed Scientist"
+address: "São Paulo, SP"
+phone: +55 31997268083
 www: maxweeds.rbind.io
 email: "maxwelco@tuta.com"
 #twitter: maxwelco
@@ -18,9 +18,6 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-#  **Summary**
-
-Agricultural Leader with 10+ years' global experience in regenerative and sustainable farming systems, digital agriculture, and value chain innovation. Proven track record managing stakeholder-led projects across Latin America, North America, and Europe. Deep expertise in agronomic research, precision technologies, and sustainability-focused field implementation. Passionate about driving nature-positive outcomes by integrating science-based practices, digital tools, and multi-stakeholder partnerships to improve soil health, biodiversity, and farmer livelihoods across complex supply chains.
 
 
 #  **Professional experiences**
@@ -39,7 +36,7 @@ Agricultural Leader with 10+ years' global experience in regenerative and sustai
 
 ## **BASF Digital Farming**
 
-*Senior Research & Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Current
+*Senior Research & Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Sep 2025
 
 -   Coordinated smart spraying research and development for the **One Smart Spray** platform in the US, enhancing precision farming capabilities.
 
@@ -162,16 +159,16 @@ Advisor: Dr. José B Santos
 
 #  **Selected peer-reviewed publications**
 
-1.  **Oliveira MC**, Osipitan OA, Begcy K, and Werle R (2020) Cover crops, hormones and herbicides: priming an integrated weed management Strategy. *Plant Science* 301:110550 doi: [10.1016/j.plantsci.2020.110550](https://doi.org/10.1016/j.plantsci.2020.110550)
+1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2021) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology* 35:155-165 doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
 
 1. **Oliveira MC**, Jhala AJ, Bernards ML, Proctor CA, Stepanovic S, Werle R (2022) Palmer Amaranth (*Amaranthus palmeri*) Adaptation to US Midwest Agroecosystems. *Frontiers in Agronomy* 4, doi: [10.3389/fagro.2022.887629]( https://doi.org/10.3389/fagro.2022.887629)
 
-1. Mobli A, **Oliveira MC**, Butts L, Proctor C, Lawrence N, Werle R (2022) Emergence pattern of horseweed (*Erigeron canadensis* L.) accessions across Nebraska. *Weed Technology* 36:655-662 doi: [10.1017/wet.2022.62](https://doi.org/10.1017/wet.2022.62)
+1. **Oliveira MC**, Gaines TA, Dayan FE, Patterson EL, Jhala AJ, and Knezevic SZ (2018) Reversing resistance to tembotrione in an *Amaranthus tuberculatus* (syn. *rudis*) population from Nebraska, USA with cytochrome P450 inhibitors. *Pest Management Science*, 74:2296--2305. (Invited publication) doi: [10.1002/ps.4697](https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4697)
 
-1.  **Oliveira MC**, da Silva AL, Ulguim AR, and Werle R (2021) Assessment of weed management strategies and challenges in Brazilian cropping systems. *Weed Technology* 32:754-761 doi: [10.1017/wet.2020.96](https://doi.org/10.1017/wet.2020.96)
+1. **Oliveira MC**, Jhala A, Gaines T, Irmak S, Amundsen K, Scott JE, and Knezevic SZ (2017) Confirmation and control of HPPD-inhibiting herbicide-resistant waterhemp (*Amaranthus tuberculatus*) in Nebraska. *Weed Technology*, 31:67--79. doi: [10.1017/wet.2016.4](https://www.cambridge.org/core/journals/weed-technology/article/confirmation-and-control-of-hppdinhibiting-herbicideresistant-waterhemp-amaranthus-tuberculatus-in-nebraska/69C31C7039DBE3FD49A55C73EEE5F2EE)
 
 
-A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveia - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
+A complete list of publications is available upon request or can be accessed on [Maxwel Coura Oliveira - Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=nwwARKUAAAAJ&sortby=pubdate)
 
 
 #  **Certification**

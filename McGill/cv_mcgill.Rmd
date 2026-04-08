@@ -2,11 +2,10 @@
 name: Maxwel Coura 
 surname: Oliveira
 position: "Associate Researcher - Weed Scientist"
-address: "University of Wisconsin - Madison"
-phone: +55 18 99690 1070
+address: "São Paulo - Brazil"
+phone: +55 31 99726 8083
 www: maxweeds.rbind.io
-email: "maxwelco@gmail.com"
-twitter: maxwelco
+email: "maxwelco@tuta.com"
 github: maxwelco
 #linkedin: mariecurie
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -36,6 +35,41 @@ Advisor: Dr. José B Santos
 *Advisor*: Dr. Karina G. Ribeiro
 
 # Professional experiences
+
+## **Gaia Ciência Consultoria LTDA**
+
+*Independent Consultant* · São Paulo · SP · Brazil \hfill Oct 2025 - Current
+
+-   Provided data analysis services using R and Python, specializing in statistical modeling, data visualization, and reproducible research workflows.
+
+-   Edited and revised academic manuscripts, grant proposals, and technical reports for clarity, structure, and impact; experienced with journal-specific styles.
+
+-   Collaborated with researchers and organizations to develop polished deliverables under tight deadlines, improving publication acceptance and funding success rates.
+
+-   Advised graduate students and early-career researchers on research design, academic writing, and data presentation.
+
+
+
+## **BASF Digital Farming**
+
+*Senior Digital Agronomist* · Cologne · NRW · Germany \hfill Oct 2023 - Sep 2025
+
+-   Lead science-based development and regulatory alignment for BASF’s **One Smart Spray** precision system in the US, promoting integrated solutions for climate resilience, biodiversity, and digital farming at scale.
+
+-   Built and maintained strong stakeholder relationships, fostering collaboration across global teams.
+
+-   Developing agronomic digital intelligence for **One Smart Spray** and **xarvio Field Manager**.
+
+-   Agronomic coordinator of *Expert Scouting Trip* (field monitoring) project based on modeling and remote sensing of the **xarvio AgBusiness** platform.
+
+## **McGill University**
+
+*Assistant Professor of Weed Science* · Saint-Anne-de-Bellevue · QC · Canada \hfill Dec 2022 - Sep 2023
+
+-   Tenure-track research and teaching in Weed Science.
+
+-   Led agronomic research projects on sweet corn with [Groupe Bonduelle](https://www.bonduelle.com/fr/) and delivered extension talks to stakeholders.
+
 
 ## **University of Wisconsin-Madison**
 
@@ -132,6 +166,35 @@ Advisor: Dr. José B Santos
 -   Assisted on consulting and extension activities to small vegetables growers
 
 # Peer-reviewed publications
+
+1. Ugljic Z, Mobli A, **Oliveira MC**, Proctor CA, Dille JA, Werle R (2025) Stakeholder assessment of weed management practices and perceptions of targeted spraying technologies in corn-soybean systems. *Frontiers in Agronomy* doi: [10.3389/fagro.2025.1601328](https://doi.org/10.3389/fagro.2025.1601328)
+
+1. Ortmeier‐Clarke HJ, Laboski CAM, **Oliveira MC**, Arneson NJ, Conley SP, Werle R (2023) Cultivar and management effects on industrial hemp yields in Wisconsin. Agronomy Journal 115:1335-1343 doi: [10.1002/agj2.21297](https://doi.org/10.1002/agj2.21297)
+
+1. Arneson NJ, Smith DH, DeWerff RP, **Oliveira MC**, Werle R (2023) Layered‐residual herbicide programs for waterhemp (Amaranthus tuberculatus) control in glufosinate‐resistant soybean. *Crop, Forage & Turfgrass Management* 9:e20207 doi: [10.1002/cft2.20207]( https://doi.org/10.1002/cft2.20207)
+
+1. Gazziero DLP, **Oliveira MC**, Scursoni J, Garcia MA, Figueroa R, Turra GM (2022) Herbicide use history and perspective in South America. *Adv Weed Sci* 40:spe1 doi[10.51694/AdvWeedSci](https://awsjournal.org/article/herbicide-use-history-and-perspective-in-south-america/)
+
+1. **Oliveira MC**, Jhala AJ, Bernards ML, Proctor CA, Stepanovic S, Werle R (2022) Palmer Amaranth (*Amaranthus palmeri*) Adaptation to US Midwest Agroecosystems. *Frontiers in Agronomy* 4, doi: [10.3389/fagro.2022.887629]( https://doi.org/10.3389/fagro.2022.887629)
+
+1. Faleco FA, **Oliveira MC**, Arneson NJ, Renz M, Stoltenberg DE, Werle R (2022) Multiple resistance to imazethapyr, atrazine, and glyphosate in a recently introduced Palmer amaranth (*Amaranthus palmeri*) accession in Wisconsin. *Weed Technology* 36:344-351 doi: [10.1017/wet.2022.22 ](https://doi.org/10.1017/wet.2022.22)
+
+1. Faleco FA, **Oliveira MC**, Arneson NJ, Renz M, Stoltenberg DE, Werle R (2022) Multiple herbicide resistance in waterhemp (Amaranthus tuberculatus) accessions from Wisconsin. *Weed Technology* 36:597-608 doi: [10.1017/wet.2022.81 ](https://doi.org/10.1017/wet.2022.81)
+
+1. Grint K, Arneson NJ, **Oliveira M**, Smith DH, Werle R (2022) Cereal rye cover crop terminated at crop planting reduces early‐season weed density and biomass in Wisconsin corn–soybean production. *Agrosystems, Geosciences & Environment* 5:e20245 [10.1002/agg2.20245]( https://doi.org/10.1002/agg2.20245)
+
+1. Vieira BC, **Oliveira MC**, Alves GS, Golus JA, Schroede K, Smeda RJ, Rector RJ, Kruger G, Werle R (2022) Hooded broadcast sprayer for particle drift reduction. *Pest Management Science* 78:1529-1528 [10.1002/ps.6770]( https://doi.org/10.1002/ps.6770)
+
+1.  Ribeiro VHV, **Oliveira MC**, Smith DH, Santos JB, Werle R (2021) Control of common weeds in Wisconsin soybean cropping systems with pre-emergence herbicides. *Crop, Forage, and Turfgrass Management* 8:e20153 [10.1002/cft2.20153](https://doi.org/10.1002/cft2.20153)
+
+
+1. Striegel S, **Oliveira MC**, Dewerff RP, Stoltenberg DE, Conley SP, Werle R (2022) Influence of Postemergence Dicamba/Glyphosate Timing and Inclusion of Acetochlor as a Layered Residual on Weed Control and Soybean Yield. *Frontiers in Agronomy* doi: [10.3389/fagro.2021.788251](https://doi.org/10.3389/fagro.2021.788251)
+
+1. Ortmeier‐Clarke HJ, **Oliveira MC**, Arneson NJ, Conley SP, Werle R (2022) Dose Response Screening of Industrial Hemp to Herbicides Commonly Used in Corn and Soybean. *Weed Technology* 36:245-252 doi: [10.1017/wet.2021.105 ](https://doi.org/10.1017/wet.2021.105 )
+
+1. Mobli A, **Oliveira MC**, Butts L, Proctor C, Lawrence N, Werle R (2022) Emergence pattern of horseweed (*Erigeron canadensis* L.) accessions across Nebraska. *Weed Technology* 36:655-662 doi: [10.1017/wet.2022.62](https://doi.org/10.1017/wet.2022.62)
+
+1. Grint K, Arneson NJ, Arriaga F, DeWerff R, **Oliveira M**, Smith DH, Stoltenberg DE, Werle R (2022) Cover Crops and preemergence herbicides: an integrated approach for weed management in corn-soybean systems in the US Midwest. *Frontiers in Agronomy* 4:888349 [10.3389/fagro.2022.888349](https://doi.org/10.3389/fagro.2022.888349)
 
 1. Ribeiro VHV, **Oliveira MC**, Smith DH, Santos JB, Werle R (2021) Evaluating efficacy of preemergence soybean herbicides using field treated soil in greenhouse bioassays. *Weed Technology* doi: [wet.2021.22](https://doi.org/10.1017/wet.2021.22)
 
@@ -286,6 +349,8 @@ formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.
 
 -   Spanish (Intermediate)
 
+-   Italian (Intermediate)
+
 # Certifications
 
 - Pesticide applicator license \hfill March 2018\
@@ -425,22 +490,5 @@ formulation and spray additives. *WiscWeeds* Link: [link](https://www.wiscweeds.
 
 -   Staff of I Seminar of Engineers, Diamantina · MG · Brazil, September 2009
 
-# References
 
-- Dr. Rodrigo Werle, Assistant Professor at University of Wisconsin-Madison, USA.  
-E-mail: rwerle@wisc.edu Phone number: +1(608) 733-0319
 
-- Dr. Stevan Knezevic, Professor at University of Nebraska-Lincoln, USA.  
-E-mail: sknezevic2@unl.edu Phone number: +1(402) 404-0175
-
-- Dr. Todd Gaines, Associate Professor at Colorado State University, USA.  
-E-mail: Todd.Gaines@colostate@edu Phone number: +1(970) 420-6284
-
-- Dr. Amit Jhala, Associate Professor at University of Nebraska-Lincoln, USA.  
-E-mail: amit.jhala@unl.edu Phone number: +1(402) 472-1534
-
-- MSc. Nick Arneson, Extension Associate at University of Wisconsin-Madison, USA  
-E-mail: njarneson@wisc.edu Phone number: +1(402) 676-1618
-
-- Dr. Joshua Miller, Technical Market Manager at BASF, USA  
-E-mail: joshua.miller@basf.com Phone number: +1(402) 440-5033
